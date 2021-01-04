@@ -1,0 +1,125 @@
+[MUSIC PLAYING] OK. So welcome to today. We're going to be doing metric-to-metric conversion. I'm Christie Strong. 
+
+I am Jennifer Utz. 
+
+And we are faculty from the School of Life Sciences. 
+
+So why do our students need to know about the metric system, Christie? 
+
+Universal language when trying to communicate amongst scientists, because this idea is that within science, because it's so broad, our samples vary. So you could be a molecular biologist looking at an organelle within a cell, or say you're an ecologist looking at an entire Redwood forest. There's big differences between those, right? 
+
+Yeah, or maybe you study astronomy and you're thinking about things on a universal type of scale. 
+
+Exactly. And so the idea here is have this universal language. We're going to make it simple. It's going to be units of 10. 
+
+Perfect. 
+
+So 10, 100, 1,000. 
+
+100, 1,000. 
+
+Exactly. 
+
+Perfect. 
+
+And so to make it easy to be able to scale between the 10 to 1,000 to million, we're going to have conversion tables. And so as you can see right here, here's an example of a conversion table. And what's going to be convenient for the student is that when they look inside of their lab book, there's going to be conversion tables for them to use. 
+
+Now as scientists, what you'll see is oftentimes there's some conversions we automatically begin to memorize because we use them so much. So for me working with viruses, oftentimes, I have to use liquid media. And so I'll go liter to milliliter to microliter very, very easily, very, very quickly in my head. And so being able to use the conversion table and also being able to use conversion factors is going to be key for students to be able to do these calculations very, very quickly. 
+
+And we'll see that you're going to be doing different types of measurements in lab. You're going to be doing measurements of length. So our base unit is going to be the meter. You're going to be using measurements of volume, like with liquids, so your base unit is going to be a liter. And then you're going to be looking at mass. So your base unit's going to be the gram. 
+
+And you already see this in your everyday life. So a mater-- 100-meter dash in the Olympics. Or liter-- you want to go to the store and buy a liter of soda. 
+
+Or two. 
+
+Or two. Or if we're talking like just basic general public trivia, Breaking Bad, Mr. White? Gram, because he was making a product that he measured in grams. 
+
+Or kilograms. 
+
+Or kilograms. 
+
+Making a lot of it. OK. So we've got these fundamental systems that are shared in terms of how we measure so that if I'm collaborating with colleagues in Austria, or South Africa, or anywhere around the world, or I'm reading a study, a publication of someone's work, that we can all make sense and kind of measure things in a common system in this common universal language, and know that we're all referencing the same point. 
+
+So being able to understand metric measurements and being able to make conversions is really a fundamental skill for all subdisciplines in science. So it's really important that our students become familiar with that. 
+
+OK. So let's work through a practice example of a calculation that our students might need to perform. So typically, we'll present you a measurement in one unit and ask you to convert it to another unit. 
+
+Exactly. So let's go 4.7 meters. This is our original measurement. 
+
+Length, perfect. 
+
+And then what I want you to do is I want you to convert it into micrometers. 
+
+OK. So I am starting with 4.7 meters and I have to figure out how many micrometers is the same as 4.7 meters. 
+
+Exactly. 
+
+OK, so in order to do this, I can look back to my conversion table and come back to this idea of conversion factors, because the conversion factors are going to let me make this calculation. So I want to think about converting meters to a smaller scale of unit. 
+
+Exactly. 
+
+So let me say, OK, 1 meter is equal to 1,000 millimeters. And then I have to go even smaller than that. I have to think about 1 millimeter and how that relates to micrometers. And 1 millimeter is equal to 1,000 micrometers. So these are my conversion factors. And one of the important ideas about a conversion factor, and the reason we can use them in the way that we do, is because this conversion factor equals 1. 
+
+So I basically have a really fancy representation of saying 4.7 meters times 1 times 1, so I'm not changing any of the information about what I've measured or that amount, but I'm just changing the scale, the units that I'm representing it with. OK, so how do I start making my way through all these different scales of measurement? 
+
+So one way, especially in math, is they want to make sure that you set it up correctly. And so there's ways of checking yourself before you wreck yourself. And so the idea is, OK, I need for my meters to cancel out. So I should have this on the top and this on the bottom. OK, cancels out. Beautiful. 
+
+Perfect. 
+
+My millimeters should cancel out. This on the top, this on the bottom. Beautiful. It cancels out. And so what does that leave us with? 
+
+Gone, gone, gone, gone. Left. OK. So as students are setting these up, anytime we have the same unit in the numerator and the denominator, those cancel out as we've done here. And this is a way we can double-check that we set things up correctly, because I might make a mistake where I put one of these conversion factors in backwards. 
+
+And if I were to do that, then I would see I would have the same unit multiple times not canceling out, and then that should be a sign to me that maybe I made a mistake, and I need to step back and check my work. 
+
+Yes. 
+
+So everything should cancel out, and I should only be left with that final unit that I am after in terms of the format of my answer. 
+
+Exactly. And so that leaves us with basically 4.7 times 1,000 times 1,000, but we don't like the way that thousand's Written. 
+
+Yeah. There's going to be lots and lots of 0s there. 
+
+Exactly. So scientific notation-- how can we represent that thousand? 
+
+OK. So I could say 1,000 equals 10 to the third. 
+
+Exactly. And so the way that I know it's to the third is I move the decimal place. There's one, there's two, there's three. 
+
+Perfect. 
+
+And so you 10 to the third is the same thing as saying 1 times 10 to the third. 
+
+Right. Yeah, I did take a little. 
+
+This represents 10 to the third. This represents 10 the third. And then this ties back into our rules. 
+
+Absolutely. So we are now multiplying, which means we are going to add our exponents. OK, so coefficient stays the same. 
+
+4.7. 
+
+4.7. And then-- 
+
+Base stays the same. 
+
+Yep, base 10. 10 to the third times 10 to the third equals 10 to the sixth. 
+
+So we add the 3 and the 3, you get 6. Am I done with my answer yet? 
+
+Oh, no. Units-- it needs units. 
+
+Yep. If we don't put the micrometers, then we did not complete the answer. 
+
+Absolutely, which is a good reminder for the students, because it really is frustrating if you work out the math, and the conversion factors, and the calculation, and then you forget that last piece of the units. Because otherwise, we don't know what this number means. It's just a number, but we don't know what is being measured with that number. So that's why the units are important and always has to be there. 
+
+Exactly. And so the students are going to get an opportunity to actually practice doing this so that they become more comfortable and more proficient in executing these types of calculations because they're going to have to do it in lab throughout the semester. And we want them to be able to do this. This is real life. For many of them, they may be going into the health profession. And so if they're doing dosages-- 
+
+Absolutely. 
+
+The idea of grams versus milligrams, you could potentially OD a patient if you're not paying attention to what's going on with the units. 
+
+Yeah, absolutely. That's a great example. If you accidentally give somebody 1,000 times too much of a medication, that's a really dangerous situation. So there's very practical, real-life examples of where this type of thinking and this type of calculation skill is important. 
+
+OK. So the students should go practice, and then the expectation is you're going to do it in lab, and you may be quizzed on it in lab. 
+
+Absolutely. Absolutely. This is a fundamental skill for all fields of science. 

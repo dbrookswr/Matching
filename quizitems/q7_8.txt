@@ -1,0 +1,1 @@
+	•	Generate predictions about test results regarding in-class photosynthesis, respiration, and fermentation experiments.

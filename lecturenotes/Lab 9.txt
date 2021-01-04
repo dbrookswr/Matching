@@ -1,0 +1,241 @@
+Canvas Page 1
+Lab 9 – Splitting Up: Understanding Cell Division & Meiosis                                                                         
+Learning Goals and Skills
+ 
+What’s the Main Goal of the Lab?
+Accurately model the life cycle of a somatic cell and a germ-line cell 
+Discuss the similarities and differences between mitosis and meiosis
+ 
+ 
+How Will I Accomplish This Goal?
+By the end of the week, you should be able to:
+1)    Explain the life cycle of a cell including the process of cell division
+2)    Describe and diagram the three stages of interphase, stages of mitosis, and cytokinesis
+3)    Describe how chromosome number is reduced during meiosis and how this is important in sexual reproduction
+4)    Describe and diagram the three stages of interphase, stages of meiosis I and II, and cytokinesis
+5)    Compare and contrast spermatogenesis and oogenesis
+6)    Compare and contrast mitosis and meiosis
+ 
+ 
+ 
+What Skills Will I need To Accomplish This Goal?
+·     Having knowledge of your own thought processes
+·     Critical thinking
+·     Showing knowledge processes in a diagram/chart/table
+·      Accurately judging what you know and what you don’t know
+ 
+ [Checklist Placeholder]
+
+Next>>
+ 
+
+
+
+
+
+
+
+
+Canvas Page 2
+Lab 9 – Splitting Up: Understanding Cell Division & Meiosis                                                                         
+Cell Division and Mitosis
+ 
+How do Cells Divide?
+The link below will take you to a cell cycle activity made by the Howard Hughes Medical Institute (HHMI). As you complete the activity, look for answers to the following questions:
+	•	What are the four main phases of the cell cycle? 
+	•	For each checkpoint located in each phase, what is being checked in that phase?
+	•	How is cancer related to the eukaryotic cell cycle?
+HHMI biointeractive: https://www.biointeractive.org/classroom-resources/eukaryotic-cell-cycle-and-cancer
+
+KYLE AND KAI
+Kai: Why do cells need to divide?
+Kyle: There are many reasons that cells need to divide. Without cellular division, a multicellular organism would not be able to undergo development (a zygote developing into a baby), growth (a puppy developing into an adult dog), repair (a cut healing and forming a scar), or replacement (a lizard regrowing a lost tail). 
+
+WINDY WONDERS!!
+Do all cells divide?
+ 
+ 
+What is Mitosis?
+[HHMI video + VO] 2 versions 
+ https://www.youtube.com/watch?v=C6hn3sA0ip0
+Short real life video: https://www.youtube.com/watch?v=xvWwctJoEc8
+
+ 
+
+ELAINE SUPERBRAIN’S TASK
+
+MCQ1
+During the cell cycle, when is DNA replicated?
+	•	G1 phase
+	•	G2 phase
+C.	S-phase
+D.	Mitosis
+E.	Cytokinesis
+Feedback: Remember that each phase’s name provides a clue as to what is occuring during that phase.
+
+MCQ2
+Examine the image shown below. How many sister chromatids are shown in the image below?
+Shutterstock image adapted to only show Mitosis Prometaphase without labels:
+https://www.shutterstock.com/image-illustration/cells-divide-by-two-mechanisms-called-1370703632
+
+	•	2
+	•	4
+	•	6
+	•	8
+	•	10
+Feedback:  
+
+MCQ3
+Which stage of mitosis is illustrated in the following microscope image of a cell?
+https://www.shutterstock.com/image-photo/original-photo-two-living-dividing-cells-86913998
+Shutterstock image adapted to only show one of the cells
+
+	•	G1 phase
+	•	Telophase
+C.	Anaphase
+D.  Metaphase
+E.	Prophase
+Feedback: When trying to determine stages of mitosis, remember to examine what is happening to the chromosomes.
+
+Next>>
+ 
+Canvas Page 3 
+Lab 9 – Splitting Up: Understanding Cell Division & Meiosis                                                                           Meiosis
+ 
+What is Meiosis?
+https://www.youtube.com/watch?v=c5hA0WCv1lg&t=297s
+ 
+WINDY WONDERS!!
+How come there is no DNA replication between meiosis I and meiosis II?
+ 
+KYLE AND KAI
+Kai: How come the two daughter cells at the end of cytokinesis I are considered haploid?
+Kyle: Because each of these daughter cells technically only contains 23 chromosomes based on the number of centromeres in the cell. Each of these chromosomes is composed of two sister chromatids.
+ 
+ 
+ELAINE SUPERBRAIN’S TASK
+MCQ1
+Which stage of Meiosis is shown below?
+Shutterstock image adapted to shown Metaphase I without label: https://www.shutterstock.com/image-illustration/phases-meiosis-1-172528943
+
+
+	•	Prophase II
+	•	Telophase I
+	•	Metaphase II
+	•	Anaphase I
+E.	Metaphase I
+Feedback: Remember to examine what the chromosomes look like to determine which stage of Meiosis they are in.
+
+MCQ2
+Which of the following supports genetic diversity?
+	•	Independent Assortment
+	•	Crossing-Over
+	•	Fertilization of an egg by a sperm
+	•	Answers A & B support genetic diversity
+	•	Answers A, B, & C support genetic diversity
+Feedback: Ask yourself, what types of cellular events allow the master blueprint to change and that change be inherited by the next generation? 
+
+MCQ3
+During meiosis, when are sister chromatids separated?
+	•	Anaphase II
+	•	Prophase I
+	•	Anaphase I
+	•	Telophase II
+E.	Metaphase I
+Feedback: Remember, two divisions must occur during meiosis. 
+
+ 
+ 
+Next>>
+
+
+Canvas Page 4
+Lab 9 – Splitting Up: Understanding Cell Division & Meiosis                                                                          
+Spermatogenesis and Oogenesis
+ 
+How Are Sperm Cells and Egg Cells Produced?
+[Lightboard] Christy & Jen
+Walk students through a side by side comparison of oogenesis & spermatogenesis
+-Location, time-frame, product
+Sketch & talking out an image like this:
+
+
+ 
+WINDY WONDERS!!
+Why are the egg cells so much bigger than the sperm cells?
+ 
+ 
+KYLE AND KAI
+Kai: Why is the risk of a chromosome abnormality linked to the maternal age?
+Kyle: Upon reaching puberty, males can continuously generate millions of new sperm cells throughout their lifetimes. On the other hand, oogenesis in females begins before birth. The oocytes generated before birth can incur DNA damage during a female’s lifetime, with older oocytes having more time to potentially accumulate more damage resulting in chromosomal abnormalities.
+ 
+ 
+ELAINE SUPERBRAIN’S TASK
+MCQ1
+How many chromosomes are found in an average human sperm cell?
+	•	23
+B.	20	
+C.	33
+D.  46
+E.	15
+Feedback: Remember that gametes such as sperm and egg cells are produced by meiosis, which is a form of reductive division.
+
+MCQ2
+When will a secondary oocyte complete meiosis II?
+	•	Once the oocyte is released from the ovary
+	•	Once the first polar body is formed
+	•	After a sperm has fertilized the secondary oocyte
+	•	After the first polar body is formed but before the secondary oocyte is fertilized
+	•	Answers A & D are correct.
+Feedback: Remember, most of the time secondary oocytes do not have the opportunity to finish Meiosis II.
+ 
+Next>>
+Canvas Page 5
+Lab 9 – Splitting Up: Understanding Cell Division & Meiosis                                                                        Mitosis vs. Meiosis
+ 
+How Can I Tell the Difference between Mitosis and Meiosis? 
+ https://www.youtube.com/watch?v=zrKdz93WlVk
+ 
+How Can I Keep Track of Chromosome Number?
+https://www.youtube.com/watch?v=gcz1FOWw0Cg (1:30 to end)
+
+KYLE AND KAI 
+Kai: Why do humans need to perform both mitosis and meiosis, why not just use one type of genome division?
+Kyle: The process of mitosis allows humans to develop, grow and maintain (repair) themselves. The process of meiosis supports genetic diversity within the human population, in turn supporting the ability of the human population to evolve.
+ 
+ELAINE SUPERBRAIN’S TASK
+ 
+Sketch a comparison of Mitosis and Meiosis on a piece of paper. Be sure to number the chromosomes and use a “P” paternal and “M” for maternal. Once you complete your sketch, please upload your sketch to the discussion board.
+Group 1: Metaphase Mitosis and Metaphase I Meiosis (diploid: 8 chromosomes n=4)
+Group 2: Anaphase Mitosis and Anaphase I Meiosis (diploid: 10 chromosomes n=5)
+Group 3: Metaphase Mitosis and Metaphase II Meiosis (diploid: 12 chromosomes n=6)
+ 
+ 
+Next>>
+ 
+ 
+ 
+Canvas Page 6
+Lab 9 – Splitting Up: Understanding Cell Division & Meiosis                                                                          
+ 
+ 
+HARRY’S TIP OF THE DAY
+Organize information into meaningful parts. Research shows that to hold more information in the long-term memory, we need to organize the new information in our working memory during learning. For example, make up a story or use a rhyme even in your own native language.
+ 
+ 
+WHAT SHOULD I EXPECT FOR THIS LAB?
+ In-class lab activities will include:
+	•	Viewing microscope slides depicting stages of mitosis in animal cells and plant cells at various magnifications and then recording your observations.
+	•	Demonstrating mitosis using a bead model
+	•	Viewing microscope slides depicting stages of meiosis in animal cells and plant cells at various magnifications and then recording your observations.
+
+HOW SHOULD I PREPARE FOR THIS LAB?
+ Remember to:
+	•	Review proper microscope techniques (Link to Lab 4)
+	•	Make yourself a checklist of all of the microscope images that you will need to record. This will help you pace yourself once you are in the lab.
+	•	Practice drawing mitosis and meiosis, side by side, to help reinforce the patterns of these processes.
+ 
+ 
+Congratulations! You’ve completed the online work for Lab 9.
+See you in the lab!
+

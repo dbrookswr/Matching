@@ -1,0 +1,171 @@
+Hi, I'm Christy Strong. 
+
+I'm Jenifer Utz. 
+
+And we are faculty members in the School of Life Sciences. Jen, what are we talking about today? 
+
+Genetics. We are going to work through an example of a dihybrid cross. 
+
+OK. and so-- 
+
+Who's excited? 
+
+What we know-- students oftentimes find this challenging. The monohybrid is pretty straightforward. The dihybrid-- oftentimes, what students say is that-- I'm struggling with setting it up properly. 
+
+And that makes sense, because the dihybrid cross is dealing with two different traits, and we're looking at different alleles of the different traits, so we do have more components to keep track of, but the process is really similar. So if students get comfortable doing those monohybrid crosses, they build all the skills they need to tackle the dihybrid cross. So it's always good as a starting point to read the problem, to read the whole problem. 
+
+Half the battle-- reading the problem. So read through it first, and then what we're going to suggest is highlighting sections. So we're going to read through it first-- within a lizard population, the red belly allele-- capital R-- is dominant to the white belly allele-- lower case r. And the acid-spitting allele-- capital A-- is dominant to the non-acid spitting allele-- lower case a. 
+
+A homozygous dominant individual is crossed with a homozygous recessive individual, producing the heterozygous F1 generation. Two heterozygous individuals are crossed to produce the F2 generation. What is the phenotypic ratio of the resulting F2 generation? We made you read a lot. So now, what we have to do is we have to tear apart and extract the information-- Pull out all the important information. 
+
+Exactly. 
+
+OK, so let's go through it again and mark all the important information. OK. So we better identify what's the trait we're working with, right? 
+
+Exactly. So we need to mark our traits, we need to mark anything that's going to give us information about the interaction-- dominant-recessive in this case-- and then we'll want to follow important information about the generations, parents, and offspring, right? What's the nature of our cross? To set it up. OK, so red belly allele-- 
+
+So we're dealing with-- we know the belly gene. 
+
+Right, we've got belly color. 
+
+So we've got here a capital R, which is dominant-- or a lower case r, right? So-- 
+
+Absolutely. 
+
+Red versus white. 
+
+Right. 
+
+OK, but we know it's a dihybrid. 
+
+Right. So we've got a second trait-- acid spitting. 
+
+[INTERPOSING VOICES] 
+
+I forgot to-- 
+
+[INTERPOSING VOICES] 
+
+--y there, and then-- 
+
+Acid spitting. 
+
+Capital A. Yep, dominant. And non-acid spitting, lower case a. 
+
+The struggle is real. 
+
+--Recessive OK, so spitting. This is a fun problem-- I'd like to see a red-bellied acid-spitting lizard. OK, so no acid. OK. 
+
+So we've got our characters. We've got our traits. We've got our alleles. We've got this dominant-recessive relationship mapped out. OK, so now let's figure out what's happening processing this information. So we had homozygous dominant. 
+
+So that means if it's homozygous-- 
+
+Same. 
+
+Dominant has to be-- 
+
+Dominant. 
+
+All capital letters. So we've got someone-- 
+
+In this case, homozygous dominant individual for both of these-- so dominant for belly color, both alleles; and dominant for acid spitting, both alleles. OK, so we mapped out-- we represented our genotype of that individual crossed with homozygous recessive. And again, homozygous recessive for both traits-- 
+
+Got to be lowercase for both. 
+
+So lowercase r, lowercase r; lowercase a, lowercase a. 
+
+Notice how I'm putting marks so I can keep track of what I'm doing, because it's lots of pieces and parts. So we got to make some babies. 
+
+All right, so now we're going to think about our crosses. So the problem tells us these individuals crossed, producing a heterozygous F1, so these would have been our parents, our parental generation. 
+
+Yeah. So heterozygous, we know you got to have a capital, and you got to pair it with a lowercase. 
+
+Right. And if you look at the parents, this makes sense, because-- the parent with the asterisk, I can only give you capital R. So there's my capital R. The parent with the check mark, I can only give you lowercase r-- there's my contribution, lowercase r. Same thing with the capital A and the lower case a. So here's your F1 heterozygous individual, right? So we've got our F1 heterozygous individual represented here. But we're still not done yet, all right? We're actually just getting started. So we're going to take two heterozygous individuals, and cross them to produce the F2 generation. 
+
+So it's like-- I have to have two individuals with this capital R, lowercase r, capital A, lowercase a genotype-- and then I'm going to cross them to produce the F2 generation. Now when I'm looking at these two individuals, each individual is diploid, right? So they have two copies of each gene. Now to be able to eventually get the F2 generation, I have to generate gametes. Gametes are haploid. So within a gamete-- so within a sperm or within an egg-- you can only have one copy of each gene. 
+
+So when I look at that little sperm cell, it better have only one copy of the R and one copy of the A. This is where students make the mistake. 
+
+OK, so this is the part where it's really important to pay attention. 
+
+Exactly. And so they're both the same genotype, so I can figure out the gametes for one-- I know the gametes-- 
+
+And it's going to be exactly the same for the other. 
+
+Exactly. And so I'm going to squanch over a little bit on you. 
+
+Sure. 
+
+To be able to show them how to do this. So we've got, again, capital R, lowercase r, capital A, lowercase A. I can do a really simple way to figure out my gamete possibilities. I have to have an R, I have to have an A. So I could have capital R, capital A. That is one possibility that I can work with. But I could take this R and I could pair it with this lowercase A-- so I can have a capital R and a lowercase a, right? And so you guys are probably starting to figure out, what is she doing? 
+
+Right? 
+
+Lowercase r-- 
+
+Mapping out all the possibilities. 
+
+Capital A. If I can borrow your yellow for two seconds, we got lowercase r, lowercase a. These are my gamete possibilities, right? I'm going to duck down here real quick, my blue marker. So you can see we have four possibilities that we work with, which actually-- this is what you want to be able to see, because when you do a dihybrid, there are 16 boxes that you're going to be working with. Before monohybrid, four. Dihybrid, 16. And the reason why is we're going to have parent number one represented gamete-wise across the top, so four possibilities, products of meiosis. 
+
+And then parent number two is going to be depicted along the left hand side-- all the gamete possibilities. So it's like, OK, we'll set this up. Remember, both parents had the same genotypes. So I'm going to say-- parent number one, capital R, capital A. Great. Parent number two-- capital R, lowercase a. Skipping ahead on them. Gamete number three-- lowercase r, capital A. Then I'm going to steal a yellow from you-- last but not least, lowercase r, lowercase a. So this is the four gamete types generated from one parent. 
+
+On the other side, the other parent-- exact same genotype. We do the exact same thing. Capital R, capital A. 
+
+And of course, we should remember that the capital and lowercase formatting of the letters is carrying information about the interaction of the alleles. So all those capitals are representing the dominant allele, and all those lowercases are representing the recessive. 
+
+Exactly. 
+
+And so-- students, we set it up beautifully. Now we need to execute. And what's kind of cool about this is if you read the very last line, what they want to know is your phenotypic ratio. So they want to know-- has it got a red belly or a white belly? 
+
+Right. Can it spit acid or not? 
+
+So here we can kind of start-- and we got technical difficulties, guys. 
+
+Come back on, please. 
+
+Come back on. There we go. So with this, if it was asking for genotype, we'd have to be a bit more specific. But phenotype, there's a little bit of flexibility because of the whole dominant-recessive. What I'm talking about-- if I have one capital R, doesn't matter what the second one is-- that is going to be dominant. It could be capital R capital R, or capital R lowercase r-- it's going to give me a red belly. If I have a capital A in one position, and I don't know what the other one is-- as long as I have one capital A, it's going to be an acid spitter. 
+
+So this is phenotype, and so it makes it very easy when talking about phenotypes to figure stuff out. So anybody that's got at least one capital R and one capital A, you're going to be red bellied, and you're going to be an acid spitter. What does that tell me? It tells me this entire column fits that requirement, based on this gamete. This gamete is bringing a capital R and a capital A. So I know that everybody here is going to end up being-- I'm going to put red, acid. Right? Doesn't matter what's going on with the other guys-- it's going to be a red-acid because it has that. 
+
+Now we have that gamete for parent number one, you have that gamete for parent number two. Same thing all the way across, right? So we're going to have red-acid here, red-acid here, and red-acid here. So you are seeing the dominant phenotype for both genes, right? OK. So, cool. That makes sense. Now, you can get different combinations. So here was one dominant represented for each gene. You could get dominant represented for the belly gene, and you could be strictly recessive for the spitting gene, right? 
+
+And so we saw this guy was red with acid. This one's going to be red but no acid. OK, so we can have [INAUDIBLE]. Well, we can go lowercases with a capital, like so. So if we have two lowercase Rs, we know you have to have a white belly. And as long as you have one capital, right? You're going to spit acid. And then last but not least, you can be completely recessive, right? And so you could be white-- 
+
+No acid. 
+
+Yeah, no acid. So these are the four phenotypes that we can see, right? And so then the student just solves to figure out, OK, what's going on? The dominant one's easy to figure out-- very, very quickly. Everybody else, we want to write out the information. Otherwise, you're going to mess it up. Potentially. So let's take-- 
+
+Everything along the top, we fill down the column. Everything we have along the side, we fill across the row. 
+
+Exactly. 
+
+And if our students wanted to fill out the entire chart, that's-- 
+
+They could absolutely do it. 
+
+--OK thing to do. 
+
+Yeah. And so-- here, I can do it pretty quick. It's like [GRUNTS]. And then what you want to do is once you actually have this completely filled out, check yourself, because oftentimes we will go very, very fast because we're doing a test, and we'll make mistakes. And so that breaks my heart when I see a student had set up the gametes beautifully, but when they actually went to fill in the table, whoops, we screwed up, and so that makes things unfortunate. You also really want to pay attention to how you are writing your letters, your capital letters versus your lowercase. 
+
+You don't want to make a mistake because you can't interpret your own handwriting. 
+
+Yes, because sometimes that's why my A's are very, very different. I don't do a little a with just a smaller version of the way I wrote the big guy. I want to keep these straight. OK, so then we just go through, and we've already done the red-acid. Great-- now I want to find red, no acid. So I've got to have at least one capital R and then two baby a's, two lowercase a's. So you got a capital R and two baby a's-- you meet my requirement, OK? Capital R big A-- no, you don't meet my requirement. 
+
+Capital R, two baby a's you meet my requirement. Capital R big A, no. Lower case-- no. Lower case r-- no. Capital R two baby a's, you meet my requirement. So what I can see here is three of them have met my requirements so far. Right? OK, so then what we do is we go on to the next phenotype-- white and acid. So I got to have two baby rs. OK, that guy, no. Here's two baby rs, and I want to spit acid, so it's got to have at least one capital-- OK, you fit my requirement-- good. Two baby rs, capital A-- you fit my requirement, good. 
+
+Two baby rs, a big A-- you fit my requirement. There's three of you. So here, I've got three of you that'll be white bellied and acid spitters. Cool. Then we go-- OK, lower case r, low case r, lower case a, lower case a-- white. I've only got one of you, But you notice there are still some boxes that I haven't filled in. They're going to go back to our red and acid, right? Capital R, capital A-- oh, you're red belly, and you spit acid. Capital R capital A-- technical difficulty. Come back on. You spit acid. 
+
+And so it's like, OK, is everybody else filled in? Yes, so I've got this guy, this guy, this guy, this guy. This one, this one, this one. So we got 1, 2, 3, 4, 5, 6, 7, 8-- 
+
+And nine. 
+
+And so when I look at my phenotypic ratio, what I'm seeing is, I have a 9 to 3, to 3, to 1 ratio. So nine red-bellied acid spitters, three red-bellied no acid spitters, three white-bellied acid spitters, and one white belly no acid spitter. And this is actually a very famous ratio that Mendel came up with-- so 9 to 3, to 3, to 1 phenotype. Genotype would be different, right? Because you have different combinations than just these four possibilities. So here I've shown my work, I've checked myself, and then I would make sure that I'm highlighting what I want the grader to focus on right here. This is my answer. 
+
+So always, in the end, we should go back to the beginning, read the problem again, and double check that our final answer is the answer that was requested in the problem, because again, especially when we're problem solving with these genetics questions, we have to do a little bit of back and forth. We read the problem, it gives us some information, we get started. We go back to the problem, right? 
+
+Apply that information, take the next step. So there's lots of different things that problems can ask for, right? This case, we asked just the total ratio what the problem might ask us, just for the number of this particular phenotype, or how many individuals would have a particular genotype, or it might ask us, what could the gametes look like? So we always at the end want to make sure that we go back, double check the problem, double check our answer, and make sure our final answer is addressing whatever was asked of us in the problem. 
+
+You really do want to do that, because if I only asked you for the gametes, and you went and did all of this, how much time did you just sacrifice, right? So again, eyes on the prize. What do they want to know? And then you just get comfortable doing this. Practice-- more and more you practice, the better you get at evaluating information quickly, and the better you get at setting these up quickly and correctly. 
+
+Absolutely-- practice is really important. You don't want the first time you try to work through this to be while you're taking the exam, right? You want to do lots and lots of practice, so when it comes to exam time, you're really comfortable with working through these problems. 
+
+All right, so you should practice these. There are sources on the internet where you can find additional problems to practice. You can always ask your lab instructors for additional information. The more you practice, the better you get. So we will see you in lab. 

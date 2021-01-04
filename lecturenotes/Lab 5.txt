@@ -1,0 +1,178 @@
+Canvas Page 1
+Lab 5 Overview: Catalyst of Change- Understanding Enzymes 
+
+
+
+
+Learning Goals and Skills
+ 
+What’s the Main Goal of This Lab?
+This week you will be able to:
+Accurately execute and interpret experimental tests to investigate enzymatic activity. For a selection of samples, students will also test the effect of a variable (temperature, pH) on enzymatic activity.
+
+How Will I Accomplish This Goal?
+By the end of the week, you should be able to:
+1)    Diagram the relationship between metabolism, enzyme, activation energy, substrate, and active site 
+2)    Discuss how enzymes function and how function can be affected by external factors (temperature, pH, salinity, concentration of enzyme, concentration of substrate)
+3)    Describe the effects of pH and temperature on catalase activity
+4)    Generate predictions about test results for presence of catalase in provided tissue samples
+5)    Compare and contrast ninhydrin-treated curd results in the presence or absence of bacterial protease
+
+What Skills Will I need To Accomplish This Goal?
+	•	Performing tests accurately
+	•	Effectively communicating test results
+	•	Decision making
+	•	Critical thinking
+	•	Having knowledge of your own thought processes 
+	•	Showing knowledge processes in a diagram/chart/table
+	•	Accurately judging what you know and what you don’t know 
+
+[Checklist Placeholder]
+
+
+
+Next>>
+
+
+
+
+
+Canvas Page 2
+Catalyst of Change: Understanding Enzymes                                                                                                                                                    
+Lab 5: Enzymes
+
+Why are Some People Lactose Intolerance?
+
+Many of you have probably heard about lactose intolerance in your everyday life but may not have really understood what being lactose intolerant entails. So what is lactose intolerance? Lactose intolerance is a person’s inability to break the disaccharide lactose into the usable monosaccharides glucose and galactose. This may be the result of the person not producing any of the enzyme lactase or only producing low amounts of this protein. 
+
+ https://www.hhmi.org/biointeractive/lactose-digestion-infants
+
+Because a lactose intolerant person has a deficiency in lactase production, they are unable to properly utilize this food resource. Now that we know that lactase enzyme is the key for being able to use lactose, let’s discuss how enzymes work in general.
+
+What Are Enzymes? 
+
+
+Enzymes are catalysts which means that these molecules speed up the rate of a chemical reaction without the enzymes being changed. If you zoom in on an enzyme, you can see that the enzyme contains an active site. The active site is the region of the enzyme where the enzyme can interact with its targets. Enzymatic targets are also known as reactants or substrates. Each enzyme has very specific substrates that the enzyme will target. 
+In order to catalyze a reaction, an enzyme must bind to its target(s) via the enzyme’s active site. By doing so, an enzyme-substrate complex is formed. The enzyme will change conformation when initially bound to its substrate(s) resulting in an induced-fit that allows the enzyme to better “grasp” its substrate(s). Now, the enzyme can catalyze a specific reaction. In the example shown here, enzyme 1 is catalyzing a reaction to combine its two substrates to form a product. 
+
+ 
+
+Which Enzymes Will Be Used in Lab?
+In lab, we will be conducting experiments using the enzymes catalase, rennilase (chymosin), and bacterial protease. As you can see from the images below, these enzymes have unique shapes (also known as conformations). A major concept that we need to understand with regard to enzyme function is that enzyme shape determines enzyme function.
+
+
+Mockup of examples of these enzymes from Protein Data Bank: https://www.rcsb.org/
+(5DYN (bacterial protease), 1CMS (chymosin), 1A4YE (Catalase)
+Catalase is an enzyme that targets the substrate hydrogen peroxide (H2O2) to produce H2O liquid and O2 gas. Catalase is made in a variety of cells, with some cells producing more catalase than others. In your lab experiments, you will perform a variety of tests using samples that may vary in the amount of catalase produced. You will be able to indirectly detect catalase activity by monitoring your experiments for bubble formation (release of O2 gas).
+
+Rennilase, also known as rennin or chymosin, is an enzyme that targets the substrate casein (a milk protein) to produce para casein. Treating milk with rennilase allows for the conversion of milk proteins from a soluble state to an insoluble state (from liquid to solid) resulting in the formation of curds (cheese). In your lab experiments, you will be using rennilase to make curds to be used in a follow-up experiment. You will be able to indirectly detect rennilase activity by monitoring your experiments for the product of the reaction; curd (cheese) formation.
+
+The bacterial protease is an enzyme that targets peptide bonds found in proteins, resulting in the release of individual amino acids. You will be using the curd you produced in lab as a source of protein to be targeted by bacterial protease. You will be able to indirectly detect bacterial protease activity by adding the chemical ninhydrin to your samples. Ninhydrin is a chemical indicator that reacts with free amino acids to produce a purple pigment that can be seen with the naked eye. A color change to purple indicates that a sample contains free amino acids.
+ 
+KAI & KYLE!!
+Kai: Why can’t rennilase be used to target H2O2 or catalase be used to target peptide bonds?
+Kyle: An enzyme’s shape or conformation is key to an enzyme’s activity. The active site of rennilase is shaped or constructed to recognize and bind with peptide bonds, not H2O2. Shape determines function, so if the enzyme is not the right shape for a specific function, the enzyme can not perform that function.
+
+How Are Enzymes Related to Metabolism?
+
+Metabolism encompasses all of the chemical reactions that are performed in an organism. Some of these chemical reactions are used for building and are therefore labeled anabolic reactions. Other reactions in the organism are used for breaking and are therefore labeled catabolic reactions. Enzymes are key to the ability of the organism to perform all of these types of reactions in a physiologically relevant time frame. Often, chemical reactions occur in a series known as a metabolic pathway. One way to think of a metabolic pathway is like an assembly line. The first worker in the line performs their job properly so that the second worker can perform their job properly. This concept is shown above where Enzyme 1 catalyzes a reaction to produce a product that is then used as a substrate by Enzyme 2 to produce a final product. Just like in an assembly line, a metabolic pathway needs to be able to signal to the workers (the enzymes) to take a break from their jobs. This can be accomplished through a process known as feedback inhibition (negative feedback). As more and more of the final product accumulates near the enzymes, the opportunities for the final product to bind to Enzyme 1 increase. If the final product binds to Enzyme 1 using an allosteric site (a site that is not the active site), Enzyme 1 will undergo a conformational change (shape change). This conformational changes hides Enzyme 1’s active site, preventing Enzyme 1 from interacting with its substrate and therefore temporarily stopping the metabolic pathway. Once the amount of final product decreases sufficiently, Enzyme 1 will be free of the final product as a binding partner and can then begin its enzymatic activity once again.
+
+What is Activation Energy?
+
+https://www.youtube.com/watch?time_continue=53&v=zDd1yi2aVoOc
+	•	Diagram: reactant, product, Gibbs free energy, activation energy, enzyme
+ 
+WINDY WONDERS!! 
+What are some examples of human-based catalysts?
+
+ELAINE SUPERBRAIN’S TASKS
+Generate a concept map using the following terms: Reactant, Substrate, Enzyme, Catalyst, Product, Induced fit, Enzyme-Substrate Complex, Activation Energy, Metabolism, Metabolic pathway, Feedback Inhibition, Active Site.
+
+
+
+Next>>
+Canvas Page 3 
+Catalyst of Change: Understanding Enzymes                                                                                                                                  
+Lab 5: Environmental Factors
+
+What Are the Effects of Different Variables on Enzyme Activity?
+
+There are many external factors that can affect the activity of an enzyme. As we have discussed previously, the conformation (shape) of an enzyme is critical for an enzyme’s function. Different enzymes fold into different shapes and therefore will possess different functions. In addition, these different enzymes are often found in different types of environments. These environments may vary in their temperature range, salinity range, and even their pH range. 
+
+For example, the digestive enzyme pepsin, is found in the human stomach and performs optimally at pH 2 (see graph above). On the other hand, the enzyme salivary amylase is found in the human mouth and performs optimally at pH 7. To determine the optimal pH of an enzyme depicted in a graph, you need to find the center of the curve’s peak and then draw a line straight down to the X-axis (pH). To practice, see if you can determine the optimum pH of arginase, an enzyme found in the human liver.
+
+Another factor that can influence an enzyme’s activity is temperature, see graph below.
+
+Each enzyme has an optimal temperature for its activity. In general, for human enzymes, the optimal temperature is near 37 ̊C as shown above. Too low of a temperature and an enzyme’s activity may be slowed.  Temperatures lower than an enzyme’s optimal temperature may reduce the number of interactions that occur between the enzyme and its substrate population. Too high of a temperature and the enzyme’s activity may be completely stopped. Temperatures higher than an enzyme’s optimal temperature may cause the enzyme to lose its shape by unfolding. This is known as denaturation.  
+
+WINDY WONDERS!!!
+Do you think all enzymes perform the same in all environments?
+ 
+
+ELAINE SUPERBRAIN’S TASKS
+[2-3 MCQs]
+MCQ1
+Look at the enzyme diagram shown below. Which statement about this enzyme diagram is correct? Lisa request to make prettier version of image below
+
+
+A. The optimal temperature is 5 ̊C for this enzyme’s activity.
+B. The optimal temperature is 9 ̊C for this enzyme’s activity.
+C. The optimal temperature is 14 ̊C for this enzyme’s activity.
+D. The optimal temperature is 17 ̊C for this enzyme’s activity.
+E. The optimal temperature is 25 ̊C for this enzyme’s activity.
+Feedback: Try again! Remember to find the center of the curve’s peak to determine the optimum.
+
+MCQ2
+Look at the enzyme diagram shown below. Which statement about this enzyme diagram is correct? Lisa request to make prettier version of image below
+
+
+A. The optimal pH is 2 for this enzyme’s activity.
+B. The optimal pH is 3.5 for this enzyme’s activity.
+C. The optimal pH is 6.5 for this enzyme’s activity.
+D. The optimal pH is 8 for this enzyme’s activity.
+E. The optimal pH is 11 for this enzyme’s activity.
+Feedback: Try again! Remember to find the center of the curve’s peak to determine the optimum.
+
+
+Next>>
+
+Canvas Page 4
+Catalyst of Change: Understanding Enzymes                                                                                                                                  
+Lab 5: Catalase Experiment
+ 
+How is the Catalase Experiment Done?
+[Procedural video in lab] 
+ 
+How to Make Cheese?
+[Procedural video in the lab] 
+
+ELAINE SUPERBRAIN’S TASKS
+
+
+Directions: After reading through the experiments provided in the lab manual, attempt to complete the following table. For some of the experiments, a category may not be applicable and should be indicated as such by writing NA (not applicable). Bring a hardcopy of your completed table to your lab session in order to receive credit. There will be an in-lab discussion on this material.
+
+
+Next>>
+
+
+Canvas Page 5
+Lab 5: Catalyst of Change-Understanding Enzymes                                                                                                                                  
+ 
+ 
+HARRY’S TIP OF THE DAY
+Explain to yourself or someone else what you learned after you watch a video or read a text. Self-explanation is proven one of the most effective ways of pushing information to your long-term memory.
+ 
+WHAT SHOULD I EXPECT FOR THIS LAB?
+In class lab activities will include:
+	•	Performing experiments with specific enzymes either found in tissue samples or to be added as individual components
+	•	Analyzing experimental results by comparing and contrasting your experimental sample results with the experimental control results
+
+ 
+HOW SHOULD I PREPARE FOR THE LAB?
+	•	 Carefully review each experimental protocol to be performed in the lab. For each experiment, in your own words, write out each step of the experiment and why you think that this step is important for the experiment to work correctly. By doing this, you will be more comfortable in your knowledge of what needs to be done in the lab before you arrive. In addition, you will reduce the amount of time you spend in the lab trying to look up what you need to next in the experiment. 
+
+
+Congratulations! You’ve completed the online work for Lab 5.
+See you in the lab!
+
+

@@ -1,0 +1,397 @@
+Lab 1 – Introduction to BIOL 189 Laboratory                                                                                                     Canvas Home Page 
+Introduction
+
+Welcome to BIOL 189 Laboratory (Fall 2019) 
+
+Introduction Video
+Video segments:  [Scene1: Actor talking about Connection w/ lectures]..Pause..[Scene2: Instructional Rules for collaborating w/ other students, experimenting, learning]..Pause..[Scene3: Conclusion to start the course] (Jen and Christy)
+
+Scene 1: (1st choice is puppets/animated characters, 2nd choice is Christy & student on location in the lab)
+Why does Biol 189 have a lab? The goal of the Biol189 laboratory experience is to reinforce and extend your understanding of biology-based concepts presented in lecture. Each lab, you will explore select lecture topics in a deeper manner through online activities and in-person hands-on labs. Before coming to the lab, you’ll need to complete the online portion of the course on your own. This prepares you to get the most out of your experiments while giving you the flexibility to complete your work at a convenient time.  
+
+The online content is accessible through WebCampus and includes short videos, brief readings, learning activities, and learning tips. All course components are designed based on research about effective learning. At the end of each lab’s material, you’ll see information about what to expect in the lab and what you need to do to prepare for the lab.
+
+Let us introduce you to your course guides: (dream request: animation of the characters waving as they are introduced - not a priority)
+	•	Windy Wonders brings up questions that you might have in mind. Research shows reflective questions help you remember and process information better.
+	•	Elaine Superbrain helps you practice what you’ve just learned. Research shows practice strengthens your learning of new information. Elaine Superbrain’s tasks can be multiple choice or open-ended questions, or she might ask you to draw something and share it with your peers in the discussion forum. 
+	•	Kyle and Kai model the type of conversations that you should be having with fellow students to ensure you’re building your knowledge. Self-testing and questioning are strong learning techniques. Kai’s questions might be YOUR questions.
+	•	Harry gives you the best tips for learning so you can be a successful student. 
+
+Scene 2: (1st choice is Christy narrating over PPT, with pictures interspersed, 2nd choice is a paragraph of text)
+Science is a collaborative process, where you can share observations, hypotheses, experimental designs, and data. You are encouraged to engage in these types of behaviors when appropriate. However, this does NOT include sharing information with a lab mate during a quiz. Comparing the data you generated in your experiment with the data from your lab mate’s experiment is encouraged. 
+
+We know that in the real world many different personality types exist. Everyone needs to constantly refine their ability to work with a variety of folks. The same is true in lab. In a perfect world, working with your lab mates may just be easy breezy the entire semester. However, what you may find is that working relationships are just that--WORK. To support a healthy working relationship in the lab, we encourage you to be clear in your expectations of one another and be professional in your communications. Come prepared for lab and be respectful of one another’s time and perspectives.
+
+Scene 3: (paragraph of text)
+In summary, we have discussed the purpose of the lab and how to work collaboratively with others. Each lab, you will be adding to and refining your skill sets in synthesizing biology-content, designing/interpreting experiments, and effectively collaborating with others. Let the games begin!
+
+What Will I Get From This Lab Course?
+By the end of this semester, you will be able to:
+Use scientific methods to understand chemistry, cell biology, enzymes, metabolism, cell division, DNA and genetic information, evolution, and ecology
+
+Course Roadmap:
+Lab 1: Lab Safety and Scientific Measurements
+	•	Review lab safety policies to experiment safely
+	•	Review scientific notation and practice applying it
+	•	Practice taking and interpreting scientific measurements
+Lab 2: Scientific Method and Experimentation
+	•	Plan, conduct, evaluate, and refine an experiment
+	•	Make accurate and detailed observations
+	•	Collaborate with peers and communicate experiment results
+Lab 3: Basic Chemistry
+	•	Review atomic structure, chemical bond formation, and characteristics of biological macromolecules
+	•	Use chemical reagents to determine the chemical composition of real-life samples
+	•	Test for the presence of hydrogen ions, carbohydrates, lipids, and proteins
+	•	Collaborate with peers to interpret and communicate test results
+Lab 4: Microscopy and Cells
+	•	Become familiar with the parts and use of a compound microscope
+	•	Compare and contrast prokaryotic and eukaryotic cells
+	•	Compare and contrast plant and animal cells
+	•	Record detailed observations of all slides (both wet mounts and stained
+Lab 5: Enzymes
+	•	Review enzymes and chemical reactions
+	•	Test enzyme function under different environmental conditions
+	•	Collaborate with peers to interpret and communicate test results
+Lab 6: Diffusion and Osmosis
+	•	Review cellular transport
+	•	Conduct experiments to examine different types of cellular transport
+	•	Collaborate with peers to interpret and communicate test results
+Lab 7: Photosynthesis and Respiration
+	•	Review Photosynthesis and Respiration
+	•	Conduct experiments to identify different components involved in photosynthesis
+	•	Conduct experiments to examine products of photosynthesis and respiration
+	•	Collaborate with peers to interpret and communicate test results
+Lab 8: DNA
+	•	Review RNA, DNA, Chromosomes, DNA replication, transcription, and translation.
+	•	Conduct an experiment to purify DNA from a laboratory sample
+	•	Collaborate with peers to interpret and communicate test results
+Lab 9: Cell Division
+	•	Review cell division and meiosis
+	•	Compare and contrast cells undergoing cell division versus meiosis
+	•	Collaborate with peers to interpret and communicate test results
+Lab 10: Genetics
+	•	Review the relationships between genes, alleles, genotype, phenotype, Mendel’s laws and prediction using Punnett squares
+	•	Conduct experiments to determine genotypes, phenotypes, and allele frequencies.
+	•	Collaborate with peers to interpret and communicate test results  
+Lab 11: Evolution and Taxonomy
+	•	Review macroevolution and microevolution
+	•	Conduct experiments based on the different types of techniques used to examine evolution
+	•	Collaborate with peers to interpret and communicate test results
+Lab 12: Ecology 
+	•	Review ecosystems and biospheres
+	•	Conduct experiments to examine factors that influence ecosystems and biospheres
+	•	Collaborate with peers to interpret and communicate test results
+
+How Can I Navigate the Course in Canvas?
+
+ Let’s Get Started!
+
+
+Canvas Page 1
+Lab 1 – Lab Safety and Scientific Measurement    
+Overview: Lab Safety and Scientific Measurement
+[Roadmap placeholder]
+
+Learning Goals and Skills Add header between roadmap and post-its
+Change post-it colors to lighter colors for more contrast and to be more similar to colors of real post-it notes. 
+We like these colors
+#ffffcc	#e6e6ff	#ccffe6
+#ffffb3	#ccffff
+
+
+What’s the Main Goal of This Lab?
+	•	Know how to be safe in the lab and perform scientific measurements 
+
+How Will I Accomplish This Goal?
+By the end of the lab, you should be able to:
+	•	Explain lab safety practices regarding attire, personal items, chemical spills, chemical disposal, glassware, and fire
+	•	Add, subtract, multiply, and divide using scientific notation
+	•	Convert a given metric unit to another unit
+	•	Measure length, mass, volume, and temperature using metric units
+
+What Skills Will I Need to Accomplish This Goal?
+	•	Conducting scientific measurements for a study
+o   Accurately use the metric system & appropriate equipment
+o   Accurately perform math calculations
+	•	Having knowledge of your own thought processes 
+
+Click the link below to access the checklist for this lab. The purpose of the checklist is to allow you to keep track of what needs to be accomplished for the online component of this lab.
+[Checklist Placeholder] File name will be Lab 1 Checklist
+
+Add progress bar at end of page, show 20% complete
+NEXT>>
+
+
+
+Canvas Page 2
+Lab 1 – Lab Safety and Scientific Measurement Add header at top of page
+Lab Safety 
+
+How to Be Safe in the Lab (1st choice on location in lab (priority), interspersed with images, 2nd choice voice over with images, characters)
+[Video in the lab] (Jen / Christy)
+
+To safely perform experiments in a laboratory setting, you must be aware of and follow safety guidelines. You already do this type of thing in your everyday life. For example, when cooking in your kitchen, you make sure to keep flammable items away from the stove burners when they are on without even actively thinking about it. 
+To keep you and your fellow labmates safe in the laboratory space, we need to discuss the following items:
+	•	Proper attire: You need to wear 1) closed-toed shoes, 2) secured hair, and 3) pants/shorts/skirts/dresses that come at least to knee length. We work with a variety of substances and items that you would not want to drop on bare skin or fragile bones (such as those found in your feet). In addition, long hair can easily be dragged through biological samples if it is not secured with a hair tie. Yuck! In addition, you should avoid wearing long, dangling jewelry in the lab because the jewelry can catch on items, such as a microscope.
+	•	Personal items such as bags: Cubbies are provided at the back of the lab to store your personal items. Keeping the lab bench space clear of bags can help prevent accidents (spilling things on personal items, tripping on bags etc.)
+	•	No Food or Drink on the lab benches: You do not want to accidentally eat or drink materials from lab. The easiest way to prevent this from happening is to never bring food or drinks anywhere near the lab bench.You can keep your water bottle in a cubby at the back of the room. Just step back into that designated cubby space if you need to take a drink of water.
+	•	Lab hygiene: You will be provided with latex-free gloves when a laboratory activity requires students to handle biological samples/chemicals. After every lab, you should thoroughly wash your hands because eww gross lab germs!
+	•	Chemical spills: If you accidentally get a chemical in your eye, immediately move to the lab eye wash station and flush your eyes continuously with water. If you see a person get some chemicals in their eyes, help guide them to the eye wash station and immediately tell your laboratory instructor. If you accidentally spill a toxic chemical on yourself, immediately move to the safety shower and pull the lever to soak yourself. Your lab instructor will remind you at the beginning of every lab whether or not certain chemicals pose lab risks.
+	•	Horseplay: One way to avoid lab accidents is to avoid rough housing, running, or careless behavior in lab in the first place.
+	•	Chemical handling/disposal: Some labs may require you to work with chemicals in a chemical fume hood. Some labs may require you to dispose of chemical waste after an experiment in a specifically labeled container. Your lab instructor will remind you at the beginning of the lab if you will be working with these types of chemicals that day.
+	•	Glassware: In lab, you will be working with glassware. Glass chips. Glass breaks. Glass cuts. If you notice your glassware is chipped, please let your lab instructor know. If you break some glassware: STOP. Do not go past GO. In other words, don’t touch the broken pieces! Immediately tell your lab instructor that so they can clean up the broken pieces using appropriate tools (broom and pan). If your glassware is cracked, dispose of the glassware in the glassware disposal bin. 
+	•	Fire: In case of fire, calmly exit the lab space through the lab door. If something is on fire, quickly communicate that to your laboratory instructor (Where is the fire, What is on fire). Please note that there is a fire extinguisher hanging on the wall in the lab space.
+	•	Allergies: If you may be allergic to samples in a specific lab, please let your lab instructor know.
+
+Following these guidelines will support a safe environment to get your experimenting on!
+
+Add progress bar at end of page, show 40% complete
+
+NEXT>>
+
+
+Canvas Page 3
+Lab 1 – Lab Safety & Scientific Measurement    
+Metric System and Conversions
+
+Scientific Notation
+[Video using lightboard, Jen/Christy]  
+
+In biology, scientists need to be able to communicate measurements to other scientists. Sometimes what the scientist is measuring may be very small (a bacterium) or may be very large (the distance from Mars to Venus). Use of scientific notation allows scientists to easily manage data and equations using very small numbers or very large numbers.
+
+When we examine a number written in scientific notation, we see that there are three components to how the number is written: the coefficient, the base, and the exponent. 
+
+For example 1.5 x 103: 1.5 represents the coefficient, 10 represents the base, and 3 represents the exponent.
+
+Now that we understand how to represent a number in scientific notation, let's discuss how to add and subtract numbers written in scientific notation.
+
+To add or subtract numbers written in scientific notation, first make sure that the numbers are converted to the same exponent.
+
+For example, if I were going to add (3.2 x 106) + (4.1 x 107), I could convert the 3.2 x 106 into 0.32 x 107. This change required the exponent to shift from 6 to 7. When this occurred, the decimal place in the coefficient also shifted one place to the right (3.2 to 0.32). Now I can go ahead with the addition process by adding the two coefficients (0.32 + 4.1) and leaving the base (10) and exponents (7) the same. The resulting answer is 4.42 x 107.
+
+To multiply numbers written in scientific notation, multiply the coefficients and add the exponents. 
+For example: (6.5 x 109) x (1.3 x 107)
+To solve this problem, you would multiply the coefficients (6.5 x 1.3 = 8.45) and then add the exponents (9 + 7 = 16) to reach the answer: 8.45 x 1016
+
+To divide numbers written in scientific notation, divide the coefficients and subtract the exponents. 
+For example: (6.5 x 109) 
+ (1.3 x 107)
+To solve this problem, you would divide the coefficients (6.5  1.3 = 5.0) and then subtract the exponents (9 - 7 = 2) to reach the answer: 5.0 x 102
+
+ELAINE SUPERBRAIN’S TASKS
+Answer the following questions to practice what you learned. For the multiple choice questions, choose the correct answer, and for the open-ended ones, type your answer in the box. Click on Submit after you answer each question to see the feedback. 
+
+MCQ1
+When multiplying two numbers such as (3.1 x 1015) x (2.5 x 1012), the exponents are
+A. Added (15 + 12 = 27)
+B. Subtracted (15 - 12 = 3)
+C. Multiplied (15 x 12 = 180)
+D. Divided (15/12 = 1.25)
+E. Ignored
+Feedback: Try again! When multiplying numbers with exponents, add the exponents and multiply the coefficients.
+
+
+MCQ2
+When subtracting two numbers such as (7.0 x 108) - (2.5 x 107)
+A. If the exponents are different, just add or subtract the coefficients: (7.0 x 108) - (2.5 x 107)
+B. If the exponents are different, change to the largest exponent and then subtract
+    (7.0 x 108) - (0.25 x 108)
+C. If the exponents are different, subtract the exponents
+D. If the exponents are different, multiply the exponents
+E. If the exponents are different, divide the exponents.
+Feedback: Try again! When subtracting numbers with exponents, adjust the numbers so they have the same exponent and then subtract the coefficients.
+
+MCQ3
+Solve the following: (4.5 x 1013) 
+ (2.3 x 103)
+A. 1.96 x 1010
+B. 1.96 x 1016
+C. 0.196 x 1016
+D. 9.2 x 104
+E. 6.8 x 1010
+Feedback: Try again! Divide the coefficients (4.5/2.3 = 1.96) and subtract the exponents (13-3 = 10), to produce the answer 1.96 x 1010
+
+OE1
+Scientific notation represents values with a high degree of precision. Do you think it’s important to be so precise? Type your answer in the box below.
+Feedback: See an example of precision flaws and their consequences through the link below. Did you consider this type of scenario in your response?
+https://www.nasa.gov/content/hubbles-mirror-flaw
+
+OE2
+Can you think of an example where an error involving a single decimal place could have a big impact? Type your answer in the box below.
+Feedback: See an example of a medication overdose story through the link below. Did you consider this type of scenario in your response?
+https://www.rmf.harvard.edu/Clinician-Resources/Case-Study/2011/10-fold-Dose-Error-Transferred-with-Patient--Death-Results
+
+Metric to Metric Conversion
+[Video using lightboard, Jen/Christy] 
+So why do I need to understand how to convert from metric into metric units? First, the universal language of measurements is the metric system. Second, in science, the type of sample to be measured can vary quite dramatically depending on the field of study. For example, measurements that scientists make on organelles in a plant cell will be quite a bit smaller than those they take when measuring the distance from Las Vegas to California. The metric system is based on units of 10. For different types of measurements, we have specific basic units of measurement. The meter (m) is the basic unit for length, the liter (L) is the basic unit for volume, and the gram (g) is the basic unit of mass. We can scale up or down from these basic units by powers of 10.
+So let's practice. 
+	•	Walk students through conversion tables (Online Ed. build: add voice and annotate/point) 
+	•	Practice a couple of problems with the students, guiding them through how to properly set-up conversions and check themselves during the calculation process.
+
+Convert 4.7 meters (m) into micrometers (𝛍m). When we do the math we want the units to cancel out.
+
+4.7 m x   1000 mm  x 1000 𝛍m = 4,700,000 𝛍m or 4.7 x 106 𝛍m
+                    1 m             1 mm
+
+ELAINE SUPERBRAIN’S TASKS
+Answer the following questions to practice what you learned. For the multiple choice questions, choose the correct answer, and for the open-ended ones, type your answer in the box. Click on Submit after you answer each question to see the feedback. 
+
+MCQ1
+You are asked to convert 37.5 milligrams (mg) into grams. How would you properly set-up the conversion?
+A. Multiply 37.5 mg by 1000 mg/g
+B. Multiply 37.5 mg by 1000g/mg
+C. Multiply 37.5 mg by 1 g/1000 mg
+D. Divide 37.5 mg by 100
+E. Divide 37.5 mg by 10,000
+Feedback: Double check your set-up! Make sure that your conversion allows for the conversion units to cancel out, leaving only the desired unit in the numerator.
+
+MCQ2
+A fellow classmate asks you to check their work. They are trying to convert 14.3 mL into 𝛍L. The answer they show you is 143,000 𝛍L or 1.43 x 105 𝛍L ? How do you respond to their question after viewing their answer?
+A. Their answer is mostly correct, but incorrectly written in scientific notation.
+B. They made a mistake in their conversion. Their answer is 10 fold too high.
+C. They made a mistake in their conversion. Their answer is 10 fold too low.
+D. They made a mistake in their conversion. Their answer is 100 fold too high.
+E. They made a mistake in their conversion. Their answer is 100 fold too low.
+Feedback: Try again! There are 1000 𝛍L in 1 mL. Don’t forget to take into account the decimal in the original amount.
+
+OE1
+Why would understanding scientific notation be a useful skill when trying to convert units using the metric system? Type your answer in the box below. 
+Answer: To be able to represent very large or very small units in a condensed form rather than with many zeros.
+
+OE2
+In your everyday life, can you think of examples of when you have heard of a measurement using kilo or giga?
+Answer: There are many possible correct responses. Some examples include giga byte for computers, kilos for a person’s weight or for drugs seized during a drug bust.
+
+
+Metric to English Conversion
+[Video using lightboard, Jen/Christy] 
+
+So why do I need to understand how to convert from standard U.S. measurements (example: inches) into metric units (centimeters)? Because the universal language of measurements is the metric system. But is it really a big deal to keep my data in feet rather than meters? Ummm yeah it can be a pretty big deal, just ask the engineers that worked on the Mars Climate Orbiter in the 1990s. One team on the project was using standard U.S. measurements while the other was using the metric system. No one caught the difference in measurement systems being applied, resulting in the orbiter being lost on its trip to Mars. That lost orbiter cost the U.S. about $125 million.
+
+So, let's practice converting between English and metric units. 
+	•	Walk students through conversion table (Online Ed build: voice + annotate/point).
+	•	Practice a couple of problems with the students, guiding them through how to properly set-up conversions and check themselves during the calculation process.
+	•	Convert a typical Las Vegas summer temperature of 106˚F to ˚C.
+The formula to apply is ˚F = ˚C x 9/5 + 32
+
+Enter in the known: 106˚F = ?˚C x 9/5 + 32
+Now we want to move the “32” from the right side of the equation to the left side, which means we have to subtract…
+
+106 - 32 = ?˚C x 9/5
+      74 = ?˚C x 9/5
+
+Now we have to address the 9/5. To make this easy, multiply by 5 to cancel out the bottom denominator on the right. 
+74 x 5 = (?˚C) x 9/5 x 5
+370 = (?˚C) x 9
+
+Now let’s solve for the ? by dividing each side of the equation by 9
+
+370/9 = (?˚C)
+41.1 = (?˚C) → 41.1 ˚C
+
+ELAINE SUPERBRAIN’S TASKS
+Answer the following questions to practice what you learned. For the multiple choice questions, choose the correct answer, and for the open-ended ones, type your answer in the box. Click on Submit after you answer each question to see the feedback. 
+
+MCQ1
+You are asked to convert 57.2 yards into meters. How would you properly set-up the conversion?
+A. Need to multiply 57.2 yards by 0.91 meters/yard
+B. Need to multiply 57.2 yards by 1 meter/0.91 yards
+C. Need to multiply 57.2 yards by 1 yard/30.35 meters
+D. Need to multiply 57.2 yards by 30.35 yards/1 meter
+E. Need to multiply 572 yards by 91 meters/yard
+Feedback: Double check your set-up! Make sure that your conversion allows for the conversion units to cancel out, leaving only the desired unit in the numerator.
+
+MCQ2
+Convert 78 cm into inches.
+A. 198.12 inches
+B. 1.98 x 102 inches
+C. 30.71 inches
+D. 2367.3 inches 
+E. 2.37 x 103 inches
+Feedback: Try again! There are 2.54 centimeters in 1 inch, this means that the answer needs to be smaller than the original number.
+
+OE1
+In the United States, we measure milk by the gallon. If we were using the metric system, what metric unit would we use? Type your answer in the box below. 
+Answer: The liter
+
+
+
+OE2
+If you were visiting Europe and saw a speed limit sign that said “60 km/hr”, what would that convert to in the United States system (remember 1 mile = 1.6 km)? Type your answer in the box below. 
+Answer: 60 km/hr x 1 mile/1.6 km = 37.5 miles/hr
+
+Add progress bar at end of page, show 60% complete
+NEXT>>
+
+Canvas Page 4
+Lab 1 – Lab Safety and Scientific Measurement    
+Measuring Length, Mass, Volume, and Temperature
+
+How Do I Measure Length, Mass, Volume, & Temperature?
+(Priority - Procedural video with student demonstration on location in the lab; Jen/Christy narrating)
+	•	Length: you will use a meter stick or a ruler, depending on the size of the sample you are measuring
+	•	Mass: you will use an electronic scale to measure your samples in grams.
+	•	Volume: you will use graduated cylinders, beakers, and pipets to measure the volume of liquid samples in milliliters (mL). You will look for the meniscus when measuring, found at the top of the liquid (where liquid meets air).
+	•	Temperature: you will use a thermometer to measure the temperature of various samples in degrees Celsius.
+
+WINDY WONDERS!!
+What is the difference between mass and volume?
+ 
+ 
+ELAINE SUPERBRAIN’S TASKS
+Practice length, mass, and volume measurement in the following activities.  
+
+	•	Length Measurement
+
+https://courses.online.unlv.edu/courses/BIO189/lab1-ruler-exercise/ruler-exercise-v3.html
+
+	•	Mass Measurement
+
+https://courses.online.unlv.edu/courses/BIO189/scale_lab_complete/
+
+	•	Volume Measurement
+ http://www.physics-chemistry-interactive-flash-animation.com/matter_change_state_measurement_mass_volume/volumes_measurement.htm
+
+Directions: Use your mouse cursor to pick up the water bottle. Move the water bottle such that the nozzle of the bottle is placed above the graduated cylinder. Click and hold your mouse on the hand shown to dispense water. Fill the cylinder to 5 mL. Not the meniscus at the top of the liquid. Now fill the cylinder to 10 mL. 
+
+
+
+KYLE AND KAI
+
+Kai: If the metric system is so great, why hasn’t the US converted to it?
+
+Kyle: The U.S. Congress passed the Metric Conversion Act in 1975 listing the metric system as the preferred system but leaving leeway for the use of other systems.
+
+
+Add progress bar at end of page, show 80% complete
+
+
+NEXT>>
+
+Canvas Page 5
+Lab 1 – Lab Safety and Scientific Measurement    
+
+HARRY’S TIP OF THE DAY
+Don’t multitask when watching the videos! Put your phone away and take notes of key points when watching!
+  
+WHAT SHOULD I EXPECT FOR THIS LAB? 
+In class lab activities will include:
+	•	Discussion of the syllabus and course expectations
+	•	Review of safety practices and discussion of safety resources
+	•	More practice with scientific notation and conversions
+	•	Measurement of length, mass, volume, and temperature
+
+HOW SHOULD I PREPARE FOR THIS LAB? 
+Remember to
+	•	Wear safe lab attire
+	•	Bring your lab manual
+	•	Write down any questions you have for your lab instructor
+                                                                                                                                                                                       
+                                                                                                                                                                                      
+
+
+Congratulations! You’ve completed the online work for Lab 1.
+
+Progress bar at the end of the page, showing 100% complete
+
+See you in the lab!

@@ -1,0 +1,5 @@
+Based on Figure 1, the results of Experiment 1 are best modeled by which of the following equations? 
+ Block speed (m/sec) = 0.2 × time (sec) 
+ Block speed (m/sec) = 5.0 × time (sec) 
+ Pulling force (N) = 0.2 × block mass (kg) 
+ Pulling force (N) = 5.0 × block mass (kg)

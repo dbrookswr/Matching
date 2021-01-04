@@ -1,0 +1,261 @@
+Canvas Page 1
+Lab 6 – Just Passing Through: Understanding Diffusion and Osmosis
+
+Learning Goals and Skills
+ 
+What’s the Main Goal of This Week’s Lab?
+Accurately execute and interpret experimental tests to investigate membrane transport (e.g. diffusion, osmosis, active transport, endocytosis and exocytosis)
+ 
+How Will I Accomplish This Goal?
+By the end of the week, you should be able to:
+1)    Compare, contrast, and discuss several means of passive and active transport
+2)     Compare and contrast endocytosis and exocytosis
+3)     Define diffusion, osmosis, equilibrium, solution, solvent, and solute
+4)     Compare and contrast hypotonic, hypertonic, and isotonic solutions
+5)     Describe cytolysis and plasmolysis
+6)     Generate predictions about test results regarding in-class membrane transport experiments
+ 
+ 
+What Skills Will I need To Accomplish This Goal?
+·      Performing tests accurately
+·      Effectively communicating test results
+·      Critical thinking
+·      Having knowledge of your own thought processes 
+.    Showing knowledge processes in a diagram/chart/table 
+.    Accurately judging what you know and what you don’t know
+
+
+[Checklist Placeholder]
+
+
+Next>>
+
+
+
+
+
+
+
+Canvas Page 2
+Just Passing Through: Understanding Diffusion and Osmosis                                                                                                          
+Cellular Borders and Solutions
+ 
+How does a cell move things in and move things out?
+As we previously discussed in Lab 4, a cell must separate the inside of the cell from the outside of the cell. This separation is accomplished through the presence of the plasma membrane, a semipermeable membrane. This separation is necessary to maintain homeostasis, an environment that is conducive to supporting the functions of the cell. Movement into and out of the cell is therefore regulated but how?
+ 
+What does semi-permeable mean?
+[text w/ image] Image of plasma membrane: https://www.shutterstock.com/image-vector/cell-membrane-cytoplasmic-structure-1106910629?src=QK4Ncwl3Jg1I9j9unIuvEA-1-0
+
+
+The plasma membrane of a cell allows for regulated (controlled) movement of substances into and out of the cell. If the plasma membrane were impermeable, nothing could ever enter or leave the cell. This scenario would be unable to support life. For example, if nothing could ever exit the cell, toxic byproducts would build up inside and kill the cell. If the plasma membrane were completely permeable, anything could enter or exit the cell at anytime. This scenario would also not support life. For example, if a cell needs a high concentration of a certain type of molecule to support metabolism, there would be nothing to stop those types of molecules from just leaving the cell. Now that we understand the requirement for a semipermeable barrier,  what characteristics of the substance can influence how a substance interacts with the plasma membrane?
+View Preview
+
+ 
+What affects the ability of something to cross the plasma membrane?
+[text w/ image]: Something similar to mockup of table below but with more attractive.
+
+The ability of a particular substance to cross the plasma membrane is influenced by its size, charge, lipid solubility, and the magnitude (strength) of the concentration gradient.
+
+	•	Size: in general, smaller substances cross membranes more readily than larger substances.
+	•	Charge:  there is a separation of charge across the membrane such that the inner surface of the membrane is negatively charged and the outer surface is positively charged. If a charged substance like an ion crosses the membrane, the charge interactions play a role. Opposite charges (+ and -) attract whereas similar charges (+ and + or - and -) repel. For example, it would be easier to transport a positive charge into the cell (towards the negative surface of the membrane) than out of the cell (towards the positive surface of the membrane)
+	•	Lipid solubility:  substances that have greater lipid solubility cross more readily than substances that have lower lipid solubility. The inside of the membrane is a hydrophobic environment, filled with the fatty acid tails of the phospholipids. Substances that are lipid soluble can move through the hydrophobic core of the membrane
+	•	Concentration gradient:  a stronger concentration gradient will drive more transport across a membrane whereas a weaker concentration gradient will drive less transport. The concentration gradient refers to the difference in concentration across a membrane. It can be described generally (the concentration of substance X is high inside the cell and low outside the cell) or specifically (the concentration of substance X is 10mM inside the cell and is 130mM outside the cell)
+
+How are solutions important to understanding transport into and out of a cell?
+
+https://www.shutterstock.com/image-vector/substance-dissolved-another-solid-liquid-382764754?src=ztNBhzTRcvCaRAAJeQI6wA-1-38
+
+As shown in the image above, when solutes dissolve or redistribute into a liquid solvent, a solution is formed. You most likely have already witnessed or even performed the making of a solution in your everyday life. For example, adding extra sugar or creamer to your beverage, whether it be coffee or tea is an example of making a solution. The sugar or creamer (solute) is originally separate from the liquid beverage but once you add them to the beverage (solvent), the molecules that make up these additions move, dispersing themselves into the area provided. The newly added molecules (solute) will move from an area of high concentration of these types of molecules to areas of low concentration. This is described as the molecules moving down their concentration gradient. 
+
+Eventually, these molecules will redistribute in the solvent provided such that a uniform distribution of these molecules occurs (also known as reaching equilibrium), in turn producing what is known as a homogenous solution. In the beverage/sugar example, there is no physical barrier that limits the molecules movement to reach equilibrium. As you have read earlier in this lab, we know that this is not the case for the cell, which has a plasma membrane barrier. So how will the cell be able to move molecules and such into and out of itself?
+
+You will see that movement of needed components can occur passively or actively. Passive transport will support the molecules moving down their concentration gradient from high to low concentration areas. Active transport requires that the cell invest energy to move molecules against their concentration gradient, from areas of low concentration to areas of high concentration. We will go into this in more detail later in this lab module.
+ 
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+Which of the following substances would have the greatest permeability across a lipid membrane?
+	•	Substance 1, a small molecule with low lipid solubility
+	•	Substance 2, a small molecule with high lipid solubility
+	•	Substance 3, a medium-sized molecule with low lipid solubility
+	•	Substance 4, a large molecule with low lipid solubility
+	•	Substance 5, a large molecule with high lipid solubility
+Feedback: Remember smaller substances are more permeable than larger substances and high lipid solubility allows a substance to pass through the hydrophobic core of the membrane
+
+MCQ2
+Lisa: An image similar to this
+
+
+
+In this figure, how would you describe the movement of the sodium ions based on the arrows?
+	•	The sodium ions are moving down the concentration gradient
+	•	The sodium ions are moving against the concentration gradient
+	•	The sodium ions are not moving at all
+	•	The sodium ions are moving both against and down the concentration gradient
+	•	The sodium ions are moving in circles
+Feedback: Remember, moving down a concentration gradient means moving from areas of high concentration to areas of low concentration.
+
+ 
+
+Next>>
+
+
+
+
+
+
+Canvas Page 3
+Just Passing Through: Understanding Diffusion and Osmosis                                                                                                     
+Passive and Active Transport
+
+What are Passive and Active transport?
+
+Passive transport (1:07-3:57)**I prefer this video for passive transport since it goes into more detail
+https://www.youtube.com/watch?v=Ptmlvtei8hw&t=224s
+
+Active transport (1:39:2:23) Natisha found this video and I think that this can work for active transport
+https://www.youtube.com/watch?v=BGeSDI03aaw
+
+ 
+Kyle and Kai
+Kai: If active transport “costs” a cell energetically, why would a cell ever perform active transport?
+Kyle: Cells need to be able to maintain homeostasis, aka an ideal environment that supports all of the chemical reactions that comprise metabolism. Sometimes supporting homeostasis requires maintaining a concentration gradient which means that the cell has to actively work to prevent chemical equilibrium from being reached. We will see an example of this later in this lab when we discuss the sodium potassium pump and in future labs when we discuss the role of the electron transport chain in photosynthesis and cellular respiration.
+ 
+ELAINE SUPERBRAIN’S TASKS
+To help you practice what you have just learned, you will draw and then submit a diagram to this lab’s discussion board. In your diagram, please compare and contrast types of passive and active transport. When building your diagram be sure to think about what information you need to include if you were trying to teach someone else these concepts.
+
+
+
+Next>>
+
+
+
+
+
+
+
+
+Canvas Page 4
+Just Passing Through: Understanding Diffusion and Osmosis                                                                                               
+Endocytosis and exocytosis
+ 
+How is Bulk transport into and out of the cell achieved?
+Natisha found this video (2:25-3:46): https://www.youtube.com/watch?v=BGeSDI03aaw
+
+-Endocytosis- All forms of endocytosis involve bringing materials into the cell via a vesicle. The different types of endocytosis are distinguished by the nature of the transported materials and the mechanism of intake. Receptor-mediated endocytosis involves intake of a specific material that is recognized and bound by a receptor. Pinocytosis involves the intake of extracellular fluid. Phagocytosis involves the intake of a very large particle (perhaps even a cell) and uses membrane extensions called pseudopods.
+-Exocytosis: The two major forms of exocytosis, constitutive secretion and regulated secretion, involve transporting materials out of the cell via a vesicle. Constitutive secretion runs all the time (constantly) whereas regulated secretion occurs in response to a signal or change within the cell (regulated).
+ 
+WINDY WONDERS!!
+Is this more energetically expensive than moving molecules through a single protein?
+
+
+
+
+Next>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canvas Page 5
+Just Passing Through: Understanding Diffusion and Osmosis                                                                                              
+Hypotonic, Hypertonic, and Isotonic Solutions
+ 
+What are Hypotonic, Hypertonic, & Isotonic?
+[Animated video w/ VO]
+Video (0.23-3:51): https://www.youtube.com/watch?v=rMa9MzP19zI
+Natisha-Can we use this video?
+As illustrated in the video, what we are really focusing on is the movement of free water down its concentration gradient from an area of high free water concentration to an area of comparably lower free water concentration. In animal cells, such as human cells, placing a cell in hypotonic solution would result in a net water movement into the cell (from high water concentration outside to low water concentration inside). The cell would swell because of the increased volume of water and eventually burst because the plasma membrane can not be maintained (like a water balloon filled past maximum capacity). Plant cells, on the other hand, can handle a hypotonic much better because of their rigid cell wall.
+
+https://www.shutterstock.com/image-vector/osmosis-plant-cell-3-types-tonicity-1330264229?src=gD08l4xzNKzuJ2PbrIItMA-1-3 (Lisa: something like this but modified: 1. top title removed, 2. On bottom add “solution” to each label. 3. On top from left to right, please add: Flaccid, Turgid (normal), and Plasmolyzed)
+
+As you can see, the plant cell wall is stable in all of the above conditions. For many plants, the ideal environment is one that supports a turgid plant cell rather than a flaccid or plasmolyzed plant cell.
+
+KYLE AND KAI 
+Kai: In Las Vegas, we are told to drink lots of water to stay hydrated. If a person were to become severely dehydrated, why don’t medical professionals just give them an IV with pure water in it?
+Kyle: Humans are multicellular organisms made up of animal cells. As you know from Lab 4, animals cells have a plasma membrane but lack a cell wall. Introducing pure free water intravenously into a severely dehydrated person is equivalent to dropping those cells into a hypotonic environment. The free water in hypotonic environment will rapidly move from the hypotonic environment on the outside of the cells into the hypertonic environment found inside of the cells. The cells will swell due to the increased volume of the incoming free water and eventually burst. So basically, you would kill the patient by giving them pure water in this scenario.
+ 
+
+
+
+
+
+
+ELAINE SUPERBRAIN’S TASKS
+[MCQs + one question on diagram and bring to class]
+
+MCQ 1 Lisa: an image similar to the one below. The arrows are not to be included. Both the water molecules (here in blue) and the solute particles (here in purple) need to be well-labeled and easy to differeniate. 
+
+The cell depicted in the diagram is surrounded by a(n) ____ environment, therefore water will ____.
+	•	isotonic; neither move into nor out of the cell
+	•	hypotonic; move into the cell
+	•	hypertonic; move into the cell
+	•	hypotonic; move out of the cell
+	•	hypertonic; move out of the cell
+Feedback: Remember that via osmosis, water moves from areas of high free water concentration to areas of low free water concentration.
+
+Your Task: You are going to hypothetically place an animal cell in the following solutions shown in the table below. Your assignment is to represent what the cell and the solution look like when you first add the cell to the designated solution. Water is to be represented by closed circles and solute is to be represented by Xs in your drawings.Please indicate which direction water would be expected to move, based on the solution, through the use of arrows (→←↑↓). You are expected to bring your completed table to lab.
+Natisha/Lisa: we need a pdf table that looks something like the mock-up below. 
+
+Next>>
+
+
+Canvas Page 6
+Just Passing Through: Understanding Diffusion and Osmosis                                                                                              
+ Laboratory Protocols
+ 
+How will we be testing diffusion in the lab?
+The procedures outlined for the Diffusion of the a Scent experiment and the Effect of Temperature on the Rate of Diffusion experiment are fairly straightforward to interpret and set-up based on the lab manual text description. A few of the other experiments may be more challenging to mentally visualize how to set up each of these experiments based on the text description. To better prepare you for being able to jump right in to experimenting when you attend your lab, we have provided the following procedural video:
+
+[Procedural video for Diffusion across a Membrane: in lab with VO, both video & voiceover have been recorded]
+ 
+How will we be testing Osmosis in the lab?
+A few of these experiments may be more challenging to mentally visualize how to set up each of these experiments based on the text description. To better prepare you for being able to jump right in to experimenting when you attend your lab, we have provided the following procedural videos:
+
+[Procedural video for Osmosis in Potato Cells: in lab with VO, both video & voiceover have been recorded]
+[Procedural video for Hypotonicity and Hypertonicity in Plant Cells: in lab with VO, both video & voiceover have been recorded]
+[Procedural video for Hypotonicity and Hypertonicity in Animal Cells: in lab with VO, both video & voiceover have been recorded]
+
+
+ Next>>
+
+
+
+
+Canvas Page 7
+Just Passing Through: Understanding Diffusion and Osmosis                                               
+
+HARRY’S TIP OF THE DAY
+Make learning meaningful by relating the new information to your existing knowledge to learn more deeply. This helps your brain cells build stronger connections.
+ 
+
+WHAT SHOULD I EXPECT FOR THIS LAB?
+ In-class lab activities will include:
+	•	Experimentally determining the effects of temperature on diffusion
+	•	Investigating the effects of tonicity of solutions at both the macro (viewed by the naked eye) and micro (viewed through a microscope) levels.
+	•	Making predictions about the outcomes of experiments
+	•	Collecting data and summarizing experimental results
+
+ 
+HOW SHOULD I PREPARE FOR THE LAB?
+Remember to:
+	•	Complete the Elaine SuperBrainTask BEFORE coming to lab because you will need to submit a hard copy of this assignment to your laboratory instructor at the beginning of lab.
+	•	Read the lab text and bring your lab manual with you to lab. You may want to review how to properly use a microscope to view slides and how to properly prepare wet mounts (Lab 4: Microscopy and Cells).
+	•	Make a checklist of what you will need to accomplish during this lab. Having this guide prepared before lab will allow you to stay on task during your lab time.
+ 
+ 
+ 
+Congratulations! You’ve completed the online work for Lab 6.
+See you in the lab!
+
+

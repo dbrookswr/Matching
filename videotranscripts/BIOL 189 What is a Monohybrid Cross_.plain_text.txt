@@ -1,0 +1,149 @@
+So, hi. I'm Christy Strong. 
+
+I'm Jenifer Utz. 
+
+And we are faculty members in the School of Life Sciences. Today, how to solve a monohybrid cross. Because you're going to have to do this in the lab, you're also going to have to do this, potentially, in lecture. 
+
+And there are steps to help. Again, you check yourself before you wreck yourself, so that you know which parts of the question are important, and which parts you can kind of ignore. 
+
+And so, we're going to go through the steps to teach you how to actually analyze a problem. So we have a problem depicted across the top of the screen. And we're going to highlight, OK, which parts are important? And then, how do you actually use those pieces of information to solve for a monohybrid cross? 
+
+OK. So step one, read the problem. 
+
+First, read the entire problem. Because sometimes we only read the first sentence. 
+
+Right. Am I going in a different direction than what you think? 
+
+Exactly. So in pea plants, we have full pods, which is represented with a capital F, are dominant to constricted pods. So if we wanted to represent that with a depiction, full pods would be this nice bulky looking pea pod over here. And then constricted is where it's all tight and bumpy looking right here. 
+
+OK. In a genetic cross of two plants that are heterozygous for the pod shape trait, what fraction of the offspring should have full pods? OK. We read the problem. Now we're going to dissect it part by part. 
+
+So we say, in pea plants, full pods are dominant to constricted pods. So I know that pod shape is the gene that I need to focus on, right? So we're looking at pod shape. 
+
+OK. So we're going to read the problem all the way through, go back, look at it again, and start marking the important information. 
+
+Exactly. And so it says, full pods, which they represent with a capital F, are dominant-- 
+
+That's really important. 
+
+--to constricted prods which they represent with a lower case f. So I've got capital F, full, lowercase f, constricted. OK. So I write this down to keep track, so I don't get confused. 
+
+So they want me to do a genetic cross. It's going to be of two plants, OK? And they tell me, basically, the genotype of the plants when they say heterozygous. You need to determine the genotype of the parents that you're going to be working with, otherwise how can you solve for the offspring? 
+
+Right. So sometimes the problem might just write it out using the abbreviations. 
+
+Correct. 
+
+Or the problem might describe it. And then we have to kind of write it out from there. 
+
+Exactly. Because we may be testing different understanding levels. Because if we write it out such that we know that heterozygous-- and I'm just going to abbreviate Hetero here-- means an uppercase and a lowercase. 
+
+Yeah. One copy of each allele. 
+
+I could show you this. And I could say the two plants have the genotype this. Or if I want to test whether or not you understand the vocabulary, I could say heterozygous. And if you don't understand that hetero means capital and lower case, you may set the problem up incorrectly. 
+
+Where we could say, one parent is homozygous dominant. The other parent is heterozygous, or one parent is homozygous recessive. 
+
+So if something was homozygous dominant, homo meaning-- 
+
+The same. 
+
+--here the same, so we would have dominant means two capitals. And then if we were homozygous recessive, we would be two lowercase f's. 
+
+So when our two alleles have a dominant recessive interaction, we have this formatting convention. We use capital for the dominant. We use lower case for the recessive. 
+
+Correct. 
+
+Right. So in picking out that it's a dominant recessive interaction is an important piece of information. Because two alleles can interact in many diverse ways. So dominant recessive is just one type. 
+
+We might see other information in the problem telling us something else, like, if it's an incomplete dominance type of interaction. So we need to pay attention to the interaction and the traits and the alleles and how we're going to mark them, and then figure out the information about the parents. OK. 
+
+Yep. And so it's like, OK, you told me both parents are heterozygous. So I know that parent number one, F genotype is going to be capital F, lowercase F. I F that parent number two, his genotype is capital F, lowercase f. 
+
+OK. So I've identified the genotypes of the parents based on the information provided. Then I have to figure out how to make the babies. And we know that to make babies, you need gametes. 
+
+You need gamete number one to fuse with gamete number two the process of fertilization to form the zygote. OK. So how are we going to do that? Parents need to make gametes. 
+
+Here we are looking at one gene, right? We are looking at the pod shaped gene. And so this parent is diploid. And this parent is diploid. 
+
+Right. Two copies of each kind of chromosome. 
+
+Two copies. So they're-- 
+
+Of each kind of chromosome. 
+
+2n. Now when we talk about gametes, are they diploid or haploid? 
+
+Haploid. 
+
+Haploid, which we represent with an n. They only can have one copy. So when we're doing a monohybrid cross, it's pretty straightforward to figure out the types of gametes that you can get, OK? 
+
+Because you're only looking at one gene, pod shape, in this case. So it's like, OK, parent number one, you could either give the gamete a capital F or you could give the gamete a lowercase f. Those are your two options. That's it. 
+
+Parent number two, you could give the gamete such that it has a capital F, or you could give it a lowercase f. Those are your two options. So I figured out the gamete possibilities. 
+
+Now we need to figure out the possible combinations, right? 
+
+Exactly. 
+
+So we know the gametes, the genetic information that can be passed on from both of our parents. Now, we need to figure out how that genetic information can combine into our offspring. 
+
+And so Punnett and Bateson were these really cool researchers that wanted to find a simplistic way to demonstrate crosses so that it could be quickly interpreted. So they created what is known as the Punnett square. 
+
+Now when you go to do a monohybrid cross-- so a monohybrid cross is going to have four possible outcomes-- so four squares. 
+
+We'll see that that's going to be different in a future episode of the dihybrid, where there's 16 possibilities. So what we look at, in each of these little squares, this is the offspring. 
+
+So four possible offspring. We've got to place the parents. And so if I want to place, say, parent number one, your gametes are going to be represented on the left hand side of the Punnett square. So I will put the capital F here and the lowercase f here. 
+
+So we're mapping out the possible alleles that can be in the gametes of the parent. So this parent is only going to pass on one, right, in each gamete. The gametes are haploid. So parent number one can pass on either the dominant allele or the recessive allele. 
+
+Correct. And then we have parent number two, same thing. 
+
+Right. Can pass on either the dominant allele or the recessive allele. So we're putting the possible genetic information, the possible alleles that parent can contribute along the edges of our Punnett square. 
+
+Yep. And so then we just solve. OK. This F goes here. And this F goes here. So we end up in this box, capital F capital F. That is a genotype of this offspring. 
+
+Then what we can do is we can go, OK, I want to solve for the far right top corner. This F goes all the way over here. And then this f comes down. 
+
+So we've got a capital F and a lowercase f. That is a genotype of the top right hand corner offspring. It's like, OK, I want to solve for this one. 
+
+We take this f up here, bring it down. And I like to write my capitals first. Because I keep them straight. And then this f over here. 
+
+So we get capital F and then we solve for the lower right hand corner, all the way over, little f. And then this guy comes down, little f. 
+
+So we can see that we have four offspring. And we have the genotypes that are possible based on the parent's. 
+
+And so, we go back to the question, what am I actually trying to solve for, right? Because that's important. Because sometimes people will set these up beautifully. And then they don't actually answer the question that was asked. 
+
+So that's unfortunate and what we don't want for you. So it says, what fraction-- so I know I'm dealing with fractions, right-- of the offspring should have full pod. 
+
+So it's like, well, how many offspring do I have? I've got there's one, there's two, there's three, there's four. 
+
+So, OK. If it's a fraction, how many possible offspring on the bottom. So possible offspring on the bottom. So there's four of them. 
+
+And then I go, how many of them have full pods? And I go back to the information that I wrote down right here, full capital F. 
+
+Full pods is the phenotype, right? The appearance. 
+
+The genotype is, with dominant, as long as you have one copy, you have it. So it's like, OK, when I look at kid number one, you've got at least one capital F. OK. You're a full pod. 
+
+I'm going to put a nice little circle there. Because I know that you fulfill the requirement. Kid number two, you got a capital F. That means you're going to also fulfill the requirement. 
+
+Kid number three, you have a capital F. You also fulfill the requirement. Kid number four-- mrr, mrr. So three out of the four have full pods. 
+
+And there's all sorts of different questions we could ask about this. We might have a similar setup and ask, what are the possible gametes? Or we might ask, how many of the offspring would we expect to have a certain genotype? What fraction would we expect to be homozygous dominant or heterozygous, or maybe instead of a fraction, we could say what percent rate. Three out of four, 75 percent. 
+
+So I think you make a really great point that after we kind of work everything out, it's really important that we go back and reread the question and make sure the answer we provide is addressing the question that was asked, right? So in these genetics problems, there's a lot of back and forth, right? 
+
+We start with a setup. We have some information to kind of figure out one piece of information. And we use that information to figure out the next step and the next step, and because we're kind of back and forth and going through many steps, it really is important to double check at the end. 
+
+And then you can always check yourself, like, does this make sense? Because say that I had, you know, two homozygous dominant parents, and somehow I'm magically getting a recessive child. 
+
+I would go, that doesn't make sense. So again, the idea of checking yourself before you wreck yourself, pay attention to your numbers and cross check things. And then it becomes easy, automatic, you're golden. 
+
+All right. So you should practice doing this. Good. And you want to get in a rhythm. The faster you can do it, and if you can actually walk another person through the process, the more comfortable you're going to be on the test. 
+
+Because again, sometimes tests can make us feel a little anxious, if I've done different versions, and I've gotten very, very good at it, and I feel like I can teach someone else how to do it, that boosts my confidence. 
+
+Absolutely. All right. We will see you in lab. 

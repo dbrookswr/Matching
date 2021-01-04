@@ -1,0 +1,453 @@
+
+Lab 3 – Understanding Basic Chemistry										                       Canvas Page 1 
+
+Overview:
+[Roadmap placeholder]
+
+Learning Goals and Skills
+What’s the Main Goal of this Lab?
+Accurately execute and interpret experimental tests to determine the chemical composition of real-life samples
+How Will I Accomplish This Goal?
+By the end of the week, you should be able to:
+	•	Illustrate the composition of an atom
+	•	Differentiate among types of bonds including ionic, covalent, and hydrogen
+	•	Define pH and explain how a solution can be categorized as acidic, basic, or neutral 
+	•	Define and describe the composition and characteristics of carbohydrates
+	•	Define and describe the composition and characteristics of lipids
+	•	Define and describe the composition and characteristics of amino acids and proteins
+	•	Define and describe the composition and characteristics of nucleotides and nucleic acids
+	•	Correctly use reagents (Benedict's, Iodine, Sudan III, Biuret, pH paper) to test for carbohydrates, lipids, and proteins and accurately interpret test results 
+	•	Generate predictions about test results for provided materials
+
+What Skills Will I Need To Accomplish This Goal?
+	•	Being able to draw schematic representations of scientific content and processes
+	•	Measuring pH
+	•	Performing tests accurately
+	•	Effectively communicating test results
+	•	Decision making
+	•	Critical thinking
+
+[Checklist Placeholder]
+Lab 3 Checklist
+Progress bar                                                                                                                                                            Next>>
+
+Lab 3 – Understanding Basic Chemistry                                                                                          Canvas Page 2
+Atom
+
+https://www.youtube.com/watch?v=yqLlgIaz1L0 
+What Is an Atom? 
+
+
+	•	An atom is composed of the nucleus and the shells surrounding the nucleus
+	•	An atom can be composed of three different types of subatomic particles. These three types are protons, neutrons, and electrons. The different types can be differentiated based on their location, charge, and mass. Protons and neutrons are located in the nucleus of the atom while electrons are found in the shells that surround the nucleus. Protons have a positive charge, electrons have a negative charge, and neutrons do not have a charge (are neutral). The mass of a proton or a neutron is 1 atomic mass unit (amu) while the mass of an electron is so small (9.10938356 × 10-31 kilograms) that we consider it to be zero.
+
+WINDY WONDERS!!
+What is the difference between a nuclear reaction and a chemical reaction? What is the difference between a compound and a molecule?
+
+ELAINE SUPERBRAIN’S TASKS
+Draw an atom on a piece of paper. Then take a photo of it and upload it in the discussion board created for you. Go through your peers’ drawings (at least two) and find any errors. Leave comments that help them see the issue. Your TA will reveal the correct image for you at the end of the week.  
+Have the students randomly assigned one of three possible atom choices: Carbon, Lithium, or Fluorine.
+
+What Is a Bond? 
+
+
+	•	Chemical bonds are attractions between atoms that result in the atoms staying close to one another. There are different types of chemical bonds that occur in nature.
+	•	Covalent bonds are bonds that involve the sharing of electrons between atoms. Electrons located in the outermost electron shell of an atom are referred to as valence electrons. These valence electrons are shared with other atoms with the end goal of completing or filling an atom’s outermost electron shell. How badly an atom “wants” an electron is known as electronegativity. The higher the electronegativity, the higher the attractiveness for electrons.
+	•	When two atoms equally share valence electrons, the chemical bond formed between the two atoms is referred to as a nonpolar covalent bond. When two atoms unequally share valence electrons, the chemical bond formed between the two atoms is referred to as a polar covalent bond. When each atom in the pair shares 1 electron, a single bond is formed. When each atom in the pair shares 2 electrons, a double bond is formed. We represent these bonds visually by drawing either a single solid line to represent a single bond or two horizontal lines parallel to one another to represent a double bond.
+	•	Sometimes in an atom pairing, one atom may have a much higher electronegativity while the other atom has a much lower electronegativity. In this instance, a type of chemical bond referred to as an ionic bond could form. In an ionic bond, the atom with the higher attraction (electronegativity) “steals” or strips valence electrons from the atom with the lower electronegativity. This stealing results in the formation of ions. The atom that stole the electron(s) now has a negative charge, as a result of the increase in electron number, and is referred to as an anion. The atom that lets go of the electron(s) now has a positive charge, as a result of the decrease in electron number, and is referred to as a cation.
+	•	Another type of chemical bond that exists in nature is the hydrogen bond. Hydrogen covalently bonded to a highly electronegative atom will carry a partial positive charge. This partial positive charge makes the hydrogen attractive to other electronegative atoms nearby. The noncovalent bond that will form between the partial positive charge of the hydrogen and the electronegative atom is known as a hydrogen bond. We represent a hydrogen bond with a single dotted line located between these two atoms. Water is an excellent example of a type of molecule that regularly forms hydrogen bonds. Water molecules will form hydrogen bonds with one another (IMAGE).
+
+ELAINE SUPERBRAIN’S TASKS
+This would be a good place for Online Ed. to find examples of molecules with single, double, & triple bonds. In addition, examples of ionic interactions (amino acids in a protein) and hydrogen bonds (DNA or RNA). The activity could be, we show the student at least two of these examples. We highlight the bond we want them to focus on and then ask them: What type of bond is this? They could then type in their answer in a box. Another option is to do a drag/drop of the examples into different bond type categories.
+Progress bar
+Next>>
+
+
+Lab 3 – Understanding Basic Chemistry										                       Canvas Page 3
+pH
+
+What is pH? 
+
+pH is a measure of hydrogen ion concentration, which can be represented as [H+]. pH is one aspect of the environment that can affect the shape and function of biological molecules like proteins and enzymes. There is an inverse relationship between the [H+] and the pH number, meaning that the values move in opposite directions. For example, if the H+ concentration increases, the pH number decreases. The pH scale ranges from 0 to 14 and is a logarithmic scale, meaning each unit change represents a ten-fold difference in [H+]. For example, a solution with a pH of 6 has 10x more hydrogen ions than a solution with a pH of 7. 
+A solution of pure water has a pH of 7 and is considered neutral. Acids and bases are substances that can change the [H+] and therefore also change the pH of a solution. When an acid is added to a solution, the [H+] increases, therefore the pH decreases. Solutions with a pH < 7 are classified as acidic. When a base is added to a solution, the [H+] decreases, therefore the pH increases. Solutions with a pH > 7 are classified as basic or alkaline. Many day to day items are examples of acidic or basic solutions. For example, black coffee has a pH of 5 whereas soapy water has a pH of 12. 
+
+
+
+ELAINE SUPERBRAIN’S TASKS
+Illustrate the original pH (hydrogen ion and hydroxide ion ratio) and then explain how the illustration needs to change based on the pH shift (shift of hydrogen ion/hydroxide ion ratio). Submit your illustrations to the discussion board created for this activity and comment on each other’s works. Your TA will give you feedback at the end of the week. 
+Group 1: pH 9 shifts to pH 10, diagram shift
+Group 2: pH 9 shifts to pH 8, diagram shift
+
+Progress bar
+
+Next>>
+
+
+Lab 3 – Understanding Basic Chemistry										                       Canvas Page 4
+Carbohydrates
+
+What Are Carbohydrates? 
+
+ [Video with images on green screen: bread, honey, milk, soda, glucose the molecule, glycogen the molecule] (Jen-Christy) 1st choice: Green screen video with images/diagrams interspersed as described above, open to OER
+
+	•	The labels carbohydrates, saccharides, and sugars are all describing the same type of molecules 
+	•	Carbohydrates have a characteristic pattern or ratio of atoms: 1 carbon: 2 hydrogen: 1 oxygen (Show a glucose with the carbons highlighted/counted, then the hydrogens, then the oxygens: illustrate the pattern below the molecule)
+	•	Carbohydrates are found throughout the natural world (show examples of fruits, vegetables, grass, exoskeleton of spiders, scorpions)
+	•	Carbs can be used as short-term energy storage (e.g. show image of glycogen in human muscles and liver) or can serve as structural components (e.g. show cell wall component in bacteria or plants)
+	•	Carbs can be in the form of simple sugars known as monosaccharides (individual monomers). Show examples such as glucose and fructose. Monosaccharides are often depicted in a ring form. These simple sugars can be linked together through a type of covalent bond known as a glycosidic linkage. Show lactose, highlight the bond between the two sugars.
+	•	A glycosidic linkage between monosaccharides can be formed by an enzyme performing a dehydration synthesis reaction and can be broken by an enzyme performing a hydrolysis reaction. (Show an enzyme catalyzing the formation of a glycosidic bond, then show a different enzyme catalyzing breakage of a glycosidic bond)
+	•	When two simple sugars are connected through a glycosidic linkage, a disaccharide is formed.
+	•	When many simple sugars are connected through glycosidic linkages, a polysaccharide (polymer) is formed. For example, the starch found in potatoes is a polysaccharide. (Show a molecule of starch)
+	•	We can test for the presence of reducing (simple) sugars such as glucose in samples in the lab using Benedict’s solution. We can also test for the presence of starch in samples in the lab using the Iodine test.
+
+ELAINE SUPERBRAIN’S TASKS
+MCQ1: Look at the molecule shown below. What can you tell me about this molecule?
+https://www.shutterstock.com/image-illustration/sucrose-common-sugar-disaccharide-molecule-composed-1358715623?src=iD5NXbitndIFiS14am0ktQ-1-3
+A. This molecule is not a sugar.
+B. This molecule is a monosaccharide.
+C. The molecule is a disaccharide.
+D. The molecule is a polysaccharide.
+E. The molecule is an amino acid.
+Feedback: Try again! Remember that individual sugars are known as monosaccharides.
+MCQ2: How could a polysaccharide be broken down into individual monosaccharides?
+A. An enzyme can form a glycosidic linkage via a dehydration synthesis reaction.
+B. An enzyme can break a glycosidic linkage via a dehydration synthesis reaction.
+C. An enzyme can form a glycosidic linkage via a hydrolysis reaction.
+D. An enzyme can break a glycosidic linkage via a hydrolysis reaction.
+E. Enzymes are not involved in breaking down polysaccharides.
+Feedback: Try again! Remember dehydration synthesis is “synthesizing” (forming bonds) while hydrolysis is “lysing” (breaking bonds).
+
+Lipids
+What Are Lipids? 
+       
+[Video with images on green screen] (Jen-Christy) 1st choice: Green screen as described above, open to OER
+The labels waxes, fats, triglycerides, and steroids are all different types of molecules that fit in the macromolecule category of lipids.
+	•	Lipids come in a variety of forms (Show a fatty acid, phospholipid, steroid, triglyceride)
+	•	Lipids are found throughout the natural world (show examples of waxes on succulent plant, blubber in a whale, the honeycomb wax in a beehive)
+	•	Lipids can be used as long-term energy storage (e.g. show image fat in adipose tissue in a human) or can serve as a component in semi-permeable barriers (e.g. show cell membrane in eukaryotic cell )
+	•	Lipids do not exhibit the monomer/polymer relationship we saw previously in carbohydrates. Instead, a variety of lipids exist. Even so, most lipids do have commonalities in their structure; they are primarily composed of carbon and hydrogen.
+	•	As humans, we often focus on lipids that are in the triglyceride form because these lipids have an important role in our cardiovascular health. (Show a triglyceride). In the news, we hear that we should make sure to eat less saturated fats and focus on increasing the unsaturated fats in our diets. (Show butter/lard & saturated fat molecular structure, then show fish oil/olive oil & unsaturated fat molecular structure).
+	•	So how can we differentiate these two types of fats? We could look at how they appear at room temperature (saturated appears solid, unsaturated appears liquid). We could even zoom in to the molecular level and compare their structures (show a zooming in). If we look at a saturated fatty acid, the hydrocarbon tail is linear with the maximum number of bonds between carbon and hydrogen. This arrangement makes it easy to pack the molecules tightly together into a solid (show a set of saturated fatty acids packing together). If we look at an unsaturated fatty acid, the hydrocarbon tail has at least one kink in it as a result of at least one carbon/carbon double bond. If an unsaturated fatty acid has one double bond in the hydrocarbon tail, it is referred to as monounsaturated. If two or more carbon/carbon double bonds are located in the hydrocarbon tail, the fatty acid is referred to as polyunsaturated.
+	•	If you were to compare a lipid to a carbohydrate, you would see that the lipid does not follow the 1 carbon: 2 hydrogen: 1 oxygen ratio, instead lipids have proportionally many more hydrogen than oxygen.
+	•	We can test for the presence of lipids in samples in lab using the Sudan III test.
+
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+Look at the molecule shown below. Which statement about this molecule is correct? (Pulled image from OpenStax)
+
+A. This molecule is not a fatty acid.
+B. This molecule is a steroid.
+C. This molecule is a saturated fatty acid.
+D. This molecule is an unsaturated fatty acid.
+E. This molecule is a phospholipid.
+Feedback: Try again! Remember fatty acids have a hydrocarbon tail but can vary on the presence or absence of carbon/carbon double bonds in the tail.
+
+MCQ2
+Would you expect a large amount of the following molecule to be in a liquid form or solid form at room temperature? (Show a saturated fatty acid: pulled image from OpenStax)
+
+A. Because of an absence of carbon/carbon double bonds, I would expect the sample to be in a solid form.
+B. Because of an absence of carbon/carbon double bonds, I would expect the sample to be in a liquid form.
+C. Because of the presence of carbon/carbon double bonds, I would expect the sample to be in a solid form.
+D. Because of the presence of carbon/carbon double bonds, I would expect the sample to be in a liquid form.
+E. The form of this molecule at room temperature can not be predicted based on the information provided.
+Feedback: Try again! What aspect of the hydrocarbon tail affects the ability to pack tightly together to form a solid?
+Progress bar
+Next>>
+
+
+
+Week 3 – Understanding Basic Chemistry										                       Canvas Page 5 
+Amino Acids and Proteins
+
+What Are Amino Acids and Proteins?	
+
+
+When I say the word protein what images immediately jump into your mind? (Show images of protein shakes, steaks, eggs etc.) Did you know that without proteins, your cells wouldn’t be able to maintain homeostasis? That proteins make sure that things are not only accomplished in the cell but accomplished in a time frame to support life as we know it?
+	•	Proteins are polymers composed of the building blocks known as amino acids (monomers) (Show a protein, and then zoom in so we can see the amino acids)
+	•	Proteins have many functions in cells (show examples of receptors, enzymes, and cytoskeleton)
+	•	Similar to carbohydrates, we see that proteins also follow the monomer/polymer rule.
+	•	There are 20 amino acids (monomers) that are commonly used to build proteins (polymers). (Show the 20 amino acids). We can differentiate between the different amino acids based on each amino acid’s R-group or side chain (In the amino acids, highlight the R group of each amino acid).
+	•	The R-group of the amino acid determines how the amino acid will behave. It can potentially engage in hydrophobic interactions (show a pair doing so), ionic interactions (show a pair doing so) or polar interactions (show a pair doing so). How amino acids behave once they are linked together is key to determining the shape of a protein which in turn affects the ability of a protein to function properly.
+	•	To link individual amino acids together to form a protein, a covalent bond called a peptide bond, is formed between the carboxyl group of one amino acid and the amino group of the second amino acid. (Highlight the carboxyl group and the amino group of each respective amino acid.) This bond formation is catalyzed through a dehydration synthesis reaction by a cell’s ribosome (Show a ribosome catalyzing the formation of a peptide bond). 
+	•	When many amino acids are connected through peptide bonds, a polypeptide (polymer) is formed. For example, the molecule albumin found in egg whites is a protein. (Show a molecule of albumin)
+	•	We can test for the presence of peptide bonds in lab using the Biuret test.
+
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+Look at the molecule shown below. Which statement about the highlighted region of this molecule is correct?
+https://www.shutterstock.com/image-vector/general-formula-amino-acids-which-building-783423997?src=BhuianeCmBP7Vlmnreicug-1-2
+(Use top structure rather than bottom 2 structures)
+A. This region is involved in formation of the peptide bond.
+B. This region is the carboxyl group of the amino acid.
+C. This region is the amino group of the amino acid.
+D. This region determines how the amino acid interacts with other molecules.
+E. This region is the same in all amino acids.
+Feedback: Try again! Which chemical components are the same for all amino acids? Which components participate in forming the peptide bond? What is the role of the R-group?
+
+MCQ2
+What type of reaction would produce the results shown below? (Show a reaction where a dipeptide is broken into its two respective amino acids)
+
+A. A dehydration synthesis reaction forming a peptide bond.
+B. A dehydration synthesis reaction breaking a peptide bond.
+C. A hydrolysis reaction forming a peptide bond.
+D. A hydrolysis reaction breaking a peptide bond.
+E. A glycosidic linkage reaction.
+Feedback: Try again! A peptide is composed of at least two amino acids joined by a peptide bond. Remember that dehydration synthesis reactions form bonds and hydrolysis reactions break bonds.
+
+
+
+
+
+Nucleotides and Nucleic Acids
+What Are Nucleotides and Nucleic Acids?
+
+
+When I say the words “nucleic acids” what images immediately jump into your mind? (Show images of Ancestry/23 and me commercials, CSI crime scenes) Did you know that nucleic acids are your cells directions or blue prints? That nucleic acids are passed down from generation to generation? (Show parents, kids, grandparents)
+	•	Nucleic acids are polymers composed of the building blocks known as nucleotides (monomers) (Show a DNA molecule, and then zoom in so we can see the nucleotides)
+	•	There are different types of nucleic acids in your cells (Show DNA and RNA). Their cellular locations and cellular jobs are related. DNA, found in the nucleus of your cells (show an image) is the master blueprint of your cell. You wouldn’t want to risk damaging these directions, so your cell makes temporary copies of the blueprint in the form of RNA. This RNA can then be used to communicate directions to the ribosomes (builders of proteins) as to which cellular workers are needed right then.
+	•	Similar to carbohydrates and proteins, we see that nucleic acids also follow the monomer/polymer rule.
+	•	Nucleotides (monomers) are used to build nucleic acids (polymers). There are four nucleotide types used to build DNA and there are four nucleotide types used to build RNA. (Show the different types grouped by DNA or RNA). DNA is composed of the nucleotides adenine, cytosine, guanine, and thymine. RNA is composed of the nucleotides adenine, cytosine, guanine, and uracil. We can differentiate between the different nucleotide types based on their sugar (ribose vs deoxyribose (highlight in nucleotide image) and nitrogenous base (highlight bases).
+	•	The nitrogenous base of a nucleotide determines if the nucleotide is classified as a purine (two rings) or pyrimidine (one ring) (Show a highlighted comparison). Adenine and guanine are examples of purines. Cytosine, thymine, and uracil are examples of pyrimidines. 
+	•	To link individual nucleotides together to form a protein, a covalent bond called a phosphodiester bond is formed between the 3’ carbon of the sugar of one nucleotide and the 5’ carbon of the second nucleotide. (Highlight these regions in each nucleotide) This bond formation is catalyzed through a dehydration synthesis reaction by a cellular polymerase (Show a polymerase catalyzing the formation of a phosphodiester bond). To build DNA, a DNA polymerase is used, while a RNA polymerase is used to build RNA.
+	•	When many nucleotides are connected through phosphodiester bonds, a nucleic acid (polymer) is formed. (Show a molecule of RNA)
+	•	We will see that in addition to forming phosphodiester bonds, nucleotides can interact with one another through the formation of hydrogen bonds. We call this base-pairing.
+	•	DNA is double stranded, meaning that two chains of nucleotides are held together through non-covalent interactions. In general, we refer to RNA as single-strand (one chain of nucleotides) but we need to recognize the ability of that chain for fold back and interact with itself through noncovalent interactions. These non-covalent interactions are known as base-pairing.
+	•	When we talk about base pairing in nucleic acids, we are talking about nucleotides interacting with each other using their nitrogenous bases. These base pair interactions occur through hydrogen bonds formed between purines and pyrimidines. Adenine pairs with thymine in DNA and with uracil in RNA. Guanine pairs with cytosine in both DNA & RNA (Show these pairings).
+
+ELAINE SUPERBRAIN’S TASKs
+MCQ1
+Which of the following nitrogenous bases would not be used in the construction of a DNA polymer?
+A. Adenine
+B. Cytosine
+C. Guanine
+D. Thymine
+E. Uracil
+Feedback: Try again! Remember that uracil is found in RNA.
+
+MCQ2
+What part of the nucleotide should you look at if you are trying to determine if you are looking at a purine or a pyrimidine?
+A. Examine the phosphate group
+B. Examine the sugar
+C. Examine the nitrogenous base
+D. Examine the carboxyl group
+E. Examine the amino group
+Feedback: Try again! Purines have two nitrogen-containing rings fused together, while pyrimidines only have 1 nitrogen-containing ring.
+
+Kai and Kyle:
+
+Kai: Are the foods that we eat generally made up of just one type of macromolecule?
+
+Kyle: Many of the foods we eat are cellular-based which means that they simultaneously contain all of these foods. The foods will vary in their concentrations of the different types of macromolecules
+
+Progress bar
+Next>>
+Lab 3 – Understanding Basic Chemistry										                       Canvas Page 6
+How Am I Testing for Four Major Macromolecules in the Lab?
+
+How    Can I Test for the Presence of Carbohydrates?
+
+
+Benedict’s (Reducing sugar) test: Reducing sugars are generally monosaccharides but sometimes disaccharides. They are classified as reducing sugars because when examining the molecular structure, you can see that the reducing sugar possesses a free aldehyde or free ketone group. These groups can reduce oxidizing agents such as copper ions to produce a colored precipitate.
+	•	Show students the reagent bottle for Benedict’s reagent.
+	•	Have person pull stopper out of bottle so students can see blue color of reagent
+before it is ever added to sample. Add the reagent to the sample and then place the sample in the heated hot water bath for 3 minutes. Remove the samples from the water bath after 3 minutes.
+	•	Show the range of precipitate colors that can occur dependent on the concentration of simple sugars in the sample (green (low) → yellow-orange → red)
+
+Iodine (Starch) test:
+	•	Show the students the reagent bottle for the Iodine reagent.
+	•	Have person pull stopper out of bottle so students can see yellow color of reagent before it is ever added to sample. Add reagent to sample.
+	•	Show positive result (blue-black color change)
+
+
+
+
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+If a test tube contained a clear solution of starch, what would you predict would be the result of a Benedict’s test on this sample?
+A. The sample would change color to blue, indicating a positive result.
+B. The sample would change color to blue, indicating a negative result.
+C. The sample would remain clear, indicating a negative result.
+D. The sample would change color to red, indicating a positive result.
+E. The sample would change color to red indicating a negative result.
+Feedback: Try again! Remember the Benedict’s test indicates the presence of reducing sugars.
+
+MCQ2
+If a test tube contained a clear solution of glucose (monomers), what would you predict would be the result of an Iodine test on this sample?
+A. The sample would change color to blue/black, indicating a positive result.
+B. The sample would change color to blue/black, indicating a negative result.
+C. The sample would remain clear, indicating a negative result.
+D. The sample would change color to yellow, indicating a positive result.
+E. The sample would change color to yellow indicating a negative result.
+Feedback: Try again! Remember the Iodine test indicates the presence of starch.
+
+Progress bar
+Next>>
+
+
+
+
+
+
+
+Lab 3 – Understanding Basic Chemistry										                       Canvas Page 7 
+How Am I Testing for Four Major Macromolecules in the Lab?
+How    Can I Test for the presence of Lipids?
+
+
+To test for the presence of lipids in samples, we will be using the reagent Sudan III to perform a Sudan test. To set-up the Sudan test, you will count how many samples you will be testing for lipids. You will take a sheet of filter paper and then draw a pencil circle with a 2 cm diameter for each of your samples to be tested. Label each circle with the sample you plan on placing in that circle. Each circle will receive 2 drops of a designated sample being sure that you labeled your circles with pencil. Allow the filter paper to completely dry. Immerse the dried filter paper containing your labelled samples into the Sudan III solution in the lab’s chemical hood. Incubate your samples in the Sudan III solution for 5 minutes. After 5 minutes, remove your filter paper using forceps and transfer the filter paper into the water pan located in the hood. Your filter paper should remain in the water pan for 1 minute. After 1 minute, remove your filter paper and examine each circle. If the circle where your sample was placed appears orange, that sample is positive for lipids. The more intense the orange color, the stronger the reaction.
+
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+Imagine you are testing two samples, A & B. After you perform the Sudan test, the circle containing sample A is blue and the circle containing sample B is orange. What is the correct interpretation of these results?
+A. The blue color indicates a positive test for lipids, so Sample A contains lipids.
+B. The orange color indicates a positive test for lipids, so Sample B contains lipids.
+C. Both Samples A & B are positive for lipids.
+D. Both Samples A & B are negative for lipids.
+E. Answers A, B, and C are correct.
+Feedback: Try again! Remember the Sudan test indicates the presence of lipids by producing an orange color.
+
+
+
+MCQ2
+What does the intensity of a positive Sudan test indicate?
+A. Concentration of amino acids
+B. Concentration of peptide bonds
+C. Concentration of glycosidic bonds
+D. Concentration of carbohydrates
+E. Concentration of lipids
+Feedback: Try again! Remember that the more concentrated the lipid sample, the more intense the orange color produced.
+
+
+Progress bar
+Next>>
+
+
+
+
+
+
+
+
+
+
+
+Lab 3 – Understanding Basic Chemistry										                       Canvas Page 8 
+How Am I Testing for Four Major Macromolecules in the Lab?
+How Can I Test for the Presence of Protein?
+
+
+
+To test for the presence of peptide bonds found in proteins, we will be using the Biuret test. 
+	•	Have person hold up the Biuret reagent
+	•	Have person show a dropper containing the blue-green colored Biuret reagent
+	•	This reagent contains 1% copper sulfate and sodium hydroxide. A color change indicating the presence of peptide bonds will occur as a result of an interaction between the copper ions in the reagent and peptide bonds in the sample being tested.
+	•	Have person show an example of a positive result.
+	•	Note the color change from blue-green to violet, indicating the presence of peptide bonds
+
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+If a test tube contained a clear solution of individual amino acids (monomers), what would you predict would be the result of a Biuret test on this sample?
+A. The sample would change color to blue-green, indicating a positive result.
+B. The sample would change color to blue-green, indicating a negative result.
+C. The sample would remain clear, indicating a negative result.
+D. The sample would change color to violet, indicating a positive result.
+E. The sample would change color to violet indicating a negative result.
+Feedback: Try again! Remember the Biuret test indicates the presence of peptide bonds found in proteins (polymers).
+
+
+
+MCQ2
+What does the color intensity of a positive Biuret test indicate?
+A. Concentration of amino acids
+B. Concentration of peptide bonds
+C. Concentration of glycosidic bonds
+D. Concentration of carbohydrates
+E. Concentration of lipids
+Feedback: Try again! Remember that the copper ions in the Biuret reagent interact with peptide bonds to produce the color change.
+
+
+Progress bar
+Next>>
+
+
+
+
+
+
+
+
+
+
+
+Lab 3 – Understanding Basic Chemistry										                       Canvas Page 9
+How Am I Testing for Four Major Macromolecules in the Lab?
+How Can I test for the Presence of Nucleic Acids?
+
+
+
+So far we have discussed the four major molecules. In lab, we will only be testing for three of the four major molecules: lipids, carbohydrates, and proteins. However, we want you to be aware that there are lab tests that can allow you to test for the presence of nucleic acids such as DNA. For example, the Dische diphenylamine test indicates relative concentration of deoxyribose, a component of the nucleotides that make up DNA. When diphenylamine is exposed to deoxyriboses in a solution, a blue color results indicating a positive result.
+
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+If a test tube contained a solution RNA, what would you predict would be the result of a Dische diphenylamine test on this sample?
+A. The sample would change color to blue-green, indicating a positive result.
+B. The sample would change color to blue-green, indicating a negative result.
+C. The sample would remain clear, indicating a negative result.
+D. The sample would change color to violet, indicating a positive result.
+E. The sample would change color to violet indicating a negative result.
+Feedback: Try again! Remember the Dische diphenylamine test indicates the presence of deoxyribose. Would deoxyribose found in RNA?
+
+MCQ2
+What does the color intensity of a positive Dische diphenylamine test indicate?
+A. Concentration of deoxyribose
+B. Concentration of peptide bonds
+C. Concentration of ribose
+D. Concentration of amino acids
+E. Concentration of lipids
+Feedback: Try again! Remember the Dische diphenylamine test indicates the presence of deoxyribose.
+Progress bar
+Next>>
+
+
+Lab 3 – Understanding Basic Chemistry										                       Canvas Page 10 
+Using pH Paper
+
+Let’s See How to Use pH Paper
+
+
+In working research labs, a pH meter is often used to determine the pH of samples and solutions. This instrument can provide accurate measurements to two decimal places but is expensive and requires calibration to maintain an accurate pH range. For our needs in this lab, pH strips are a less expensive option that although are less accurate than a pH meter (no decimal places), still provide us with a measurable range of pH.
+
+
+ELAINE SUPERBRAIN’S TASKS
+
+Progress bar
+Next>>
+
+Lab 3 – Understanding Basic Chemistry										                       Canvas Page 11 
+HARRY’S TIP OF THE DAY
+Pay attention to feedback in the activities! You can learn a lot from them. Research shows learning from feedback is one of the most effective ways of learning.
+
+WHAT SHOULD I EXPECT FOR THIS LAB?
+In class lab activities will include:
+	•	Experimentally determining the pH of solutions
+	•	Testing for the presence of carbohydrates, lipids and proteins in samples
+	•	Making predictions about the outcomes of experiments
+	•	Collecting data and summarizing experimental results
+
+HOW SHOULD I PREPARE FOR THIS LAB?
+Remember to
+	•	Complete the Reagent key sheet BEFORE coming to lab.
+	•	Read the lab text and bring your lab manual with you.
+The table should have the following columns:
+Column 1: Reagent with molecule it is testing for (already filled in for student)
+Column 2: Student should fill in what color each reagent is before the reagent is applied to sample
+Column 3. Students should fill in what a negative reaction should look like
+Column 4 Students should fill in what a positive reaction should look like
+
+
+Congratulations! You’ve completed the online work for Lab 3.
+Progress bar
+See you in the lab!
+
+Next>>
+

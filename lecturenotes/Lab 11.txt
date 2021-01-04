@@ -1,0 +1,248 @@
+ Canvas Page 1
+Lab 11 – Mystery of Mysteries: Understanding Evolution and Taxonomy                                         
+Learning Goals and Skills
+ 
+What’s the Main Goal of This Lab?
+Accurately illustrate how evolution is supported by different types of data and how that data can be presented in different formats
+ 
+How Will I Accomplish This Goal?
+By the end of the week, you should be able to:
+1)    Define evolution, microevolution, and macroevolution. Provide examples of micro and macro-level evolution
+2)    Illustrate beak variations in Darwin's finches
+3)    Compare and contrast artificial and natural selection
+4)    Discuss the importance of studying fossils and paleontology
+5)    Describe conditions that support fossilization
+6)    Describe the role of taxonomy in modern biology and distinguish between taxonomy, systematics, and cladistics
+7)    Describe the composition, derivation, and purpose of scientific names
+8)    Discuss and outline the basic taxa used in taxonomy
+9)    Utilize and construct a simple biological key and a cladogram
+ 
+What Skills Will I need To Accomplish This Goal?
+·     Having knowledge of your own thought processes
+·     Accurately judging what you know and what you don’t know
+·     Critical thinking
+·     Showing knowledge processes in diagram/chart/table
+ 
+ 
+ [Checklist Placeholder]
+Next>>
+
+
+
+
+
+
+
+Canvas Page 2
+Lab 11 – Mystery of Mysteries: Understanding Evolution and Taxonomy                                                 
+Evolution - Micro & Macro
+ 
+In Lab 8, we examined the process of DNA replication. In Lab 9, we worked through how DNA is distributed among newly formed cells. In Lab 10, we practiced predicting patterns of genetic inheritance. Now in Lab 11, we are going to examine how different types of evidence support how changes in a population’s gene pool are the basis of evolution.
+ 
+What Do We Mean by Evolution?
+https://www.pbs.org/wgbh/nova/labs/video_popup/6/35/ (0:00-4:22)
+ 
+WINDY WONDERS!!
+Is evolution happening right now?
+ 
+What Happened to Darwin’s Finches? 
+You will be watching the following interactive video that provides an update regarding the type of research that has been done on the Galapagos Island finches since Darwin’s voyage. Interspersed within the interactive video are questions to help you check your understanding of the material. Be sure to attempt all questions presented in this interactive video.
+ https://www.biointeractive.org/classroom-resources/interactive-assessment-beak-finch
+
+KYLE AND KAI
+Kyle: Could there ever be a new species of finch recorded in our lifetime on the Galapagos Islands?
+Kai: Yes! A research article was published in 2017 that highlighted an example of this very occurrence recorded by researchers (Science 12 Jan 2018: Vol. 359, Issue 6372, pp. 224-228.) In 1981, a founder male immigrated to the Daphne Major island and mated with a resident female finch. Off-spring from this mating, designated as members of the “Big Bird lineage”, have been tracked for 3 generations and have formed a reproductively isolated population based on their song. 
+
+What Are Other Examples of Evidence for Evolution?
+In “The Origin of Species: The Beak of the Finch” video, Dr. Grant discussed how DNA evidence supported that the 13 finch species on the Galapagos Island originally evolved from one ancestor species from the mainland. Now let’s recall that Darwin proposed descent with modification back in the 1800’s and we know that he did not have access to the DNA technology of today. So what types of evidence could he and others have collected that supported evolution? 
+Before the dawn of DNA sequencing, researchers relied heavily on the examination of the organism themselves. For example, a scientist comparing organisms may note similarities in anatomical patterns or arrangements of structures in the organisms with the caveat that there may be differences/modifications in function of these structures. If we examine the drawing below, we can begin to understand how scientists went about the process of identifying homologous structures when comparing certain groupings of organisms.
+Lisa: https://www.shutterstock.com/image-vector/structure-forelimb-mammals-human-arm-lion-291000254
+
+https://www.shutterstock.com/image-vector/bird-bat-dragonfly-butterfly-wings-set-1403741543: Just need image of bat wing (bottom left) & butterfly wing (top right) to compare
+The forelimbs of the organisms depicted above are homologous structures. This means that these organisms share common ancestry and that over many generations although the original overall arrangement/pattern of the forelimb was maintained in future generations, modifications developed in the descendants’ forelimbs leading to the diversity in function. 
+To put this in simpler terms, although the bird’s and the horse’s forelimbs both maintain a pattern of a humerus, ulna, and radius, the function of the forelimb is not the same in these organisms. The horse uses the forelimb for walking/running while the bird uses the forelimb for flying. In this example, we see similarities in arrangement with modification in function.
+At this point, you may be asking yourself, but what about organisms that have structures with similar functions? Are these structures automatically classified as homologous structures? The simple answer is no.
+Analogous structures are similar features that evolved in different species independently, based on environment, and not as a result of common ancestry. This process is known as convergent evolution. For example, both the bat wing and the insect wing function in flight. Although both of these structures are used for flight, these two species do not share a recent common ancestor. 
+
+Another source of evidence that supports evolution is obtained by studying an organism’s development.  As we can see below, often times what are known as ancestral characters can be observed during the embryonic stage of an organism’s development. 
+https://www.shutterstock.com/image-illustration/different-stages-early-embryonic-development-1368274100
+
+As we can see in the embryos shown above, at the earliest stage (far left of the figure), the embryo of each species is displaying shared ancestral characters. One example is a tail. As each type of embryo develops, we see that some species retain the tail as they develop while other species do not. The existence of a tail at the beginning of the species embryonic development supports common ancestry.
+ 
+ 
+ 
+Next>>
+ 
+ 
+Canvas Page 3 
+Lab 11 – Mystery of Mysteries: Understanding Evolution and Taxonomy                                        
+Artificial & Natural Selection
+ 
+What Are Artificial Selection & Natural Selection?
+When we discuss natural selection we are referring to the environment putting selective pressure on a population as to which members will be able to survive and reproduce, thus passing their genes on to the next generation. For natural selection to function in a population, the following criteria need to be met: 1) variation occurs within a population, 2) traits need to be heritable, 3) certain traits confer a reproductive advantage in that particular environment and 4) the environment provides selective pressure.
+As humans, we have applied our own selection criteria to organisms and through selective breeding programs have cultivated what we deem to be desirable phenotypic outcomes in populations. This type of selection is known as artificial selection. A famous example of artificial selection applied to an organism is the manipulation of the wild mustard plant. 
+Lisa: I couldn’t find a shutterstock image. Please generate an image similar to this
+
+As you can see in the above image, a common ancestor, the wild mustard plant, was used as the starter population for the artificial selection process. Certain phenotypic outcomes were deemed desirable and those plants displaying those outcomes were selected by humans to produce the next generation of plants. This occurred over many generations and eventually resulted in the cultivars of the species shown above. This selective breeding program provided humans with a broader range of food resources based on the original ancestor plant, in turn benefiting the human population. Unfortunately, not all examples of artificial selection result in positive outcomes.
+
+https://www.shutterstock.com/image-photo/side-view-curious-french-bulldog-puppy-326400125
+
+An artificial selection example where humans failed to consider the effects of phenotypic outcomes on the organism that they were manipulating is the French Bulldog. Over many generations, those individuals displaying the “cute” smooshed face were selected to produce the next generation. This has now resulted in an inbred population of dogs with respiratory issues and extreme underbites. In today’s French Bulldog population, successful breeding of these animals often requires human intervention in the form of artificial insemination and cesarean section due to difficulty with natural birth. The French Bulldog is a perfect case study on the limitations of artificial selection. 
+Through inbreeding to obtain a so-called desired phenotype, humans have generated a population of dogs with a reduced gene pool. This has led to dogs with increased susceptibility to disease and a population rife with deleterious phenotypes.
+
+WINDY WONDERS!! 
+How do we have so many breeds of dogs? 
+ 
+ELAINE SUPERBRAIN’S TASK
+MCQ1
+Which of the following is not a factor associated with natural selection?
+	•	Reproductive advantage
+	•	Heritability
+	•	Environmental pressure
+	•	Human influence
+	•	Both C & D
+Feedback: What factor differentiates natural selection from artificial section?
+
+MCQ2
+Which of the following is a possible consequence of artificial selection?
+	•	Inbreeding
+	•	Reduced gene pool
+	•	Increased susceptibility of a population to disease
+	•	Emergence of deleterious phenotypes
+	•	All of the above answers are possible consequences of artificial selection
+Feedback: Consider what happens when you are pushing for one specific outcome to occur in every future member of a population.
+
+
+
+ 
+ Next>>
+ 
+ 
+ 
+Canvas Page 4
+Lab 11 – Mystery of Mysteries: Understanding Evolution and Taxonomy                                            
+Fossils & Paleontology
+ 
+ 
+Why Do We Need to Study Fossils?
+Video: https://www.pbs.org/wgbh/nova/labs/video_popup/6/37/
+ 
+How Does Fossilization Happen?
+Natisha to find a video if available
+Can we use this one: https://www.youtube.com/watch?v=ID7qhn1ipmw
+
+WINDY WONDERS!!!
+Why is the current fossil record incomplete?
+
+What is the Difference Between Relative and Absolute Dating? 
+ [Lightboard Christy & Jen]
+
+ELAINE SUPERBRAIN’S TASK
+Add images of fossils and ask students to identify what they are - Drag and drop 
+Possible Pictures (answers - no distractors):  
+Directions: Match the image to its correct name. You may use the internet and/or your laboratory manual to assist you in this process.
+Brachiopod: https://www.shutterstock.com/image-photo/400-million-years-old-silurian-sea-1051154084
+Bivalve: https://www.shutterstock.com/image-photo/fossils-gemstones-arranged-on-seamless-red-1396820399
+Ammonite (& Cephalopod):
+https://www.shutterstock.com/image-photo/ammonite-fossil-shell-isolated-on-white-1303574383
+Trilobite:
+https://www.shutterstock.com/image-photo/dalmanite-trilobite-fossil-specimen-dalmanites-limulurus-122858077
+Sea urchin: https://www.shutterstock.com/image-photo/fossil-sea-urchin-1367197313
+Megalodon tooth: https://www.shutterstock.com/image-photo/45-million-year-old-megalodon-shark-85081393
+
+ 
+ 
+Next>>
+ 
+
+
+ 
+Canvas Page 5
+Lab 11 – Mystery of Mysteries: Understanding Evolution and Taxonomy                                            
+Taxonomy
+ 
+ 
+What Are Taxonomy and Classification?
+
+The branch of science that focuses on classifying organisms is known as taxonomy. In the mid-1700’s Carol Linnaeus, known as the father of taxonomy, proposed a system for classifying/grouping organisms based on inclusivity. The broadest or most inclusive category to place an organism in is “Domain” while the narrowest or least inclusive category to place an organism in is “Species”. 
+https://www.shutterstock.com/image-vector/hierarchy-biological-classification-major-taxonomic-ranks-451118377 Lisa: can we add a layer at the very bottom of the pyramid to represent “Domain”?
+
+ 
+For example, we can classify the asian elephant shown below. We can see that the elephant belongs to the Kingdom Animalia. This is a fairly broad category since it encompasses all animals and therefore places the elephant in the same category as all insects. We can increase our specificity by moving down the line to Family Elephantidae. This removes insects but is still not very specific because this category include all elephants and mammoths. If you specifically want to refer to the asian elephant, you need to use binomial nomenclature by providing the organism’s proper genus & species names. In this case, Elephas maximus.
+(https://www.shutterstock.com/image-vector/illustration-asian-elephant-elephas-maximus-116154307 Lisa: Can we add Domain: Eukarya to this image?
+ 
+What’s the Purpose of All These Scientific Names?
+
+When discussing a specific type of organism with another person, how would you know that you are both discussing the same organism if that organism is not directly in front of both of you? Providing the scientific name of an organism can be crucial when trying to accurately compare data and conduct future experiments. For example, let’s discuss a hypothetical situation based on the images shown below. Pretend that you and a fellow scientist based in Chile want to have a telephone discussion involving data you have collected on the butterfly species on the left. Without viewing the organism in detail or its DNA profile, how would you know that you were talking about the butterfly species on the left and not the one depicted on the right? 
+
+You could waste valuable time describing the physical appearance of the butterfly in detail to the other scientist or you could provide your colleague with its name, Leptidea juvernica. In this instance, providing the name saves time and helps you to focus the discussion on the data collected for that specific species.
+Lisa:Something like this that combines the following images and labels them: shutterstock image 706775404 & 190758389
+
+
+ KYLE AND KAI
+Kai: How would we properly classify humans?
+Kyle: Domain Eukarya, Kingdom Animalia, Phylum Chordata, Subphylum Vertebrata, Class Mammalia, Order Primates, Family Hominidae, Genus Homo, Species sapiens
+ 
+ 
+How Do We Make a Cladogram?
+OER video
+https://www.youtube.com/watch?v=ouZ9zEkxGWg
+
+What is a Dichotomous Key?
+OER video
+https://www.youtube.com/watch?v=wpKulkADzBk 
+ 
+ELAINE SUPERBRAIN’S TASK
+Lisa: Something like this (couldn’t find shutterstock image):
+
+MCQ1
+What do all the organisms represented in the cladogram have in common?
+	•	They all are vertebrates
+	•	They all have eggs with shells
+	•	They all have hair
+	•	They all have a bony skeleton
+	•	There is not a characteristic shared among all of the organisms represented in the cladogram
+Feedback: Where should you begin reading on a cladogram?
+
+MCQ2
+Based on the cladogram, which pair of organisms share the greatest number of derived characters?
+	•	Amphibians and Crocodiles
+	•	Sharks and Ray-finned fish
+	•	Primates and Rabbits
+	•	Crocodiles and Birds 
+	•	Both C & D are correct
+Feedback: Count how many derived (shared) characteristics each pair shares.
+
+
+ 
+ 
+ 
+Next>>
+ 
+ 
+Canvas Page 6
+Lab 11 – Mystery of Mysteries: Understanding Evolution and Taxonomy                                            
+ 
+ 
+HARRY’S TIP OF THE DAY
+Test your understanding while learning. Periodic self-testing is proven an effective technique to learn more deeply. Kai and Windy have started the process. We encourage you to continue to develop your self-testing skills in this course as well as throughout your academic career.
+ 
+ 
+WHAT SHOULD I EXPECT FOR THIS LAB?
+In class lab activities will include:
+	•	Modeling natural selection of bird beak shape
+	•	Examining and categorizing fossils
+	•	Comparing and contrasting homologous and analogous structures
+	•	Viewing vertebrate embryo slides using a microscope and recording your observations
+	•	Correctly using a dichotomous key
+	•	Designing a dichotomous key
+	•	Constructing a cladogram
+
+HOW SHOULD I PREPARE FOR THIS LAB?
+Remember to:
+	•	Read the lab text and bring your lab manual with you to lab. 
+	•	Preparing a checklist of what you will need to accomplish during lab. This will allow you to stay on task during your lab time.
+
+Congratulations! You’ve completed the online work for Lab 11.
+See you in the lab!
+

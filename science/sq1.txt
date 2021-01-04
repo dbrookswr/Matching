@@ -1,0 +1,6 @@
+1. In which of Studies 1 and 2 did some of the fruit flies live for more than 75 days, and what diet were those fruit flies fed? 
+ Study 1; 05% SY medium 
+ Study 1; 15% SY medium 
+ Study 2; 05% SY medium 
+ Study 2; 15% SY medium 
+

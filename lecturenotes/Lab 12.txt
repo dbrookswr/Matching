@@ -1,0 +1,268 @@
+Canvas Page 1
+Lab 12 – But One Earth: Understanding Basic Ecology                                         
+Learning Goals and Skills
+ 
+What’s the Main Goal of This Lab?
+Accurately describe various levels of organization and the tools used to study these levels in the field of ecology
+ 
+How Will I Accomplish This Goal?
+By the end of the week, you should be able to:
+1)    Define and differentiate ecology and environmental science
+2)    Define and describe population, community, ecosystem, and biome
+3)    Construct and describe a food web based on trophic levels
+4)    Define and investigate several keystone, endangered, threatened, and invasive species in your area
+5)    Compare and contrast the different types of survivorship curves that occur in nature
+ 
+What Skills Will I need To Accomplish This Goal?
+·     Having knowledge of your own thought processes
+·     Accurately judging what you know and what you don’t know
+·     Critical thinking
+ 
+ 
+ 
+ [Checklist Placeholder]
+Next>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canvas Page 2
+Lab 12 – But One Earth: Understanding Basic Ecology                                                 
+At the Population Level of Biological Organization
+ 
+https://www.shutterstock.com/image-vector/hierarchy-biological-organization-126853934  Lisa: Please relabel “BIOCENOSES” as “COMMUNITY” and “BIOMA” as “BIOME”
+
+As you have completed the labs in this course, you have worked your way through the organizational hierarchy of life. For example, in lab 3 you conducted experiments using different types of macromolecules. In lab 4, you examined various types of cells that exist in nature. In lab 11, you modeled the process of speciation resulting in certain organisms having a reproductive advantage that led to the passing of their genetic information to the next generation of that population. In lab 12, you will now delve into the larger scale levels of life’s hierarchy in the form of populations, communities, ecosystems, biomes, and the biosphere.
+
+
+
+What do We Mean by Population?
+https://www.shutterstock.com/image-photo/gold-harbour-south-georgia-home-large-1354576379
+
+A population is a group of organisms of the same species that occupy the same area and possess the ability to interbreed with one another to produce viable offspring. As you can see in the image above, a population of King penguins in Gold Harbour is clustered together on a beach. The juveniles of this population have the characteristic brown downy feathers while the adults have the black, yellow, and white coloration. The beach that the population occupies represents the “address” or habitat of the population. If we were to describe the particular niche or “ecological role” of this penguin population, we would need to outline the population’s required abiotic (nonliving, example: water, temperature) and biotic (living, example: fish) resources. 
+
+How can we quantify population dynamics?
+If a population were not limited by resources and space constraints, that population could have the potential to display exponential growth. A population undergoing exponential growth will increase their population size at a constant rate, resulting in a J-shaped growth curve. 
+Lisa; an image like the one below, couldn’t find on shutterstock
+
+
+In real life, populations do experience limited resources and space constraints. The environment pushes back so to speak resulting in populations leveling off in size. Logistic growth is the type of growth where the population size levels off near the size of maximum population number that can be sustained by the environment.
+
+A population undergoing logistic growth will increase their population size at a constant rate until the population size nears the carrying capacity (K) of the environment. As the population size nears carrying capacity, the growth rate decreases and eventually flat lines resulting in an S-shaped growth curve. At this point, the number of individuals being produced is roughly equal to the number of individuals dying in the population so the population size stays stable.
+Lisa; an image like the one below, couldn’t find on shutterstock
+
+
+Note that for both types of growth curves discussed above, the initial population growth at the beginning is slow, known as the lagging phase. As the population size increases over time, each of the growth curves display exponential growth. Eventually, the logistic growth curve displays slowed growth followed with a leveling off, unlike the exponential growth curve.
+
+Lisa; an image like the one below, couldn’t find on shutterstock
+
+
+When we examine population dynamics over time, we can record how many members of the population are alive and record their age. As we follow the population over time, based on the data, we can begin to determine the typical age that individuals in that population are likely to die. When we plot this information on a graph, we generate a survivorship curve.
+
+Lisa, A picture similar to this, unless we have rights to: https://www.britannica.com/science/survivorship-curve/media/575473/11
+
+When we plot survivorship in a population, typically one of three patterns emerges. A population displaying a Type I survivorship curve has a low death rate in individuals that are young to middle age but eventually the survivorship numbers will drop drastically as the death rate increases in late adulthood. These organisms generally have just a few offspring but make a large investment in their care. In general, humans display a Type I survivorship curve.
+
+A population displaying a Type II survivorship curve has a death rate that is for the most part age-independent. Individuals have an equal likelihood of dying at any age in the population. Mice and many birds display a Type II survivorship curve.
+
+A population displaying a Type III survivorship curve has a high death rate in individuals that are young with the death rate leveling off with age. These organisms generally have large numbers of offspring but provide little to no care to their offspring. Fishes display a Type III survivorship curve.
+
+ELAINE SUPERBRAIN’S TASK
+Lisa: Something like this.
+
+MCQ1
+In the diagram above, where is carrying capacity indicated?
+	•	A
+	•	B
+	•	C
+	•	A & B
+	•	C & D
+Feedback: The wording “carrying capacity” gives you a clue to its definition. In everyday life, what does it mean if you reach capacity?
+
+MCQ2
+If the diagram above represents a bacterial population’s size recorded over time, where in the graph does exponential growth of the population occur?
+	•	A
+	•	B
+	•	C
+	•	D
+	•	C & D
+Feedback: Tease apart the meaning of each of the words. Growth would indicate what? Exponential refers to?
+
+Next>>
+ 
+Canvas Page 3 
+Lab 12 – But One Earth: Understanding Basic Ecology                                        At the Community Level of Biological Organization
+ 
+What do We Mean by Community?
+A community encompasses all biotic (living) organisms found within a local area. In the following video, you will see how you can categorize the different types of interactions between different species that can occur within a community setting.
+
+[Lightboard Jen & Christy: Recorded 7.12.19]
+ 
+KYLE AND KAI 
+Kai: I’ve heard people mention “keystone species” and “invasive species”. Why are some species classified as keystone and others as invasive?
+Kyle: A keystone is the “block” located at the center of an arch (Image shown below). If the keystone is removed, the arch falls apart. A keystone species is a species whose removal from a community would cause the community dynamics to collapse. Invasive species are non-native species that when introduced to an environment cause harm. The introduction of an invasive species, similar to the removal of a keystone species,  can also cause community dynamics to collapse.
+https://www.shutterstock.com/image-photo/rock-arch-on-taquile-island-puno-105000680
+ 
+
+How can Members of a Community be Categorized based on Energy Acquisition?
+https://www.shutterstock.com/image-illustration/overview-different-stages-forest-food-chain-1256341846 Lisa: Please change this image such that the hawk is labeled a quaternary consumer rather than a tertiary consumer
+
+Organisms can be grouped based on how they acquire energy. A simplistic view of trophic (energy) levels is: are you a producer or a consumer? Primary producers are autotrophs, organisms that produce their organic molecules using carbon dioxide. The primary producers that we are most familiar with in this course are those capable of performing photosynthesis: plants, cyanobacteria, and algae. The primary producers form the base of the food chain in an environment, providing a fixed source of carbon to other organisms. Consumers, also known as heterotrophs, are organisms that must consume (eat) other organisms to meet their energy requirements. A primary consumer consumes primary producers. A secondary consumer consumes primary consumers. A tertiary consumer consumes secondary consumers. A quaternary consumer consumes tertiary consumers. In addition to these methods of classification, we also have those organisms that obtain their energy requirements from consuming dead organic matter. Scavengers, such as buzzards, feed off of dead organisms while decomposers, such as some bacteria and fungi, break down organic matter into smaller components.  
+
+How Do We Construct A Food Web?
+Natisha: Can we use this?: https://www.khanacademy.org/partner-content/mit-k12/chem-and-bio/v/a-million-sharks
+
+WINDY WONDERS!!!
+Knowing some local ecosystems, what is a food web with Southern Nevada animals?
+
+KYLE AND KAI
+Kai: Some species are categorized as “threatened” while others are categorized as “endangered”. What’s the difference?
+Kyle: A species that is endangered is at a high risk of extinction throughout all or a large portion of its natural habitat range. A species that is threatened is highly likely to become endangered in the near future.
+
+ELAINE SUPERBRAIN’S TASK
+Natisha: Can we use this worksheet?
+https://www.fws.gov/uploadedFiles/Food%20Webs%20and%20Food%20Chains%20Worksheet.pdf
+
+Next>>
+ 
+
+Canvas Page 4 
+Lab 12 – But One Earth: Understanding Basic Ecology                                            
+At the Ecosystem Level of Biological Organization
+
+What do We Mean by Ecosystem?
+https://www.shutterstock.com/image-photo/colorful-tropical-coral-reef-fish-blue-1225003285
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An ecosystem is the combination of biotic (living) and abiotic (nonliving) components found within a certain environment. For example, as we examine the marine ecosystem shown above, we can see many examples of biotic components including fish and corral in addition to abiotic components such as water and sunlight.
+ 
+What Types of Ecosystems Can I Find Near Me?                                      
+Living in the day to day hustle of a metropolitan area, we sometimes forget to stop and take time to recognize how diverse life is around us. To broaden your understanding and appreciation of the region that you live in, you are asked to view the following videos from local Southern Nevada ecosystems. 
+
+Keep in mind during your video review that you will be asked to compose and submit an essay that addresses the following questions for an Elaine SuperBrain Task discussion post: 
+	•	What are some abiotic factors in this ecosystem?
+	•	What are some biotic factors in this ecosystem? 
+	•	Name some plants or animals (vertebrate or invertebrate) in this area.
+	•	Are there any invasive species in the area?
+	•	How would the weather differ in this area compared to the Las Vegas Valley?
+
+In the following videos, you’ll be able to obtain the answers to the above questions:
+Red Rock Canyon: https://www.youtube.com/watch?v=hMPUlvHl4LY
+Las Vegas Wetlands Wash: https://www.youtube.com/watch?v=-5t7RntGmWc
+Fire ecology on Mt Charleston: 
+	•	News Broadcast: https://www.youtube.com/watch?v=WCV0VzKxWQ4
+	•	Fire Ecology Suppression: https://www.youtube.com/watch?v=XeWIAzJltBk
+Ash Meadows:  
+	•	Endangered Species, Devil’s Hole Pupfish: https://www.youtube.com/watch?v=c4lp-QdDuIw
+	•	Ash Meadows Informational Video: https://vimeo.com/groups/13672/videos/87197860
+Lake Mead:
+	•	Lake Mead Informational video: https://www.youtube.com/watch?v=PdTfSgm7cio&t=91s
+	•	Invasive species, Quagga Mussels: https://www.youtube.com/watch?v=KW8kNSS3dJ4
+
+WINDY WONDERS!!
+ Why do we have so many ecosystems in Southern Nevada?
+ 
+ELAINE SUPERBRAIN’S TASK
+Using the local ecology videos provided above, write a 5 paragraph essay addressing all of the following questions based on ONE local ecosystem (Pick one of these ecosystems to base your essay on: Red Rock Canyon, Mt Charleston, Ash Meadows, or Lake Mead):
+	•	What are some abiotic factors in this ecosystem?
+	•	What are some biotic factors in this ecosystem? 
+	•	Name some plants or animals (vertebrate or invertebrate) in this area.
+	•	Are there any invasive species in the area?
+	•	How would the weather differ in this area compared to the Las Vegas Valley?
+	•	Be sure to properly include and apply at least five ecological terms that are associated with your selected ecosystem. See list below for the ecological word bank.
+Ecological Word Bank: Ecosystem, Biotic, Abiotic, Populations, Habitat, Niche, Community, Biosphere, Keystone Species, Trophic levels, Producers, Consumers, Decomposers, Food Chain, Food Web, Endangered Species, Threatened Species, Invasive species, Pollution
+	•	NOTE: You are welcome to use outside sources other than the videos to answer the questions provided as well. If you chose to use outside resources, please provide these references at the end of your essay.
+	•	Be sure to check your essay for proper grammar and spelling. Once complete, submit your essay to the discussion board.
+Formatting requirements for your essay: Use Times New Roman font, size 12. Page margins should be 1 inch. 1.15 line spacing. Your first and last name, NSHE number, Lab section number, and selected Ecosystem name should be at the top left corner of the first page of your essay. 
+ 
+ 
+Next>>
+ 
+Canvas Page 5
+Lab 12 – But One Earth: Understanding Basic Ecology                                            
+At the Largest Levels of Biological Organization
+
+What is a Biome and a Biosphere?
+A biome is an area characterized by a vegetation type or by physical environment. Examples of biomes characterized by vegetation type include: tropical forest, savanna, desert, chaparral, temperate grassland, temperate broadleaf forest, northern coniferous forest, and tundra. Examples of biomes characterized by physical environment include polar ice, marine-based, freshwater-based, and mountains. All of the biomes on earth compose the biosphere.
+https://www.shutterstock.com/image-vector/map-major-terrestrial-biomes-main-world-1316553758
+
+
+As you can see above, the placement of the various biomes varies on Earth. Latitude, air currents, positioning relative to the ocean (coastal versus interior), ocean currents, and positioning of mountains can all affect which types of biomes are supported at specific locations. There are patterns that you can begin to tease out based on these criteria. In your Elaine SuperBrain task, you will be provided with access to an interactive biome viewer. We recommend that you explore this interactive biome viewer to build a better understanding of the similarities and differences among the different biomes. In addition, you will be tasked with answering specific questions based on the interactive biome viewer.
+
+
+ELAINE SUPERBRAIN’S TASK 
+Using the interactive biome viewer: https://www.biointeractive.org/classroom-resources/biomeviewer answer the following questions
+MCQ1
+Using the search window, search for Mazagao, Brazil. Select the “Compare” option in the bottom middle section of the right table. Type in Simi Valley, CA in the search window. Now that both types of biomes are presented to you, which of the statements below accurately describes the data presented in this comparison?
+	•	On average, the tropical forest receives more rain over a year than the chaparral.
+	•	Both biome examples receive relatively high amounts of precipitation in October.
+	•	The chaparral experiences higher temperatures on average than the tropical rain forest.
+	•	The tropical rainforest has more species of reptiles recorded than the chaparral. 
+	•	Both biomes have the same number of endangered species using the threat level filter.
+Feedback: Go through the answers one by one, using the data to either accept or reject the answer. 
+
+MCQ2
+Using the search window, search for Akita, Japan. Select the “More” option in the bottom left corner of the right table. Which of the following answers best describes the biome represented in Akita, Japan?
+	•	A tropical dry forest with many mammals and few reptiles.
+	•	A temperate deciduous forest with higher temperatures during July and August.
+	•	A savanna that experiences high levels of precipitation as well as high temperatures.
+	•	A tropical rain forest that experiences high levels of precipitation.
+	•	A temperate coniferous forest with lower temperatures in November and December.
+Feedback: Go through the answers one by one, using the data to either accept or reject the answer.
+Next>>
+
+
+Canvas Page 7
+Lab 12 – But One Earth: Understanding Basic Ecology 
+ 
+ 
+HARRY’S TIP OF THE DAY
+Instead of cramming before a quiz and reading everything all at once, practice identifying the important information in segments. Don’t be afraid to pause the videos and rewind. Make sure to pace yourself when reading text so that you don’t miss important information. Try to summarize the main ideas when watching the videos or reading the texts.
+ 
+ 
+WHAT SHOULD I EXPECT FOR THIS LAB?
+ In class lab activities will include:
+	•	A class discussion of extinction
+	•	An examination of non-native and invasive species in Nevada
+	•	Graphing survivorship curves
+	•	Modeling exponential growth
+	•	Modeling carry capacity and logistic growth
+ 
+ 
+HOW SHOULD I PREPARE FOR THIS LAB?
+ Remember to:
+	•	Read the lab text and bring your lab manual with you to lab.
+
+
+
+
+Congratulations! You’ve completed the online work for Lab 12.
+See you in the lab!
+

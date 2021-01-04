@@ -1,0 +1,13 @@
+In 2 experiments, a student pulled each of 3 blocks in a straight line across a flat, horizontal surface. 
+In Experiment 1, the student measured the pulling force (the force required to move each block at a constant speed) and plotted the pulling force, in newtons (N), versus block mass, in kilograms (kg). The results are shown in Figure 1. 
+pulling force (N) 0 5 10 15 20 25
+ 
+
+block mass (kg) 0 .5 1 1.5 2 2.5 3 3.5 4 4.5 
+Figure 1 
+In Experiment 2, the student measured the speed versus time of a 2.00 kg block, a 2.50 kg block, and a 3.00 kg block as each block was pulled across the surface with a constant 30 N force. The results are shown in Figure 2. 
+Speed (m/sec) 0 5 10 15 20 25 30 35 
+ 
+time (sec) 0 1 2 3 4 
+Figure 2
+

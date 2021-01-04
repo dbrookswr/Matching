@@ -1,0 +1,2 @@
+Discuss expected results and observed results based on the inheritance of one trait.
+	•	

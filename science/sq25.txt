@@ -1,0 +1,5 @@
+At each of the times plotted in Figure 2 (except 0.00 sec), as block mass increased, block speed: 
+ increased only. 
+ decreased only. 
+ varied, but with no general trend. 
+ remained the same.

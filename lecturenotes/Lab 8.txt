@@ -1,0 +1,232 @@
+Canvas Page 1
+Lab 8 – It’s All in the Genes: Isolating DNA 
+
+ [Roadmap Placeholder]
+
+Learning Goals and Skills
+ 
+What’s the Main Goal of This Lab?
+Accurately model how information stored in DNA is utilized within a cell through the processes of DNA replication, transcription, and translation
+ 
+How Will I Accomplish This Goal?
+By the end of the lab, you should be able to:
+1)     Compare and contrast DNA and RNA
+2)     Describe the make-up of chromosomes
+3)     Outline the process of DNA replication
+4)     Describe mitochondrial and chloroplast DNA
+5)     Isolate DNA using the spooling technique
+6)     Model transcription and translation 
+ 
+What Skills Will I need To Accomplish This Goal?
+·  Having knowledge of your own thought processes
+. Accurately judging what you know and what you don’t know 
+. Showing knowledge processes in a diagram/chart/table
+·  Critical thinking
+
+
+ [Checklist Placeholder]
+ 
+
+Next>>
+
+
+Canvas Page 2
+Lab 8 - It’s All in the Genes: Isolating DNA                                                                                                                                          
+DNA vs. RNA
+
+Let’s Review Nucleic Acid Structure
+You may recall that we discussed the structure and function of nucleic acids in Lab 3. If you want to review this information, click the link below (to video or other content from lab 3 - chemistry).
+ELAINE SUPERBRAIN’S TASKS
+Refresh your knowledge by completing the activity below. Sort each feature according to whether it is a characteristic of DNA or RNA. Features may be used more than once or not at all.
+Drag/drop for structure**
+DNA		RNA			
+
+Features                         		Answers
+Single stranded			RNA
+Double stranded		DNA
+Triple stranded			neither
+Glucose			neither
+Ribose				RNA
+Deoxyribose			DNA
+Image of ribose			RNA
+Image of deoxyribose		DNA
+Cytosine			both DNA & RNA
+Guanine			both DNA & RNA
+Adenine			both DNA & RNA
+Thymine			DNA
+Uracil				RNA
+
+ 
+KYLE AND KAI 
+Kai: Is RNA always single stranded?
+Kyle: No, not always. For example, some RNA molecules such as transfer RNAs (tRNAs) fold back on themselves and form regions that are double stranded. As we know, shape is key to function so the ability of these different RNAs to fold into certain shapes affects their function.
+ (image of tRNA: both clover leaf and 3-D versions)
+Shutterstock for cloverleaf: https://www.shutterstock.com/image-vector/structure-transfer-rna-trna-1361343452?src=UfrCDPf8RpSE0ZnJPVZ0TA-1-16
+Protein Data Bank for 3D version: https://www.rcsb.org/structure/4tna
+ 
+How Can I Tell the Difference between DNA and RNA?
+https://www.youtube.com/watch?v=0Elo-zX1k8M Natisha: Can we use this?
+
+
+ELAINE SUPERBRAIN’S TASKS
+Fill in the blank in table for function** [Provide link to previous section in lab 3] 
+Provide feedback/model completed table: See example below.
+
+
+How is a Chromosome Made?
+HHMI video of chromatin condensing: https://www.youtube.com/watch?v=gbSIBhFwQ4s
+
+WINDY WONDERS!!
+If a cell contains 2 meters of DNA, how can all of that possibly fit into a nucleus? 
+
+Next>>
+
+Canvas Page 3
+Lab 8 - It’s All in the Genes: Isolating DNA                                                                                                                            
+DNA Replication
+
+How Does DNA Replication Happen? 
+
+Shutterstock:https://www.shutterstock.com/image-illustration/mechanism-dna-replication-one-molecule-produced-759392011?src=z6-3R29O9C2ja3mWxmEeiQ-1-0
+
+
+DNA replication is a semi-conservative process. This means that the two resulting DNA double helices produced at the end of DNA replication each contain one original (old) strand of DNA and one newly synthesized strand of DNA. This makes sense if you think about it because DNA polymerase, the enzyme that builds DNA, needs to follow directions on how to build the DNA. Each original strand is the template (directions) for building a new strand of DNA based on nucleotide base pair complementarity. 
+
+HHMI video: https://www.biointeractive.org/classroom-resources/dna-replication-advanced-detail
+
+
+Natisha: Can we use this Openstax illustration?
+ 
+In the figure shown above, the original DNA double helix is shown intact to the right of the enzyme Topoisomerase. Note that the original 3’-->5’ strand (very bottom of the figure) is the template used to build the leading strand while the 5’-->3’ strand (very top of the figure) is the template used to build the lagging strand. DNA polymerase adds nucleotides in a 5’--> 3’ direction so later we will discuss differences in how the leading strand and lagging strand have to be built. 
+DNA replication begins at the origin of replication, a specific sequence (pattern) of nucleotides in the DNA. The enzyme helicase, breaks the hydrogen bonds of complementary nucleotide base pairs, allowing for the DNA helix to be unwound (opened up). This opening results in what is known as a replication fork. By breaking the hydrogen bonds between DNA nucleotide base pairs, helicase provides the enzyme primase with access to begin building primers, short stretches of RNA nucleotides that are complementary to the open DNA strands. These primers are a necessary component to the DNA replication process because DNA polymerase I will only begin adding DNA nucleotides to a region of nucleotides that already are bound to the DNA template to be read. DNA polymerase builds two new strands of DNA, as mentioned previously, known as the leading and lagging strands. Building the leading strand only requires one RNA primer and DNA synthesis is continuous. Building the lagging strand requires many RNA primers because of the 5’ -->3’ synthesis requirement. The DNA synthesis that occurs from these primers is discontinuous, initially resulting in regions of DNA known as Okazaki fragments. The Okazaki DNA fragments are eventually joined together by first removing the RNA primers, replacing the RNA primers with DNA (DNA Polymerase III), and then joining the breaks in the backbone of the Okazaki fragments by DNA ligase. 
+
+Natisha can we use this video? https://www.youtube.com/watch?v=5qSrmeiWsuc (1:57-7:35)
+
+Kyle and Kai 
+Kai: Is all of the DNA in the eukaryotic cell in the nucleus?
+Kyle: Remember when we discussed the endosymbiotic theory regarding the origin of mitochondria (and chloroplasts)? Link to Lab section Lab 7 If we were to break open mitochondria found in an animal cell or mitochondria and chloroplasts found in a plant cell, we would find DNA.
+ 
+ELAINE SUPERBRAIN’S TASKS
+Your task is to outline the process of DNA replication on a sheet of paper. Once you have completed your outline, please submit/post your completed outline to the discussion forum. When building your outline, be sure to include the following terms: leading strand, lagging strand, helicase, DNA polymerase, nucleotides, semi-conservative replication, hydrogen bonding, primers, and base-pairs.
+ 
+ 
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+How would denaturing the enzyme helicase affect the process of DNA replication?
+	•	The original helix would remain closed.
+	•	Helicase would be unable to add the primer to begin DNA replication
+	•	Helicase would be unable to add nucleotides to build the new DNA strands
+	•	Helicase would be unable to remove nucleotides from the original DNA strands
+	•	There would be no effect on DNA replication.
+Feedback: Remember, sometimes an enzyme’s name can give you a clue about their function.
+
+MCQ2
+Why is the origin of replication important in DNA replication?
+	•	This pattern of nucleotides is a signal for where DNA replication should begin.
+	•	This pattern of nucleotides is a signal for where DNA replication should end.
+C.	This enzyme opens up the original DNA helix.
+D.	This enzyme reads the original template.
+E.  	This enzyme adds nucleotides to the growing DNA strand.
+Feedback: What does the word “origin” mean when considering “origin of replication”?
+
+
+Next>>
+Canvas Page 4
+Lab 8 - It’s All in the Genes: Isolating DNA                                                                                                                              
+Transcription vs. Translation
+ 
+Tell me What Transcription is!
+[HHMI]
+https://www.biointeractive.org/classroom-resources/dna-transcription-advanced-detail
+
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+Which enzyme is responsible for synthesizing RNA using a DNA template?
+	•	DNA polymerase
+	•	Helicase
+C.	Ribosome
+D.	RNA polymerase
+E.	Topoisomerase
+Feedback: Remember, synthesizing is another word for building. Which enzyme builds the RNA polymer?
+
+MCQ2
+Which of the following answers accurately interprets the information provided by the following nucleotide sequence: ACCGCCAGGACG?
+	•	This is a DNA sequence.
+	•	This is a RNA sequence.
+	•	This is a protein sequence.
+	•	This represents the promoter sequence in DNA.
+E.    There is not enough information provided.
+Feedback: What information do you need to be able to tell the difference between DNA and RNA?
+
+Tell me What Translation is!
+Translation is the process of using directions written in the language of nucleic acids to build proteins, products composed of amino acids. How is it possible to transition from one molecular language into another? There is of course a code, in this case the genetic code. As shown below, the genetic code consists of triplet patterns of mRNA nucleotides, called codons, that specify which amino acid to use in the protein building process.  An mRNA will contain a start codon (AUG) that serves as a signal to the ribosome of where to begin “reading” the mRNA directions in the translation process. The ribosome will “read” the triplet code contained within the mRNA template, beginning at the start codon and will continue adding amino acids based on the next series of mRNA codons until the ribosome reaches a stop codon (UAA, UAG, UGA). Stop codons do not represent/code for any type of amino acid, instead when the ribosome reaches a stop codon, the recruitment of a protein called release factor occurs, signaling to the ribosome that the process of translation should be terminated.
+An image something like below:
+
+[HHMI]
+https://www.biointeractive.org/classroom-resources/translation-advanced-detail
+
+
+An image like shown below:
+
+The image shown above illustrates a ribosome in the process of translational elongation, adding an amino acid to a growing chain of amino acids. Note that the transfer RNAs (tRNAs) carrying amino acids enter the ribosome via the A-site (Arrival site) and tRNAs that are no longer attached to an amino acid leave the ribosome via the E-site (Exit site). The small subunit of the ribosome checks that the correct tRNA has entered the A-site based on whether or not the anticodon of the tRNA is able to complementary base-pair (form hydrogen bonds) with the mRNA codon located in the A-site. If the tRNA fails to base pair, the ribosome expels the tRNA. If the anticodon of the tRNA is able to base pair with the mRNA’s codon, the large subunit of the ribosome catalyzes the formation of a peptide bond between the amino acid that the A-site tRNA is attached to and the amino acid chain that the P-site tRNA is attached to, resulting in the transfer of this peptide chain from the P-site tRNA to the A-site tRNA. The empty P-site tRNA then transitions to the E-site and leaves the ribosome while the A-site tRNA, attached to the peptide chain, transitions to the P-site and remains there until the next t-RNA arrives. Eventually, a stop codon in the mRNA will be positioned in the A-site of the ribosome. Because there is no amino acid represented by the stop codon, there is not a tRNA that will bind with this codon. Instead, a protein called release factor is recruited to the A-site of the ribosome where it will signal to the ribosome to release the peptide chain and disassemble back into its individual ribosomal subunits.
+
+Natisha: Can we use this video?: https://www.youtube.com/watch?v=JTc18Yh7bSU
+
+KYLE AND KAI
+Kai: Are my ribosomes the same as a bacterium’s ribosomes?
+Kyle: Although both human and bacterial ribosomes make proteins (same function), they do not have identical shapes (not identical structures). This is actually very lucky for us because we use this difference to our advantage medically. Many of the antibiotics we use to treat bacterial infections are molecules that specifically inhibit the ability of bacterial ribosomes to make bacterial proteins.
+ 
+ ELAINE SUPERBRAIN’S TASKS
+MCQ1
+If you were looking for an anticodon, which molecule should you examine?
+	•	The small subunit of the ribosome
+B.	The large subunit of the ribosome
+C.	a tRNA
+D.	the mRNA
+E.	an amino acid
+Feedback: Remember, an anticodon is a specific sequence of nucleotides.
+
+MCQ2
+If you are provided with the following mRNA, what is the amino acid sequence of the resulting peptide being built from these directions? **Note OE provide student with visual copy of genetic code figure in question.
+5’-UACAAUGCCCGCAAAGUAGCCCAGCAG-3’
+	•	Tyr-Asn-Ala-Arg-Lys-Val-Ala-Gln-Gln
+B.	Tyr-Lys-Ala-Arg-Lys-Val-Ala-Gln-Gln
+C.	Met-Pro-Ala-Lys-Stop
+D.	Met-Pro-Ala-Lys
+E. 	Start-Met-Pro-Ala-Lys-Stop
+Feedback: Remember, the mRNA contains codons (nucleotides) that tell the ribosome where to begin reading the directions and where to stop building the protein.
+
+
+ELAINE SUPERBRAIN’S TASKS
+Word Bank: 
+tRNA, DNA, ribosome, mRNA, amino acids, anticodon, codon, base-pair, hydrogen bonds, protein, translation, transcription
+
+During the process of translation, _______ is used as a template by the ribosome. The ________ carries amino acids to the ribosome and are either accepted or rejected in the process based on whether or not their _________ is able to base-pair with the __________ of the mRNA. 
+
+How will we isolate our DNA in lab?
+[DNA Spooling  Video in lab: already recorded + VO]
+
+Next>>
+
+
+Canvas Page 5
+Lab 8 - It’s All in the Genes: Isolating DNA                                                                                                                    
+ 
+HARRY’S TIP OF THE DAY
+Take notes while watching the videos or reading the texts. Studies have shown that note-taking is an effective strategy to remember new information. (Add an example based on a video)
+ 
+WHAT SHOULD I EXPECT FOR THIS LAB?
+  In class lab activities will include:
+	•	Experimentally isolating a sample of your DNA.
+	•	Performing transcription, mRNA processing, and translation on paper.
+
+HOW SHOULD I PREPARE FOR THIS LAB?
+Remember to:
+	•	Read the lab text and bring your lab manual with you to lab. You should review how to properly transition from transcription to translation.
+	•	Write the steps of the DNA isolation experiment in your own words such that each step has meaning to you. Preparing this personalized guide for this experiment before lab will allow you to stay on task during your lab time.
+
+
+
+ Congratulations! You’ve completed the online work for Lab 8.
+See you in the lab!
+

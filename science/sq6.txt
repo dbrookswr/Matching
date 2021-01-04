@@ -1,0 +1,6 @@
+Suppose the researchers wanted to determine whether a defect in the ability to detect odors would change the life span of fruit flies fed 15% SY medium when live yeast is added to the diet or when additional odors from live yeast are added to the diet. Which of the following experiments should be performed? 
+ Repeat Study 1 except with Strain X fruit flies 
+ Repeat Study 1 except with Strain N fruit flies 
+ Repeat Study 2 except with Strain X fruit flies 
+ Repeat Study 2 except with Strain N fruit flies 
+

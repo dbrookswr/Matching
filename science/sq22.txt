@@ -1,0 +1,6 @@
+Based on Figure 2, what is the order of the 3 blocks, from the block that required the shortest time to reach 15 m/sec to the block that required the longest time to reach 15 m/sec ? 
+ 2.00 kg block, 2.50 kg block, 3.00 kg block 
+ 2.00 kg block, 3.00 kg block, 2.50 kg block 
+ 3.00 kg block, 2.00 kg block, 2.50 kg block 
+ 3.00 kg block, 2.50 kg block, 2.00 kg block 
+

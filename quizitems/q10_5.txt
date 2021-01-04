@@ -1,0 +1,2 @@
+Construct a simple pedigree, monohybrid, and dihybrid Punnett squares.
+	•	

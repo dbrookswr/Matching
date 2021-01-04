@@ -1,0 +1,133 @@
+[MUSIC PLAYING] The atom and why we have to learn about it-- So I'm Christy Strong. 
+
+I'm Jennifer Utz. 
+
+We are faculty in the School of Life Sciences. And we're going to do chemistry. 
+
+Yes. And the reason why is because the big stuff is built from the small stuff. So if we want to understand how we're building the whole structure of a plant, the whole structure of an animal, our whole body, we have to understand the smallest building block pieces in order to understand how they come together in larger structures. So the atom has how many subatomic particles? 
+
+Not one. 
+
+Not two. But three. 
+
+All right. So talk us through what we've got. 
+
+So we have these three types of subatomic particles that you're going to have to know. And so, lucky for you, over here on this side, we've already written out the three names-- so the three categories that they fall into. So we have the protons. 
+
+Yes. 
+
+In this instance, the protons are represented by the plus sign in the middle. 
+
+Oh. Just by mistake? Or was that on purpose? 
+
+Oh, no, they're supposed to be pluses because they have a positive charge. 
+
+OK. So protons have +1. 
+
+Positive charge. 
+
+Positive charge. 
+
+So pro, think P for positive. 
+
+OK. Well, I think that we also need to know something about their mass and something about their location. 
+
+They're a pretty good size. So a proton is one atomic mass unit. And we abbreviate that amu for atomic mass unit. 
+
+OK. 
+
+And then, for your third question, when we look at the structure of the atom, we have what's going on in the middle. And then we have these little rings that we see around the middle. So within the middle, where I'm putting the box, this is known as the nucleus of the atom. And that is where our protons are found, the atomic nucleus. 
+
+So, OK, we got one type-- the protons. Well, and then it's like, OK, what are these little circles that don't have a plus or anything in them? Those are neutrons. And so the reason that they don't have a plus or anything in them is they're neutral. They do not have a charge. 
+
+Now, they are also located in this boxed area, known as the atomic nucleus. And they are also 1 atomic mass unit. So they're about equivalent to our lovely little proton. So if you look at the mass of an atom, you're going to see right in the nucleus, that's where the most of the mass is going to be. 
+
+OK. And since the mass of a proton is 1 and the mass of a neutron is 1, we can calculate the total mass-- 
+
+Exactly. 
+
+--really easily, because I can count up. 1, 2, 3, 4 protons, 1, 2, 3, 4 neutrons. So my mass would be 8 atomic mass units. 
+
+And so we call that atomic mass. So atomic mass is just protons plus neutrons. 
+
+Perfect. 
+
+So you are going to be asked to calculate that. And that's an easy peasy thing. What's going on the nucleus is basically all we're asking. And then we go into these rings that are going around our lovely nucleus. 
+
+And you notice that we have this little guy with a minus sign and a minus and a minus sign, a minus sign. Those are electrons. And the reason they have the minus sign is they have a -1 negative charge. 
+
+And so they are not found in the nucleus. Instead, these are found in what are known as electron shells. Another word that some scientists will also use instead of shell is orbital. 
+
+And you notice that we have two of them going in this specific diagram. Now, when we look at the atomic mass of these guys, they're so tiny, tiny, tiny, tiny, tiny. They're so tiny that scientists like me are not even really going to count you when we talk about atomic mass because you are so small. 
+
+So like 0.0000000. 
+
+It's like you have a million dollars going on in the nucleus. Here's five pennies. Are you going to pay attention to those five pennies? Meh. 
+
+No. 
+
+Probably not. 
+
+All right. So, for us, it is so small, that we're just going to round it to 0. 
+
+Yeah, just ignore it. 
+
+OK. 
+
+So, based on this diagram, there's lots of information that I can get about this atom. So one of the things we talked about is we got the numbers. So proton, neutron, electron-- so I got 1, 2, 3, 4, 4 protons. 
+
+Now, when we want to talk about protons and the number they're in, what you're talking about is this thing called atomic number. So your atomic number is your number of protons. And what's cool is that, when you look at the periodic table, it's arranged by atomic number left to right. So as you progress from left to right, the atomic number goes up. So when we look at hydrogen, atomic number of 1. 
+
+Right. 
+
+Helium. 
+
+Atomic number of 2. 
+
+And that's important in a couple regards. One, it's letting us know the number of protons. But, two, that's letting us know the identity of the atom. 
+
+Exactly. 
+
+So it's by the atomic number, by the number of protons that we know what it is, because each atom with its own identity has a distinct atomic number, a distinct number of protons. So we use that to organize things and reference things. And knowing the number of protons, knowing the atomic number, lets us know what it is, what type of atom is it. 
+
+Exactly. So carbon, like, the building block when it comes to our molecules we're going to talk about-- 6, atomic number 6. Now, when you know the atomic number of an atom that is neutral, you also know the number of electrons. So the reason that I can say that is when an atom is neutral, the charges have to cancel out. 
+
+Right. 
+
+So if I have four protons here, I need to have four electrons. 
+
+Right. 
+
+Plus 4 minus 4-- 
+
+They cancel out. 
+
+--equal 0. 
+
+Now what you're going to see is we have these shells. So we have our first shell that is closest to the nucleus. Then we have our second shell. And how you decide to fill these shells is dependent on number. 
+
+So first shell-- so your first electron-- I'm going to represent electron with an e with a minus sign above it. So first electron shell, this holds two electrons max. So it's like, OK, we put two there. 
+
+So electron number 1 goes into the first shell. Electron number 2 goes into the first shell. And then it's full. 
+
+Yep. 
+
+It cannot hold more than two. 
+
+Exactly. With the second electron shell, this one, 8. So notice that the second one, we only have two right now. That means that it has room-- 
+
+Room for more. 
+
+--for six more. Easy peasy. And so we'll see that that's going to be a very important concept in future talks, because this determines whether or not this atom wants to interact with other atoms. 
+
+Right. 
+
+It's based on what is happening in this outermost shell. Do you have availability based on electron number? 
+
+So the electron structure is going to influence the reactivity or the lack of reactivity of the atom. And I guess one other thing we should say is that we use this simplified depiction to represent where the electrons are. But that's a bit of an oversimplification-- 
+
+They move. 
+
+--to what they really are, because really those electrons are moving through these three dimensional volumes of space. So we lay it out in this simplified form because it makes it really easy to keep track of the shells and keep track of where the electrons are and maybe where we have shells that are full or where we have shells that are unfilled, because that's going to matter as we start to think about the reactivity and the potential for bond formation. 
+
+Exactly. OK. 

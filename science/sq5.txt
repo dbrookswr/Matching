@@ -1,0 +1,7 @@
+The researchers had predicted that decreasing a fruit fly’s ability to detect odors would increase its life span. Are the results of Study 3 consistent with this prediction? 
+ No; for each SY medium tested, the average life span of Strain X fruit flies was longer than the average life span of Strain N fruit flies. 
+ No; for each SY medium tested, the average life span of Strain N fruit flies was longer than the average life span of Strain X fruit flies. 
+ Yes; for each SY medium tested, the average life span of Strain X fruit flies was longer than the average life span of Strain N fruit flies. 
+ Yes; for each SY medium tested, the average life span of Strain N fruit flies was longer than the average life span of Strain X fruit flies. 
+
+

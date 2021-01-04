@@ -1,0 +1,173 @@
+Hi, I'm Christy Strong. 
+
+I'm Jennifer Utz. 
+
+And we are faculty members in the School of Life Sciences. So today's video, what is the difference between relative and absolute dating? Why? 
+
+All right, so dating is about trying to figure out the age of things, how old they are. We've got some different techniques. Some are a little more precise, others are less precise. So when we think about relative dating-- when we think about relative anything what we're thinking about is some sort of comparison. 
+
+So in relative dating we're going to be comparing positions. If we look at geological features around us we can see distinct layers, various types of rock forming them. So if we go out to Red Rock, we can see this. If we go maybe to the Grand Canyon-- 
+
+Right. 
+
+Right? Or other canyons, Bryce Canyon, we can see these very clear and distinct layers. So we've got kind of a schematic representing that and we can look at geological history and know that some layers in the rocks are older than others. So relative dating is about this comparison, all right, based on general chronological ordering of these layers. 
+
+So if we were to take a sample in a certain layer and we were to do some relative dating we could say, you know, something from this layer is going to be younger than something from maybe this layer. Or we could say that something from this layer is going to be older, right, than something maybe in a layer above. So that's the basics of the relative dating. We're looking at a position and kind of comparing that to layers that are older or younger, more recent than our sample. 
+
+Right, and so we're oversimplifying this because rocks don't just stay put, right? 
+
+Absolutely. We can have different events and sometimes things can be shifted-- 
+
+Earthquakes! 
+
+Absolutely. So we have to be a little more mindful than just thinking from top down because we do have dynamic events occurring. But that's the gist of the idea. 
+
+Right and if students wanted a more in-depth analysis you could always take a geology class. 
+
+Absolutely. We have tons of great offerings from our Geoscience Department. 
+
+But for here this is sufficient, what you need to know. OK, so relative comparison. 
+
+So this would be our less precise. What would be our more precise? What are we going to be thinking about for absolute dating? 
+
+Absolute dating, you have to go back to chemistry. There is a reason you learned chemistry. I know, you're just like, why? You had to and one of the things that we learned when we were talking about chemistry, we were looking at atoms, and what goes on with atoms and we realized, you know, atoms can lose things like electrons and what have you for chemical bonds. And well, we talked about isotopes. 
+
+All right. 
+
+So do we remember what isotopes are? So take a minute. Can you remember what made an isotope an isotope? OK, just in case you don't remember. What we're going to be doing is we're going to be looking at what's going on in the nucleus, right? So we're going to ignore those electrons, we're going to focus on what's going on in the nucleus. 
+
+So we can take carbon, our favorite element, right, and so we've got what we call carbon-12, carbon-13, and carbon-14. 
+
+So these are all isotopes of carbon. 
+
+And I know that they're carbon because they have six protons. So based on their atomic number, again, chemistry coming back to you, right? So if I look at the number of protons, which I'm going to represent with a plus sign, everybody-- 
+
+Right. That's what makes it carbon. 
+
+Yup. 
+
+If we had a different number of protons, if we had a different atomic number then we would be looking at something else, not carbon. 
+
+Exactly, and I'll write protons here just in case. But that plus sign, you should be thinking protons. 
+
+OK. 
+
+Now, what makes an isotope unique from another isotope? Here is what's going on-- 
+
+With the number of neutrons. 
+
+Exactly. Again, we are focusing on the nucleus. And so here, right, this is the atomic mass. So we know atomic mass, back to the chemistry, is the number of protons plus the number of neutrons. So based on this, again, this is your atomic mass, I can determine how many neutrons I'm working with because I already told you the atomic number. So I would go 12 minus 6, oh you have 6 neutrons in carbon-12. Carbon-13, 13 minus 6-- 
+
+7. 
+
+You have 7. 14 minus 6-- 
+
+8. 
+
+So we can see that the difference between these different isotopes is the number-- 
+
+Of neutrons. 
+
+--of neutrons, right? And we know that based on isotopes and how they behave in nature, some are more stable than others. And so when we talk about their stability, if you are radioactive, right, and you want to do a radioactive reaction, usually what we're talking about is it's going to involve a nucleus and it's going to have involvement of what we call radioactive decay. 
+
+Oh, it sounds exciting. 
+
+These are nuclear reactions, right? So when people talk about nuclear reactor they're talking about this, OK? And what's cool is that scientists, using a variety of tests, applying the scientific method, have been able to determine the patterns of radioactive decay for different isotopes. So they know approximately how long it takes for C-14, the unstable carbon isotope, to decay into something more stable, in this case, nitrogen-14. 
+
+So when we talk about decaying you always have what we call the parent. 
+
+Which would be our starting material, our starting isotope. 
+
+Correct, and then you have the daughter. 
+
+Which would be the product that's formed after that radioactive decay. 
+
+Exactly. And so oftentimes what we'll see is when we go to do absolute dating we love to use uranium, which people think, oh, yeah, nuclear, [INAUDIBLE] uranium. That is going to decay into lead in a predictable way. And so we can represent that. So we could look at a sample that was just made, right? So say you had a volcanic eruption, the lava comes out and then the lava solidifies. And it's going to be chock full of this parent isotope, uranium. 100%, this represents 100% parent. 
+
+OK. 
+
+And so each of these little dots, little circles, represents uranium. 
+
+OK. 
+
+What's going to happen is over time that uranium is going to decay and so as it decays it will eventually transform into lead and we can track it. So when you have this 100% population of uranium, to get to what we call one half-life, half of that population has to decay into lead. So if we look at the first half-life, what we see is here are represented 20 uranium. If we look over here 10 of them are still uranium, the original parent isotope, 10 of them are now lead. That is one half-life. 
+
+And if we wanted to know the amount of time, that's something we could look up. That's something that's been measured and calculated, right, so there is a certain amount of time that it takes for half of that parent isotope to decay and break down into the daughter isotope. So if that half-life time has passed, right, one period of time, then we're going to see half broken down. So we started with how many? 
+
+We started with 20. OK, 
+
+So half of 20 would be? 
+
+10. 
+
+10, right, so we've got that depicted there and then if that period of time passes again, then again we would see half, so if we have 10, right-- 
+
+Of these-- 
+
+--of our parents, half of 10? 
+
+Is 5. 
+
+OK, so when two half-lives passed you would see-- 
+
+You have 5 of the uranium. 
+
+OK. 
+
+And 15, right, of-- 
+
+5, 15, 20, yes. 
+
+--the lead. Now we as scientists, we love to graph. 
+
+Oh yes. 
+
+That's what we do. 
+
+Helps us see patterns, understand relationships, absolutely. 
+
+Exactly. So you can set up a really nice, simple graph where you say, OK, on the y-axis we're going to have percent of atoms. So again, y-axis is your vertical axis. On the x-axis, which is my horizontal axis, I'm going to have time in half-life. 
+
+Oh, fancy. 
+
+So right here in this corner is zero, our starting point. Then we can have 1, 2, 3, so forth, right? And because we're starting with percents what we're going to see is that we start with 100. 
+
+Right, our maximum. So we can have 0% to 100% of something. 
+
+And then what you do is you plot out what's going on with your parents. So I can make my parent isotope, again, is going to be the orange line, this will be my parent, and then I can have my daughter isotope be the green line. 
+
+OK. 
+
+And so in the beginning my daughter should be down here-- 
+
+At 0%, right, we don't start with any of that decay product. 
+
+And my parent should be up here. 
+
+Right, 100% so the starting point we have 100% of that parent isotope, all parent, as we've got depicted here, and none, 0%, of that decay product, of the daughter isotope. 
+
+Right, and so what we expect, again, at 50%, represented right here, at one half-life they should be even Steven. So you should come down here, decreasing-- 
+
+Right, the parent is breaking down, it's unstable. 
+
+And then the daughter-- 
+
+Is increasing. 
+
+--is increasing, right? And what we'll see is as you continue forward the daughter continues to increase. 
+
+And if given enough time, ultimately we could come up to 100%. 
+
+And then the parent continues to decrease. And so you can map out, based on this, your half-lives. And so, again, this is one way that we have a mode of evidence that supports evolution, right? And we can look back historically and look at the evolutionary-- 
+
+Take samples fossils and date them. 
+
+Exactly. 
+
+And know how old certain things are and start building that chronological sequence. 
+
+Right, and so as we do this we're trying to produce this fossil record and it's going to be an incomplete fossil record because we can't get access to everything. 
+
+Right. 
+
+Right, and not everything got fossilized so we use the tools that are available to work with the materials that are available, right? And so you should have a basic understanding of how both relative and absolute dating work because you're going to be asked to do this in lab. And so we'll see you in lab. 

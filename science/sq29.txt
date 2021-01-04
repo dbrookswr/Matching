@@ -1,0 +1,5 @@
+Based on the results of Experiments 1 and 2, which of the following is a possible transition range for curcumin? 
+ pH=3.9topH=7.3 
+ pH=4.2topH=6.6 
+ pH=7.4topH=8.6 
+ pH=8.4topH=9.5 

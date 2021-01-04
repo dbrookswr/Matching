@@ -1,0 +1,6 @@
+A chemist has 2 solutions, one of pH = 1 and one of pH = 6. Based on the results of Experiments 1 and 2, could indigo carmine be used to distinguish between these solutions? 
+ No; indigo carmine is blue at both pH = 1 and pH = 6. 
+ No; indigo carmine is blue at pH = 1 and is yellow at pH = 6. 
+ Yes; indigo carmine is blue at both pH = 1 and pH=6. 
+ Yes; indigo carmine is blue at pH = 1 and is yellow atpH=6. 
+

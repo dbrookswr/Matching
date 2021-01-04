@@ -1,0 +1,204 @@
+[MUSIC PLAYING] So today, we're going to be doing metric to English conversion. I'm Christy Strong. 
+
+I am Jennifer Utz. 
+
+And we are both faculty members in the School of Life Sciences. 
+
+True. OK. So why do we need to convert from English measurements to metric measurements? 
+
+Because the United States wants to be the cool kid. And everybody else uses the universal language of measurement, which is metric. And so if US scientists are going to be able to actually communicate their findings to their peers in Japan, or Iceland, or Brazil, you need to be using the same measurement system. 
+
+OK. So we have just kind of decided we want to do our own thing sometimes. We like inches. We like miles. We like degrees Fahrenheit. 
+
+Yep. And there are consequences to that because you really do need to make sure you're on the same playing field when you're working together in a collaborative setting. So like for example, in the US, NASA was working on the Mars Orbiter. And the idea was to get this from the Earth to Mars. 
+
+OK. 
+
+And take all these measurements. It's going to be beautiful. So you had two different groups working on different components that we're going to be involved in this process. One group is measuring inches. 
+
+That would have been us here in the US. OK. 
+
+Another was doing metric. 
+
+Oh. 
+
+And they didn't know that the other one was using a different system. So put it together, guess what happened? 
+
+Something not good. 
+
+It didn't work. 
+
+Oh. 
+
+So what end up happening is they shot it off from Earth, and it didn't make it to Mars. 
+
+Oh. 
+
+And so it ended up costing you about $125 million. 
+
+Oh, is that what it costs to make an orbiter? 
+
+Yeah. Just $125 million. So that tiny little mistake of inches versus millimeters or centimeter. 
+
+Right. 
+
+$125 million. 
+
+And that really would have been on us, because the metric system is the universal language. And so if we decide to kind of use our other older systems, it's really on us to make sure we can convert to the system that's kind of the global standard. 
+
+Exactly. 
+
+OK. So I guess, let's practice with a temperature calculation because our degrees Fahrenheit, an English system that we still like to use. 
+
+Right. Versus Celsius. And so I've already written up the conversion right here. You guys will be provided with a conversion table like this. You'll find it in your lab book. I recommend you bookmark that because having those conversion tables available. 
+
+Right. 
+
+Quick, quick, quick. 
+
+We're going to look at them a lot. 
+
+If we're doing a-- Let's do a lower average temperature in Las Vegas for summer. Let's do a bomby 106. 
+
+Oh, yeah. 
+
+Right. 
+
+Under 110, still comfortable outside. 
+
+Yeah, easy peasy. So I've got 106 degrees Fahrenheit. I don't know how many degrees Celsius, right? But I do keep the rest of this the same. So now, I've got a solve. 
+
+OK. 
+
+Right. 
+
+[INTERPOSING VOICES] 
+
+So we're going to go back to some of our algebra skills, and remember some of the basics in terms of processing equations. So we have this very important equal sign here, right, that tells us what's on the left side equals, is the same as, what's on the right side. So as we do any manipulation to one side, we have to perform that same manipulation to the other in order to preserve the equal relationship between those. OK. 
+
+So-- 
+
+What can we get rid of first? 
+
+Let's get rid of that 32. 
+
+All right. Sounds good. 
+
+So you had a plus 32 on the right. We're going to minus 32. 
+
+Perfect. 
+
+So what I do on the right-- 
+
+Must do on the left. 
+
+--must to do on the left. So this 106, that's going to be minus 32. 
+
+Minus 32. 
+
+So what's that put me at now? 
+
+OK. 106 minus 32. You can use a calculator if you want 74. 
+
+OK. So I got 74 degrees Fahrenheit is equal to-- 
+
+Some number. 
+
+--degrees Celsius times 9/5. 
+
+OK. 
+
+OK so I'm almost there, right? 
+
+Close. 
+
+So close. But I got to deal with that 9/5. 
+
+OK. 
+
+So how am I going to deal with that 9/5? How am I going to get rid of it? 
+
+Multiply by the reciprocal. 
+
+Yep. And so the reciprocal was 5/9. 
+
+I can't believe I remember that. 
+
+And I know it's the reciprocal, because 5 cancels with 5, 9 cancels with 9. 
+
+Yes, yes, yes. 
+
+Yes. So if I do it on the right-- 
+
+Must do it on the left. 
+
+I must do it on the left. 
+
+OK. 
+
+So if I take 74, and I multiply it by 5/9, what do I get? 
+
+41.1. 
+
+So we're going to end up having 41.1. 
+
+Degrees C. 
+
+Degrees C basically. 
+
+Does that make sense? Is that what we would expect if we started with 106 degrees Fahrenheit? Would we expect a lower number? 
+
+Yes. And so one way to check yourself if you're like what does that makes sense-- Let's just put 0. Let's say it's 0 degrees Celsius. 
+
+OK. 
+
+Right? And so we're trying to figure out Fahrenheit. So 0 degrees Celsius times 9/5. So 0 times 9 this is what? 
+
+0. 
+
+OK. Plus 32 is what? 
+
+32. 
+
+So-- 
+
+I could do the math in my head. 
+
+32 degrees Fahrenheit is equal to 0 degrees Celsius. 
+
+OK. 
+
+The Celsius should be less-- 
+
+OK. 
+
+--than the Fahrenheit. If it's more, that's how you know-- 
+
+We made a mistake somewhere. 
+
+A little whopsie. 
+
+OK. 
+
+Go back and check yourself before you wreck yourself. But, of course, we've got to ask the students practice. 
+
+Yeah. We've got to convert inches. We may have to convert cups, or pints, or gallons. 
+
+Exactly. 
+
+To our standard of liters. OK. 
+
+So we're going to use a lot of those same skills that we developed before. We're going to look at our conversion tables and use our conversion factors. And as we set up our equations, we want to make sure things are kind of canceling out. If they're not, we know we made a mistake. Go back and check our work. 
+
+Yep. 
+
+And then we have some kind of logical pieces where we can think about does my answer make sense? 
+
+Exactly. Practice makes perfect. 
+
+Excellent. 
+
+So have those conversion tables. Practice and expect that you're going to do this in lab and potentially be quizzed on it. 
+
+OK. 
+

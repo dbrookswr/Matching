@@ -1,0 +1,241 @@
+Canvas Page 1
+Lab 4 – Microscopy and Cells
+
+Overview:  
+
+                                                                                                                                             
+Learning Goals and Skills 
+What’s the Main Goal of This Lab?
+Correctly use a microscope to investigate diverse cell types
+
+How Will I Accomplish This Goal?
+By the end of the week, you should be able to:
+	•	Identify and describe the function of the parts of a compound microscope
+	•	Exhibit the proper technique when using and focusing the microscope
+	•	Properly prepare a wet mount
+	•	Define the following: magnification, resolving power, working distance, parfocal, illumination, plane of focus and depth of field, and describe their interrelationships
+	•	Compare and contrast prokaryotic & eukaryotic cells
+	•	Describe the structural components of a typical prokaryotic cell and eukaryotic cell and their functions
+	•	Describe the structural components of a plant cell and an animal cell and their functions
+	•	Record detailed observations of all slides observed 
+
+What Skills Will I need To Accomplish This Goal?
+·      Using a microscope efficiently
+·      Critical thinking
+.   Concept mapping
+.    Having knowledge of your own thought processes
+
+
+[Checklist Placeholder]
+Lab 4 checklist
+
+Progress bar 
+
+
+Next>>
+
+
+Canvas Page 2
+Lab 4 - Microscopy and Cells
+Components of a Microscope
+
+Guess What It Is!
+https://www.youtube.com/watch?v=kDO5fbG-b7Q Like this, confirm we can use.
+
+KAI AND KYLE
+Kai: Why Do I need to Know the Names of Microscope Parts? 
+Understanding how to use an instrument in an experiment is half the battle. A scientist needs to also be familiar with the components of the instrument so that they can teach others how to use it or describe what is wrong with the instrument. For example, if you are trying to describe what is wrong with your phone, being able to correctly say the instagram app is failing to upload your pictures is much more useful than “that one thing with the pictures doesn’t work”.
+
+Let’s Learn about a Compound Microscope!
+[Use Sean’s video] Provide the link 
+Parts of the Compound Microscope: https://www.youtube.com/watch?v=vfibeOD4NDo
+
+
+ELAINE SUPERBRAIN’S TASKS
+
+[existing OE activity] 
+Microscope: Label the Parts Activity: https://courses.online.unlv.edu/courses/BIO189/microscopelabel/
+How to Carry a Microscope 
+(1:13): https://www.youtube.com/watch?v=bWa4xdGjTmc
+ELAINE SUPERBRAIN’S TASKS
+Possible Mistakes:
+	•	Picking the microscope up by just the arm. (feedback: Not fully supported)
+	•	Picking the microscope up by just the base. (feedback: Not fully supported)
+	•	Disconnecting the microscope from an electrical outlet by pulling the cord instead of pulling the plug. (feedback: Damaging cord and causing wiring to fray)
+	•	Moving too quickly while carrying the microscope (feedback: Potential for tripping)
+	•	Dropping the microscope on the countertop instead of gently setting it down. (feedback: Potential for breaking a component)
+General Microscope Use 
+(5:06): https://www.youtube.com/watch?v=UTOhj1o3OK8
+ELAINE SUPERBRAIN’S TASKS
+Possible mistakes:
+	•	Forgetting to turn the microscope light on. (feedback: Have to have a light source to view specimen)
+	•	Illumination on too high (too bright) or too low (too dark). (feedback: Too high-blinding, too low-squinting to see detail)
+	•	Starting on highest magnification when first trying to find sample. (feedback: Focusing would be extremely challenging).
+	•	Sample is not centered in the light. (feedback: Specimen must be positioned correctly to be viewed)
+	•	Show examples as seen through ocular (feedback: too close vs too far. If see eye lashes-too close, if see tunnel-too far)
+	•	Breaking a slide/Damaging an objective by using coarse adjustment knob on the wrong objective (any objective that is larger than the 4X objective). (feedback: Movement to extreme for those objectives, need small movements so use fine adjustment knob).
+ 
+How Can I Prepare a Wet Mount?
+How to Make a Wet Mount (2:18): https://www.youtube.com/watch?v=IOdlfGfoOrw
+How to Clean a Wet Mount (1:22): https://www.youtube.com/watch?v=qaH6TOFRGdw
+
+ELAINE SUPERBRAIN’S TASKS
+Identify the mistakes that this student is making. 
+Examples of mistakes:
+	•	Starting at the highest magnification when trying to visually locate their sample.
+	•	Focusing on something not in the actual plane of the sample
+	•	Not actually visually finding their sample before transitioning to the next objective
+	•	Forgetting the coverslip when preparing a slide
+	•	Using the coarse focus instead of the fine focus on the highest objective
+	•	Using the fine focus instead of the coarse focus on the lowest objective
+
+Hints for Success when Using a Microscope: 
+	•	Adjust the slide position so the sample is centered in the light
+	•	Rotate the nosepiece so that you are using the 4x objective
+	•	Look through the eyepiece and adjust the binoculars to your interpupillary distance
+	•	Look at the slide with your unaided eye and center the slide specimen in your view using the stage knobs
+	•	Use the coarse focus knob to bring the slide stage all the way down
+	•	Adjust the coarse focus knob to bring the slide up until the specimen appears (go all the way up until you find the “real” specimen and are not looking at dust or scratches)
+	•	Use the fine focus knob to bring the specimen into crisp view
+	•	Then, rotate the nosepiece to the next largest objective
+	•	Use only the fine focus knob to focus the specimen at objectives higher than 4x
+	•	Calculate TOTAL Magnification = Ocular x Objective 
+
+ 
+WINDY WONDERS!!
+Now how do I get a microscope in focus?
+ 
+Progress bar 
+ 
+Next>>
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canvas Page 3
+Lab 4 - Microscopy and Cells                                                                                                                                                                           
+Functional Properties of a Microscope
+
+ 
+What Is Magnification?
+
+Magnification, provided by a microscope, allows you to visually enlarge an object. Many of you may be more familiar with magnifying glasses that you can purchase at most retail stores. In the laboratory setting, to be able to examine microscopic things, such as individual cells, we use a microscope. Components of the microscope such as the eyepiece and objective lense, work together to provide an enlarged viewing of a field. 
+**We could provide OE with real microscope images showing the differences of viewing an object as different magnifications or a graphic could be generated instead.   
+ 
+What Is Resolving Power?
+
+Resolving power is the ability to differentiate two points or two lines in an object being viewed. In simpler terms, resolving power is the ability to see details in an object.
+
+What Is Parfocal?
+
+Parfocal microscope objectives are objectives that can be switched (e.g. transition from 10X to 40X) with minimal to no need to refocus the image. The microscopes we use in lab have parfocal microscope objectives. Once you have focused on a sample on the lowest magnification, transitioning to the next highest objective will require minimum or no readjustment of focus to still view your specimen.  
+ 
+What Is Illumination?
+
+In order to view your specimen using a microscope in lab, a light source is required. In lab, the compound microscope you will be using has a built-in light source. Components of the microscope allow you to modify the light. The iris diaphragm of a microscope regulates the amount of light reaching the specimen. The substage condenser of a microscope can be used to collect and focus the light provided by the light source. Manipulating the condenser can affect the contrast of a viewed specimen.   
+ 
+What Is Plane of Focus and Depth of Field?
+
+When working with our microscope, you will see that the microscope objective has a restricted plane of focus. A plane of focus refers to the “sweet spot” or the distance where the specimen can be sharply focused (measured from the lens to where the specimen is located). The depth of field refers to the thickness of the specimen in focus at any given time. As magnification increases, the depth of field decreases.   
+
+How Are They all Related?
+Here’s a concept map that shows how the concepts discussed above are related to each other. **Christy to do long text description for accessibility
+ 
+
+Progress bar
+Next>>
+
+
+Canvas Page 4
+Lab 4 - Microscopy and Cells                                                                                                                                                                         
+Cells   
+
+ 
+What are Prokaryotic and Eukaryotic Cells?
+
+[Natisha to find: something like this- https://www.youtube.com/watch?v=Pxujitlv8wc]
+ 
+ELAINE SUPERBRAIN’S TASKS
+Compare and contrast eukaryotic and prokaryotic cells in a diagram. Post your diagrams in the discussion board. Go through your peers’ diagrams (at least two) and find any error. Leave comments that help them see the issue. Your TA will reveal the correct diagram for you at the end of the week. 
+ 
+What Are a Plant and an Animal Cell?
+
+One or two videos walking the student through the components of an animal cell and a plant cell. Something like this starting at 1:20: https://www.youtube.com/watch?v=URUJD5NEXC8
+
+ 
+
+ELAINE SUPERBRAIN’S TASKS
+[In the lab this week, you will be looking at different slides. Each time you will be asked to describe what you see, sketch what you see, and label cell structures …..Let’s Practice What You’ll be Doing in the Lab.] 
+
+Types of Cells (OE): cells.html embed (animal, plant, and prokaryotic)
+Animal Cell: Label the Parts: https://courses.online.unlv.edu/courses/BIO189/animalparts/
+Plant Cell: Label the Parts: https://courses.online.unlv.edu/courses/BIO189/plantcell/
+
+Examples of cells with more detail:
+
+
+
+
+There is going to be more follow-up activities in the lab.  
+ 
+
+
+
+Progress bar
+
+
+Next>>
+
+
+
+
+
+Canvas Page 5
+Lab 4 - Microscopy and Cells 
+
+HARRY’S TIP OF THE DAY
+Draw diagrams or concept maps to connect the new concepts that you’ve learned. This helps you see the connections and bigger picture. 
+ 
+WHAT SHOULD I EXPECT FOR THIS LAB?
+In class lab activities will include:
+	•	Developing your familiarity with the microscope components and how they are used in the process of properly viewing samples.
+	•	Preparing microscope slides
+	•	Viewing microscope slides at various magnifications and then recording your observations.
+	•	Categorizing cell-based samples into Domains and Kingdoms
+ 
+HOW SHOULD I PREPARE FOR LAB THIS WEEK?
+
+This week, you will be working with microscopes!  You are always welcome to go to the Biology Learning Center in WHI 126 to get a head start!
+
+Remember to:
+	•	Review the terms for the different domains and kingdoms before attending. 
+	•	Review the different cellular components of prokaryotic and eukaryotic cells and their associated functions.
+	•	Review the different cellular components of animal and plant cells and their associated functions.
+
+ 
+            
+Congratulations! You’ve completed the online work for Lab 4.
+
+Progress bar
+
+See you in the lab!
+
+ 
+
+

@@ -1,0 +1,9 @@
+Subtraction of numbers in scientific notation (0.5 points)
+A. Solve the following problem:  (6.8 x 1010) - (8.5 x 109)
+            Show your work. Your answer must be in scientific notation.
+     
+
+
+Division of numbers in scientific notation (0.5 points)
+B. Solve the following problem:  (4.2 x1024) ÷ (2.1 x 1013)
+	     Show your work. Your answer must be in scientific notation.

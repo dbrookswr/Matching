@@ -1,0 +1,248 @@
+Canvas Page 1
+Lab 7 – Understanding Photosynthesis and Respiration  
+
+Learning Goals and Skills
+ 
+What’s the Main Goal of This Week’s Lab?
+Accurately execute and interpret experimental tests to investigate photosynthesis and respiration
+ 
+ 
+How Will I Accomplish This Goal?
+By the end of the week, you should be able to:
+1)     Describe the external and internal anatomy of a typical leaf and the chloroplasts contained within
+2)     Describe the visible and electromagnetic spectrum
+3)     Discuss the reactants, products, and locations of the light dependent and light independent reactions 
+4)     Describe the anatomy of a mitochondrion
+5)     Discuss the reactants, products, and locations of respiration
+6)     Identify which processes in respiration are aerobic or anaerobic
+7)     Describe the two common fermentation pathways
+8)     Describe the interrelationship between photosynthesis and cellular respiration
+9)     Generate predictions about test results regarding in-class photosynthesis, respiration, and fermentation experiments
+
+What Skills Will I need To Accomplish This Goal?
+·      Performing tests accurately
+·      Effectively communicating test results
+·      Critical thinking
+.    Having knowledge of your own thought processes 
+.    Showing knowledge processes in a diagram/chart/table
+.    Accurately judging what you know and what you don’t know
+ 
+
+
+[Checklist Placeholder]
+ 
+Next>>
+
+
+
+
+
+Canvas Page 2
+Understanding Photosynthesis and Respiration                                                                                                           
+Plants and Photosynthesis
+
+An Overview of Photosynthesis
+Many of you are already familiar with organisms that are capable of performing photosynthesis. You see a subset of these organisms in your day to day life but may not be consciously aware that you are witnessing autotrophs producing their own food through the process of photosynthesis. Trees, grass, cacti, and weeds are all examples of photosynthesizers. Let’s take a quick look at who performs photosynthesis and in the process acquire a basic understanding of how the process of photosynthesis works.
+
+https://www.hhmi.org/biointeractive/photosynthesis (This video from beginning up to the 2nd time 0:00-1:23)
+ 
+What does a Leaf Look Like in the Inside? 
+https://www.hhmi.org/biointeractive/photosynthesis
+(From 2nd time mark until 4th time mark; 1:23 to 4:12)
+ 
+ELAINE SUPERBRAIN’S TASKS
+Drag the correct word/phrase on the left onto the blank space. 
+Drag and drop activity + feedback (**Not sure how to do feedback: El, suggestions?)
+Something like this:
+
+
+
+KYLE AND KAI 
+Kai: What’s the difference between stomata and stroma?
+Kyle: Although these two words sound a lot alike, they represent very different components in a plant. The stomata (plural of stoma) are pores in the plant leaf tissue that allow CO2 gases to enter the plant leaf tissue and H2O vapour and O2 gas to exit the plant tissue. The opening and closing of each stoma in the leaf tissue is regulated by surrounding cells known as guard cells. 
+The stroma is the clear watery fluid that is contained within each chloroplast. The stroma is the area where the Calvin Cycle takes place in the chloroplast. 
+
+Can plants use all the energy of the Electromagnetic Spectrum for Photosynthesis? 
+[text and graphics] Lisa: something like this (image from Openstax)
+
+Organisms that perform photosynthesis perform energy transformations, converting the radiant energy of sunlight into the chemical energy of sugars. When we take a closer look at the energy source provided by the sun, we realize that this light energy, also known as electromagnetic radiation, can be categorized based on wavelength as shown in the diagram above. Longer wavelengths have less energy while shorter wavelengths have more energy. With regard to photosynthesis, we need to narrow our focus to the region of the diagram representing visible light (from approximately 750 nm to 380 nm). 
+We should acknowledge that not all light particles found in the visible light range, in the form of photons, can be captured or absorbed during photosynthesis by one specific pigment. Instead, various pigment types are found in plant cells. These pigment types are responsible for capturing photons but vary in their ability to capture/absorb photons within a certain range of the visible light spectrum. For example, chlorophyll can effectively absorb photons in the red, blue, and violet range but does not effectively absorb photons in the green range. Instead, chlorophyll reflects or transmits the green light range which is why leaves containing high concentrations of chlorophyll appear green to the naked eye. Other pigments, such as carotenoids absorb violet, blue, and green light but reflect or transmit yellow and orange light.
+
+
+KYLE AND KAI 
+Kai: Why do the leaves of some plants change color in the fall?  
+Kyle: Some plants, such as deciduous plants, prepare for winter in a series of steps. As the length of daylight hours becomes shorter in the fall, these plants halt production of chlorophyll pigments. As we have previously learned, chlorophyll pigments are responsible for the visible green color of the leaves. So much chlorophyll is normally produced by the leaves, the chlorophyll masks the presence of the other pigments found in the leaves. Once chlorophyll concentration begins to decrease, we are visually able to detect the presence of the other pigments found in the leaves such as anthocyanins (reds) and carotenoids (yellows/oranges).
+ 
+How Are You Going to Observe Stoma and Guard Cells?
+[Procedural video in lab: already recorded + VO]
+
+How Are You Going to Detect Pigments?
+[Procedural video in lab: already recorded + VO]
+ 
+ELAINE SUPERBRAIN’S TASKS
+MCQ1 
+Which pigments are primarily responsible for the green color of a plant’s leaves?
+A. Xanthophylls
+B. Anthocyanins
+C. Carotenes
+D. Chlorophylls
+E. Both D & C
+Feedback: Try again! Remember that the most dominant pigment is responsible for the color of the plant’s leaves.
+
+MCQ2
+What is the purpose of isopropyl alcohol in the pigment detection experiment?
+A. The isopropyl alcohol is used to clean the leaves
+B. The isopropyl alcohol is used as a solvent for the leaf pigments
+C. The isopropyl alcohol is used in the process of photosynthesis
+D. The isopropyl alcohol is used to make leaf pigments
+E. The isopropyl alcohol is used to break apart the leaves.
+Feedback: Try again! In this experiment, we want to separate the plant pigments so that we can see each of the types. Recall from your previous Diffusion lab, how can you get solutes (such as pigments) to move?
+ 
+How does Photosynthesis Work?
+https://www.hhmi.org/biointeractive/photosynthesis
+(From 4th time mark until end; -4:12 to 10:41)
+
+ 
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+What is the source of electrons for the Light reactions?  
+A. Chlorophyll provides the electrons, producing CO2 in the process
+B. Oxygen provides the electrons, producing CO2
+C. Water provides the electrons, producing H+ and O2
+D. ATP provides the electrons, producing ADP
+E. NADPH provides the electrons, producing NADP+
+Feedback: Try again! Remember that the inputs or reactants of the light reactions each have a purpose. Which of the answer choices provides a light reaction input?
+
+MCQ2
+When are the products from the light reactions used in the Calvin Cycle? 
+A. Phase 1: Carbon Fixation
+B. Phase 2: Reduction
+C. Phase 3: Regeneration
+D. Both B & C
+E. The products from the light reactions are needed in every phase of the Calvin Cycle
+Feedback: Try again! Remember that ATP and NADPH are the products of the light reactions used in the Calvin Cycle. 
+
+How am I going to Detect Photosynthesis in the lab?
+
+[Uptake of Carbon Dioxide Video in lab: already recorded + VO]
+[Oxygen Production Video in lab: already recorded + VO]
+
+ELAINE SUPERBRAIN’S TASKS
+MCQ1
+What is the dependent variable in the Uptake of Carbon Dioxide experiment? 
+A. Amount of Elodea added to the test tube
+B. Amount of H2O added to the test tube
+C. Amount of phenol red added to the test tube
+D. Amount of time that it takes the Elodea to produce a color change in the solution
+E. Amount of CO2 provided by blowing through a straw.
+Feedback: Try again! Remember that dependent variable(s) represents the outcome that you are measuring.
+
+MCQ2
+What is the dependent variable in the Oxygen Production experiment?
+A. Amount of Elodea added to the test tube
+B. The amount of water displacement in the test tube recorded over time
+C. The color change in the test tube recorded over time
+D. The number of oxygen bubbles recorded over time.
+E. The amount of light that the test tube is exposed to over time.
+Feedback: Try again!  Remember that dependent variable(s) represents the outcome that you are measuring for this specific experiment.
+
+  Next>>
+
+Canvas Page 3
+Understanding Photosynthesis and Respiration                                                                                                    
+Reactants, Products, & Locations of Respiration
+ 
+What is the Anatomy of a Mitochondrion?
+Lisa: Please remove “mitochondria”, update matrix to “mitochondrial matrix”, update F0/F1 complexes to “ATP synthase”  https://www.shutterstock.com/image-vector/section-mitochondria-416026081?src=qKD3rMu-w9oN795_Ges2zw-1-3
+
+The mitochondrion (plural: mitochondria) is the organelle used to perform cellular respiration in eukaryotic organisms. The endosymbiotic theory states that the origin of modern day mitochondria came about through the engulfment of an ancient prokaryote by an ancient eukaryote. Over time, the prokaryote developed a symbiotic relationship with the eukaryote. Evidence that supports this theory includes: 1) the presence of DNA in mitochondria, 2) mitochondria-based ribosomes (mitoribosomes), and 3) the ability of mitochondria to independently grow and reproduce in eukaryotic cells (similar to binary fission).
+If we examine the anatomy of a mitochondrion, we can see that it has two membranes; the inner membrane and the outer membrane. The inner membrane invaginates or folds in forming cristae. The region enclosed by the inner membrane is known as the mitochondrial matrix. The region that exists between the inner and outer membranes is known as the intermembrane space. You will see that in the process of cellular respiration, select stages take place in specific regions of the mitochondrion. The Krebs Cycle (Citric Acid Cycle) of cellular respiration takes place in the mitochondrial matrix. The electron transport chain of cellular respiration is found in the inner membrane and relies on the intermembrane space to maintain a proton gradient used by ATP synthase in the process of ATP synthesis.
+ 
+Where does Respiration Happen?                                             
+[Animated video + VO] + instructor (existing videos)
+Prefer this video: https://www.youtube.com/watch?v=7J4LXs-oDCU (Natisha can we use? If not, what about the one below?
+https://www.youtube.com/watch?v=4Eo7JtRA7lg&t=37s
+
+
+KYLE AND KAI
+Kai: Why do plants have to do photosynthesis and respiration if they can make ATP during the light reactions of photosynthesis? Why not just do photosynthesis only?
+Kyle: The light reactions of photosynthesis are responsible for production of ATP in photosynthesis. As it suggests in the name, the light reactions are dependent on the availability of light energy. No light energy = no light reactions = no ATP synthesis. The light reactions can produce sufficient amounts of ATP & NADPH to be used in the Calvin cycle to build sugars but that amount is rapidly processed during the Calvin Cycle and would be considered miniscule compared to the mass quantities needed to maintain the metabolism of an organism. These sugars can then be used immediately in the process of cellular respiration (a light independent process) to obtain significant levels of ATP or the sugars can be stored and used when needed. 
+We also need to take into account that plants are made up of different types of cells, many of which do not perform photosynthesis, such as the cells that make up plant roots. Photosynthesis in the leaves of a plant provides the rest of the cells in the plant with sugars to be processed in cellular respiration.
+ 
+ELAINE SUPERBRAIN’S TASKS
+Drag the correct word/phrase on the left onto the blank space. 
+Something like this:
+ 
+
+How are Photosynthesis and Respiration Related?
+[Animated video + VO] or  Lightboard
+Nice summary video: Natisha Can we use it? https://www.youtube.com/watch?v=xmfhKbmQhq0
+ 
+WINDY WONDERS!! 
+Why should we be concerned about CO2 emissions if plants use CO2?
+ 
+ELAINE SUPERBRAIN’S TASKS
+Draw a concept map that makes connections between the reactants and products of both cellular respiration and photosynthesis. Once your concept map is completed, take a photo of your concept map and upload this photo in the discussion board created for you. Review your peers’ concept maps (at least two) and see if you can identify any errors or missing components. Be sure to leave clearly written comments that help them see the issue that you may have identified. Your TA will reveal the correct complete concept map for you at the end of the week.  
+ 
+Next>>
+
+Canvas Page 4
+Understanding Photosynthesis and Respiration                                                                                              
+What’s the Role of Oxygen in Metabolism?
+ 
+Tell Me the Difference between Aerobic and Anaerobic! 
+[Lightboard] (Jen and Christy) https://www.youtube.com/watch?v=YbdkbCU20_M (0:00 to 3:20)
+ 
+How Does Fermentation Happen?
+[Lightboard]
+https://www.youtube.com/watch?v=YbdkbCU20_M (3:20 to 7:27)
+ 
+How do We Measure Fermentation?
+[Yeast Fermentation Video in lab: already recorded + VO]
+
+ 
+ELAINE SUPERBRAIN’S TASKS
+
+MCQ1
+What is the purpose of fermentation?
+A. To recycle NAD+ 
+B. To make lactic acid
+C. To make ethanol
+D. To directly make ATP
+E. To directly make ADP
+Feedback: Try again! Remember that you are trying to be able to keep doing Glycolysis therefore you should consider what reactants (inputs) are needed to do Glycolysis.
+
+MCQ2
+In the Alcoholic Fermentation experiment, what is/are the independent variables?
+A. Type of yeast being used
+B. Type of solution being used
+C. Amount of yeast being added
+D. Incubation time in the water bath
+E. Gas levels recorded over a 20 minute period
+Feedback: Try again! Remember that the independent variable is the component of the experiment that you are manipulating or changing between samples.
+
+Next>>
+
+
+Canvas Page 5
+Understanding Photosynthesis and Respiration                                                                                              
+ 
+HARRY’S TIP OF THE DAY
+Attention is the first step to push the new information to your working memory. Pay attention to what you see, hear, and read. Don’t multitask by being on Facebook or Instagram while you’re watching the videos or reading the content.
+ 
+WHAT SHOULD I EXPECT FOR THIS LAB?
+ In class lab activities will include:
+	•	Executing various laboratory experiments based on photosynthesis and fermentation, collecting the data from the experiments, and then analyzing the data obtained from the experiments.
+	•	Preparing microscope slides
+	•	Viewing microscope slides at various magnifications and then recording your observations.
+
+ 
+HOW SHOULD I PREPARE FOR THIS LAB?
+ Remember to:
+	•	Read the lab text and bring your lab manual with you to lab. You may want to review how to properly use a microscope to view slides and how to properly prepare wet mounts (Lab 4: Microscopy and Cells).
+	•	Write the steps of each experiment in your own words such that each step has meaning to you. Preparing this personalized guide for each experiment before lab will allow you to stay on task during your lab time.
+ 
+ 
+Congratulations! You’ve completed the online work for Lab 7.
+See you in the lab! 
+

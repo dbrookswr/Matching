@@ -1,0 +1,6 @@
+A student claimed that Solution III has a pH of 7.3. Are the results of Experiments 1 3 consistent with this claim? 
+ No, because in Solution III metanil yellow was yellow. 
+ No, because in Solution III resorcin blue was red. 
+ Yes, because in Solution III metanil yellow was yellow. 
+ Yes, because in Solution III resorcin blue was red. 
+

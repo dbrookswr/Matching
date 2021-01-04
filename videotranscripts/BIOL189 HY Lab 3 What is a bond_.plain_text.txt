@@ -1,0 +1,303 @@
+Hi, my name is Christy Strong. 
+
+I'm Jenifer Utz. 
+
+And we are faculty members in the School of Life Sciences. And so Jen, chemical bonds. 
+
+Yes, let's talk about chemical bonds. So the big picture idea of the bond is that it's an attraction between two atoms or potentially between two molecules. So the bond is really the idea of this component that's pulling these two atoms together and holding them together. 
+
+So there's a variety of different types of chemical bonds. We're not going to talk about all of them today. But we're going to talk about a few critical examples that are really important to understanding larger biological molecules and their functions. So we've outlined some components of a chart to help us organize and compare and contrast these. 
+
+So let's go ahead and get started. So what's the first type of bond we're going to talk about? 
+
+Covalent bonds. 
+
+So we've got a covalent bond. 
+
+And then within the covalent bond type, there's actually subtypes. 
+
+So there's more than one kind of covalent bond. 
+
+Exactly. 
+
+So what different types of covalent bonds are there? 
+
+So you can have nonpolar covalent bonds, or you can have polar covalent bonds. And the expectation is that students are going to be able to differentiate and recognize these differences, if they were presented with material that actually demonstrated, oh, this one's nonpolar, this one's polar. 
+
+So we've got covalent bonds. We've got a couple of different subtypes of covalent bonds. For this type of bond, how do we form it? How do we build it? What's happening to put this bond in place? 
+
+So if the students go back and review what is an atom composed of, what we have to remember is the outermost shell of the atom is the valence shell. And within that valence shell are valence electrons. And so what we're looking at is sharing a valence electrons in that outermost shell. 
+
+So our covalent bonds are formed by sharing valence electrons. 
+
+And we're going to share them differently depending on whether it's a nonpolar covalent or a polar covalent bond, right? 
+
+Right. 
+
+So for nonpolar covalent, how are we sharing those electrons? 
+
+Equally. It's equal sharing. 
+
+All right. So 50/50 split. We're sharing this pair of electrons. They're spending equal, equivalent amounts of time associated with each atomic nucleus. What about if it's a polar covalent bond? Then how are we sharing? 
+
+It's unequal sharing. So one analogy that you and I have discussed before is, OK, I'm going to buy a footlong sandwich. 
+
+Yes, lunchtime! 
+
+And we want to share this sandwich. And so if we were going to share it based on nonpolar covalently, we would split the sandwich right in the middle. So 50/50, we get equivalent amounts. 
+
+But if we decide that we're going to do polar covalent, what happens is one of us gets a little bit more greedy than the other. So it's more like I'm going to get two thirds. You'll get the other third. We're still sharing. 
+
+Yeah, we each get some. 
+
+It's just someone's pulling a little harder than the other one. 
+
+All right. So equal, 50/50, exactly the same. Unequal, maybe we could think about 60/40 or some other breakdown. So all of our covalent bonds are formed by sharing a pair of valence electrons. Nonpolar covalent, we share equally. Polar covalent, we share unequally. Somebody is hogging those electrons. 
+
+Exactly. 
+
+So how can we tell? What makes the difference between whether the electrons are shared equally or in an unequal manner? 
+
+What it comes down to is what we call electronegativity. And so when you look at an atom and you look up the makeup of its outermost shell and you look at the composition of what's going on inside of the nucleus, what we'll see is that some atoms have what we call high electronegativity. They really, really have a high attraction for those negatively charged electrons. 
+
+Well, other atoms-- ah, it's like, ah, I can't be bothered. That's a little bit harder than I want to try to pull. And so if you're nonpolar covalent, both of the atoms or both of the molecules have equivalent pull. 
+
+So it's like, OK, if we're playing tug of war, and we're both of equal strength, OK, we're going to be sharing equally. Versus polar covalent, it's like you take a six-year-old that doesn't have very much strength, and then-- 
+
+Matched up with an adult on the other side. 
+
+Yeah, matched up with the adult that has the higher electronegativity. The adult's going to have a stronger pull, and so it's going to have more of the rope, or electron, pulled towards it than the weaker electronegative child. 
+
+So for our students, we don't have to go all the way to the full level of detail here. But just so they know-- oh, our light went out. It came back on. 
+
+It came back on. Magic. 
+
+Whoo-hoo! The electronegativity values-- those are measured properties of atoms. If we wanted, we could go look them up in a chart. We could look up the numerical value-- what's the electronegativity of carbon or oxygen or hydrogen? So there's a quantitative parameter. We're just thinking about it from a broad conceptual term. 
+
+But we could dig a little deeper if we wanted to and actually look up those numbers. And we have some thresholds based on how similar or different those electronegativity values are to let us clarify whether we're looking at nonpolar or polar covalent. But for our students, we'll just have a couple of key examples that they'll need to become familiar with. 
+
+So what are some other important properties that we should know about covalent bonds? 
+
+So what we're going to see is when we look at covalent bonds in nature, the characteristic covalent bonds are strong, and they are stable. And that's going to be key, because a lot of our major macromolecules-- this is what holds them together, the components they're in. So we need to have things that are strong and stable. 
+
+So when we think about building proteins and carbohydrates and lipids, these larger biological molecules, we're going to see an abundance of covalent bonds. We're going to use this a lot to build these larger molecules. 
+
+Yes. 
+
+Is there anything we should think about the properties of the molecule if we're using nonpolar covalent versus polar covalent? 
+
+Yes. 
+
+So we're following this idea even a little farther. 
+
+So this is going to be electrically neutral. So what I mean by that is that basically, when you look at the molecule that is created, the charge distribution is symmetric. It's balanced. So it's neutral. 
+
+Everything's evenly distributed. 
+
+Exactly. 
+
+What about when we're building molecules with polar covalent bonds? 
+
+So if we're polar covalent-- nope. So we're going to end up having this asymmetric distribution that happens with regard to charge. And so one end is going to be polar, and the other one's not. And so it's literally a pole. You're going to see-- we're going to represent that with a dipole. We put this little squiggly sign. And it can either be a plus, which means, oh, I'm the weak one. I'm not holding on to the electron as much. 
+
+A little depleted of those shared electrons, getting the small side. 
+
+Versus the minus. This one's the one that's actually polar. 
+
+The stronger electronegativity. So that's the side that's hogging those electrons. And if I'm getting the larger portion, more of those electrons are associated with my side of the bond, and I'm going to be a little bit more negative. 
+
+Exactly. 
+
+And how would we say that? Like if we see this notation, how do we say that? Partial positive and partial negative? 
+
+Partial negative. You like how I'm like, I don't know, Jen. How do you say it? 
+
+I don't know, how do you say it? 
+
+How do you say it? And so you'll see there's different ways to represent, and so you're going to have to learn a variety of ways. And sometimes you'll blank. You'll be like, what? It's positive or negative. I don't understand. But that's going to be important when we get to another bond type, where we're talking about this idea of partial charge here, because we're going to be full-on charge later. So this is important. 
+
+And I bring that up because that is an important concept that we want to make sure our students understand, that some is a distinct idea from all. So if we're a partial positive or partial negative, that's different than having a full plus 1 or a full minus 1. So if I owe you $10 and I pay you $1, I've given you some. But some is not the same as all. 
+
+So let's think about some examples. How do we draw covalent bonds? 
+
+So you can represent covalent bonds by actually showing the electrons. Or if you're a chemist, you're like, no. I don't want to show the electrons. So if I wanted to show the electrons-- say I wanted to make a bond between carbon and carbon. So C represents carbon, and C represents carbon. If I wanted to make a covalent bond, like a single bond, what's going to happen is this carbon is going to share an electron, which I'm going to represent with a little circle, and this carbon is going to share an electron. 
+
+And so here, because they're sharing this, this is known as a single bond. And as I said, chemists aren't really crazy about representing it like that, because it's messy. So instead, they'll represent a single bond between two carbons as a single horizontal line. 
+
+So just a solid line between those two atoms represents a single bond. 
+
+Exactly. And so because these two atoms are the same atoms, I automatically know that this is a nonpolar covalent bond, because they're going to have equal electronegativity. 
+
+So the electronegativity of carbon is the same as the electronegativity of carbon. 
+
+Exactly. 
+
+Can atoms share more than one pair of electrons? 
+
+They can. It can depend on the atoms. So like carbon-- and we'll see that carbon is going to be the backbone when it comes to making a lot of our macromolecules-- carbon is fantastic in that carbon can make double bonds. 
+
+So just two solid lines representing two covalent bonds, a double bond? 
+
+So then that-- yeah, exactly. Double bond. And so here what we have taken account is with a single bond, we had two electrons involved in that single bond. 
+
+One each shared by each carbon. 
+
+So if it's a double bond, how many do we think are involved? 
+
+Four. 
+
+Exactly. You just double it. 
+
+OK. 
+
+And then you could do a triple bond. One, two, three. Hopefully our light will come back on. There we go. Magic. 
+
+So here I'm representing a triple bond with three horizontal lines. So here, if we're doing the triple bond, how many electrons? 
+
+Six. 
+
+Exactly. 
+
+All right. So the triple bonds are pretty rare in the biological molecules we'll look at. But we'll see lots of different examples of single bonds and double bonds. So all of these are carbon to carbon, so those would all be nonpolar covalent. 
+
+Yes. 
+
+Can we draw an example of a molecule that would have a polar covalent bond? 
+
+So if we want to do polar covalent bond, the one that really is the prototype that most of your biology books are going to show you-- 
+
+Water. 
+
+Water. So we write water H2O. But if we actually went to draw it, we have an oxygen connected to a hydrogen connected to a hydrogen. So each of these lines represents a single bond. 
+
+Now, polar-- if we want to actually represent and become very, very clear that this is a polar molecule, what we have to know is, OK, oxygen has a higher electronegativity than our lovely hydrogen. So what I would do is I put the dipole here, minus-- 
+
+A partial negative on oxygen. 
+
+And then partial positive here and a partial positive here. 
+
+And that's how we denote what's happening with that unequal or uneven sharing of electrons. 
+
+Oxygen has the higher electronegativity. We can imagine it's hogging those shared electrons of the polar covalent bond, ending up with that partial negative. Hydrogen-- weaker electronegativity. It's not pulling. It's a little depleted of those shared electrons, ending up with that partial positive. 
+
+Yeah. And oftentimes, they'll show you the dipole moment by doing something like this, where they're showing what direction are the electrons being pulled. 
+
+So again, there's a couple different ways that we can see this schematically represented or drawn in the diagrams. 
+
+Yes. 
+
+OK. So covalent bonds are a pretty substantial building block for thinking about biological structures. We've got two other types of bonds to work through. So the second type of bond is an ionic bond. And the nature of the ionic bond, how it's formed, is going to be different. 
+
+So the covalent bond, both types was about sharing those valence electrons. The ionic bond, the actual final attraction, is just that. It's an electrostatic attraction, which is just basically a fancy way of saying that attraction between opposite charges. 
+
+And so it's like, OK, well, how are you getting opposite charges? We saw with covalent, we're sharing. And with that sharing, you get partial charges, if we're dealing with an unequal sharing. With regard to ionic, it's one of the atoms is [INAUDIBLE] wants to give me the electron, and the other one's saying, here, take it. I don't want it. And so one becomes completely positive, and one becomes completely negative. 
+
+Right. So I often talk about an ionic bond formation as a 2-step process. Step one-- form ions, which is what you just described. Sometimes the difference in electronegativity is so great that when two atoms come in proximity with one another, we'll have one atom losing an electron being gained by the corresponding partner. 
+
+So that's step one-- form the ion. If we lose an electron, we're left with overall positive charge. We will call that our cation. And then the component that gained that electron is going to take on an extra negative charge. We call that the anion. And then once we have our cation and anion, we've set the stage for the ionic bond, which is the attraction, that pull together based on those opposite positive and negative charges. 
+
+So what should we think about in terms of important properties of ionic bonds? 
+
+So when we talk about ionic bonds, we can look at what kind of environment are we finding an ionic bond in. So here, what we're going to find is it's actually very strong in air. But this shifts if we move it into a different environment. So what's another environment you can put it in? 
+
+Water. 
+
+Yep. So if we put it in this aqueous environment-- 
+
+Which is a water-based solution. 
+
+Exactly. Then what we're dealing with is, ugh, we're weak. 
+
+So if we think about something like table salt-- sodium chloride-- that's an ionic compound. So if that salt is in air, like in the salt shaker on the table, then those ionic bonds between the sodium and chloride ions are relatively strong. They're pulled together. 
+
+But if we take that salt and we put it in some water, those crystals are not going to stay together, because the charge interactions between the water and the ions are able to take it apart. We're going to see this dissociation, this dissolution into the water. So if we're in an aqueous environment, a watery environment, like in our cells, the ionic bonds are going to be relatively weak, because we have all those water molecules to come in and disrupt them. 
+
+But just in air, that bond is going to be very strong. And when we're representing our ions in those ionic bonds oftentimes will just show the charges on our ions. If we were going to sketch out a schematic showing the distribution of the electrons in the various energy shells, we wouldn't see them overlapping at all. 
+
+Because we're not sharing. It's a different type of interaction. So if we do that full depiction on the covalent bond, we see this overlap of our shared electrons. But not on the ionic bond. 
+
+And so with the NA plus, the plus is, oh, I lost an electron. I lost one negative charge. 
+
+But we still have all those positive charges from the protons in the atomic nucleus. 
+
+Because before, when we talked about atoms, when you have an equivalent amount of protons and neutrons, you're neutral, so we just write NA. But once you throw away an electron, ah, you've got more protons than electrons. Now you're positive. 
+
+And then the opposite applies for our chloride ion. Before, my protons and electrons were equal. Now I have more electrons than protons, so now I have a negative charge. So in this case, our sodium is our cation. It said, catch. I don't want this electron. 
+
+And our chloride is our anion. And I'll take it. Basically, that's one way I remember it, is going, catch! You threw it away. And I'll take it. 
+
+Oh, that's a good tool. 
+
+So that way, we keep them straight. 
+
+And for sodium and chloride, we're just gaining and losing one electron. But for some other atoms, we can potentially gain or lose more. So we might see an example like calcium, where we have a charge of plus 2. 
+
+Exactly. Threw away two electrons. So I'm a cation that said, catch! Catch these two. I don't want them anymore. 
+
+And all of this movement, the gain, the loss, the sharing of electrons-- what's underlying all of that is driving toward a condition where we have a stable organization of electrons in the valence shell. 
+
+So one more type of bond to work through-- 
+
+Hydrogen. 
+
+What's last on our list? A hydrogen bond. All right. So-- uh-oh. Let's see if I can get a better marker. 
+
+So one of the things that is important to note is that-- oh, there we go. That's better. Hydrogen bond. 
+
+So our hydrogen bond is also formed through an electrostatic attraction. So there's a component that's similar between the hydrogen bond and the ionic bond. 
+
+And we'll see, though, with hydrogen bond, hydrogen, specifically, has to be involved. But we'll see that there is a caveat to that, which sometimes students get confused about this. So it's one of those oh, check yourself before you wreck yourself moments that we're going to talk about at the end when we're summarizing everything. 
+
+So we'll see that-- again, that partial charge on a hydrogen, and then a partial charge or a full charge on either an ion or a molecule that's going to be attractive between the two. 
+
+So we're still thinking about this idea of attraction between opposite charges. But now instead of just any cation with any anion, we're thinking specifically about this attraction occurring between a hydrogen that has this partial positive charge and then some other source of negative charge on the other side. So we can have an anion, a full negative charge that hydrogen is interacting with on the other side, or we might have another polar molecule with a partial negative charge that that partially positive charge on the hydrogen is interacting with. 
+
+So hydrogen bonds-- attraction between the partial positive of hydrogen and some negative on the other side. What are other important properties we should know? 
+
+They are so very, very, very weak. And that is key. We need them to be weak in that, when we look at the systems, we'll see it's important that we're able to make them and break them, make them and break them. 
+
+So in future-- we're foreshadowing, because it's coming-- it's going to be very important that you're able to make and break these type of bonds when we talk about things like DNA replication, when we talk about transcription, when we talk about process of translation, there's going to be some hydrogen bonds involved-- 
+
+And proteins structure. 
+
+So you really do have to learn all of this, because this is a foundational piece that things are going to be built on. And if you really don't have a firm understanding, students are going to get lost in future labs. 
+
+Right. These ideas are a foundation that we build and build and build on. So each individual hydrogen bond is very weak, compared to a much stronger covalent bond. But we can have many of them. So overall, if we think about the structure of a protein or DNA, the hydrogen bonds, even though each one is pretty weak, can play an important role. But that weakness becomes important when we need to start changing things, opening up, changing shapes and structures and so on. 
+
+If we think about an example, how do we depict a hydrogen bond? 
+
+So when we do hydrogen bonds-- when you draw them, you're going to be doing dot dot dots. So not a solid line. 
+
+Because that means a covalent bond. 
+
+Exactly. So dot dot dots. And so oftentimes, one way that they're represented in textbooks is to take two water molecules and show you that hydrogen bonds can be made between two water molecules. So if we have this water molecule, and I want it to hydrogen bond with this water molecule, what I'll first do, just to check myself, is I'm going to put the little partial charges. 
+
+Because that bond between the hydrogen and the oxygen atoms is a polar covalent bond based on their electronegativities. 
+
+Exactly. Now, this bond between this hydrogen and oxygen is not a hydrogen bond. It's a covalent bond. If I want to form a hydrogen bond, what I'm going to do is I'm going to form it between this hydrogen right here-- that's already involved in a covalent bond interaction-- and this oxygen right here. So the partial positive is attracted to the partial negative. 
+
+So we've covered all these different types of bond interactions. We'll put up an example of a molecule and identify everything one more time. And one of the things we want to pay attention to here-- a place that students sometimes can get a little confused-- is that just because hydrogen is involved in a bond does not mean that bond is a hydrogen bond. So we'll have an example here where we can see all of these different types of interactions. 
+
+So we've got a molecule with carbon and some hydrogen and a hydroxyl group and OH group and then a molecule of water. Where do we have examples there of hydrogen participating in a nonpolar covalent bond? 
+
+So nonpolar means that the electronegativity needs to be roughly the same, or very, very close. So we've got one right here between this carbon and this hydrogen, we have one right here between this carbon and this hydrogen, and we have one right here between this carbon and this hydrogen. 
+
+So all three of these hydrogens are participating in nonpolar covalent bonds with carbon. Electrons are being shared evenly. 
+
+Where do we have an example of a hydrogen participating in a polar covalent bond? 
+
+Right here, between the oxygen and the hydrogen. The oxygen is a bit more greedy than the hydrogen, so it's got a bit more pull. We have unequal sharing. So the bond between the oxygen and the hydrogen is a polar covalent bond. 
+
+So it's important to remember that no matter what other atoms or larger molecules we get attached to, anytime we see that bond between oxygen and hydrogen, that's always going to be a polar covalent bond. Because always, oxygen is going to have greater electronegativity. It's going to pull more strongly. Always, hydrogen is going to end up a little depleted. So our hydrogen here has that partial positive charge because of participating in that polar covalent bond. 
+
+So then where can we have a hydrogen bond form? 
+
+So the hydrogen-- we need a partial positive on our hydrogen, and we need it to be attracted to something that's negative. So it's like, OK, I have my partial positive-- 
+
+Oh, look at that water molecule conveniently placed there. 
+
+So I know that this hydrogen is partially positive. I know this one's partially positive. I know that this oxygen is partially negative. That's the one I need to focus on. So I've got this guy, this guy-- let's do the dot, dot, dot, dot. There's my hydrogen bond. 
+
+Perfect. 
+
+OK. So make sure that you are coming prepared to lab. And can you make this chart on your own? If you can make this chart on your own and explain it to somebody else, you have a better understanding of how bonds are going to work, and this is going to be really important for not only this lab, but for future labs. 

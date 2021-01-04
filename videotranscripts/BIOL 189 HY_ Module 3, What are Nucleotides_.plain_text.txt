@@ -1,0 +1,103 @@
+So what are nucleotides and nucleic acids? Hi. I'm Christy Strong. 
+
+I'm Jennifer Utz. 
+
+And we are faculty members in the School of Life Sciences. 
+
+So that's a good question, Christy. What are nucleotides and nucleic acids? 
+
+Blueprints. They're directions. Students, average public member already has heard about them-- 23andMe, ancestry.com. They're looking at your blueprint. They're information. 
+
+So we're thinking about the genetic information. 
+
+Exactly. And so there's different types. Most people are familiar with DNA, deoxyribonucleic acid. We also have RNA, which is temporary blueprint. So ribonucleic acid. Both of them are necessary inside of our cells, and both of them are conveying information. 
+
+So the DNA and the RNA, are those the larger polymers, or are those the smaller monomer building blocks? 
+
+They are polymers. So DNA and RNA are nucleic acids. So they are made up of the monomers known as nucleotides. 
+
+OK, so what goes into a nucleotide? What's part of that monomer? 
+
+So when we look at the monitor, what we're going to see for nucleotide is, it's going to have a phosphate group. So phosphate attached to a sugar attached to a nitrogen-containing base. 
+
+OK, so the phosphate group is going to be the same, no matter what. Is the sugar going to be the same? 
+
+The sugar differs based on whether or not your DNA or RNA. 
+
+OK. 
+
+We can label the carbons inside of a sugar. If we look at carbon number 2 for DNA, a hydrogen is attached. For RNA, a hydroxyl an OH group, is attached. 
+
+OK, so that "deoxy" in the full name for DNA is talking about the lack of the oxygen there. OK, so phosphate's the same. Sugar's a little bit different. What about the third part? What about the bases? 
+
+So when we look at the bases, we have A for adenine. Both of them have that. 
+
+OK. 
+
+C for cytosine. Both of them have that. G for guanine. Both of them had that. 
+
+When we get to the fourth base is where they're different. So when we talk about DNA, it's a T for thymine. When we get to RNA, it's a U for uracil. 
+
+OK, so four bases for DNA, four bases for RNA. 
+
+Correct. 
+
+But they're not exactly the same. There's one base that's unique to each. When we look at all those bases, is there any way to sort them out or classify them-- 
+
+There's patterns. 
+
+--or think about how they interact. 
+
+So A and G have two rings. 
+
+OK. 
+
+So they're known as purines 
+
+OK. 
+
+C, U, and T, CUT, are pyrmidines. They have one ring. So that's one way to visually know what type of base you're looking at. When you look at the nitrogen-containing base, you go, do you have two rings or one ring? Two rings, purine, One ring, pyrmidine. 
+
+And we could use that CUT as a memory tool. 
+
+Exactly. 
+
+We could imagine, we cut it in half, CUT. That gives us our smaller group. And then the others by default or in the other category. 
+
+OK, so purines, pyrmidines. Is there anything that we should think about beyond just their structure? Is there anything about their interaction that's important to know? 
+
+We're going to see that when we compare DNA to RNA, DNA forms what we call two strands. RNA forms one. To form the two strands to the linkages, we're going to be doing what's called base pairing. So purines base pair with pyrimidines. 
+
+OK. 
+
+So you're going to see A with T, G with C. 
+
+OK, what about in RNA, when I don't have that T 
+
+So it's going be A with U, G with C. 
+
+OK, and what's the nature of the interaction. What's forming that base pair. 
+
+It's hydrogen bonds. 
+
+Oh, OK. 
+
+So easy to make, easy to break. And that's going to be really important. So with DNA, because it is double-stranded, the double helix, I need to be able to read the information. And so I need to be able to open it up. 
+
+Because they're hydrogen bonds, they're easy to make and easy to break. It's easy to access the information, and then close it back up. Access to information, close it back up. 
+
+Perfect. How does the cell build the molecules of DNA or RNA? 
+
+So I have to take monomers, and I have to link them together using dehydration synthesis. 
+
+OK, so same big-picture tool. We got out monomer building block. We've got the same type of chemical reaction to link them together, to form that new bond. It's going to be catalyzed by enzymes, regulated in the cell. 
+
+Exactly, so DNA polymerase builds DNA polymers. RNA polymerase builds RNA polymers. And what they're doing is they're building a covalent bond known as a phosphodiester linkage. 
+
+OK, so covalent bonds, strong bond, sharing electrons. And it gets its own special name for being the particular covalent bond linking those together. But same big picture ideas, as with all our other molecules. 
+
+Exactly. 
+
+All right. So if we think about a big-picture summary, we should know about the overall structure of the molecule. We should know the different types of nitrogenous bases. We should know the differences in the sugar. And we should know big picture differences in the function, whether it's long-term energy store or information storage, or short-term information storage. 
+
+Right, DNA long. RNA, temporary. 

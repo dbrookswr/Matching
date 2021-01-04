@@ -1,0 +1,6 @@
+Why was the study designed so that the 3 plots had the same types of vegetation present and the same density of vegetation cover? These conditions ensured that any variations in albedo and soil temperature would most likely be attributable only to variations among the plots in the: 
+ amount of DM sprayed. 
+ type of soil present. 
+ plot area.
+ plot slope. 
+

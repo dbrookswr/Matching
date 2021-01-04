@@ -1,0 +1,6 @@
+One way Experiment 2 differed from Experiment 3 was that in Experiment 2: 
+ the solutions to which indicators were added were of known pH. 
+ the solutions to which indicators were added were of unknown pH. 
+ metanil yellow was used. 
+ metanil yellow was not used. 
+

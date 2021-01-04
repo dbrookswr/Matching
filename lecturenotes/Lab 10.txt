@@ -1,0 +1,266 @@
+Canvas Page 1
+Lab 10 – It's All in the Genes: Understanding Genetics                                                                      
+Learning Goals and Skills
+ 
+What’s the Main Goal of This Week’s Lab?
+Accurately illustrate the relationship between genotype and phenotype using Punnett squares, pedigrees, and the Hardy-Weinberg model
+ 
+ 
+How Will I Accomplish This Goal?
+By the end of the week, you should be able to:
+1)    Describe how the following terms are related: chromosome, gene, allele, homozygous, heterozygous, genotype, phenotype, dominant trait, and recessive trait
+2)    Discuss expected results and observed results based on the inheritance of one trait
+3)    Describe the inheritance of some common genetic traits in humans
+4)    Discuss basic principles of population genetics and the Hardy-Weinberg model
+5)    Construct a simple pedigree and a monohybrid Punnett square
+6)    Generate predictions about results regarding collection of in-class genetic trait data
+ 
+ 
+ 
+What Skills Will I need To Accomplish This Goal?
+·     Having knowledge of your own thought processes
+·     Accurately judging what you know and what you don’t know
+·     Critical thinking
+.   Showing knowledge processes in diagram/chart/table
+ 
+ 
+ [Checklist Placeholder]
+
+
+Next>>
+
+
+
+
+
+
+
+
+Canvas Page 2
+Lab 10 – It's All in the Genes: Understanding Genetics                                                                          
+Chromosome, Gene, Allele, & more…
+ 
+In Lab 8, we learned how to make copies of DNA through the process of DNA replication. In Lab 9, we dived into the different processes (mitosis and meiosis) that allow DNA to be distributed among cells. In Lab 10, we are going to take a deep dive to examine how DNA is condensed into chromosomes and how we can use information based in the DNA to predict patterns of genetic inheritance. 
+
+What is a Chromosome?
+HHMI video: https://www.biointeractive.org/classroom-resources/how-dna-packaged
+  
+What is a Gene?
+https://www.youtube.com/watch?v=8m6hHRlKwxY (5:31-6:34)
+
+What is an Allele?
+https://www.youtube.com/watch?v=pv3Kj0UjiLE&t=9s (1:36-4:15)
+ 
+KYLE & KAI
+Kyle: I’ve read in the news about the breast cancer gene and how individuals who find out that they have the “breast cancer gene” are at a higher risk to develop breast cancer than others. Does this mean that these individuals have a gene that others don’t have?
+Kai: Actually, the average person inherits 2 copies of the BRCA1 gene, located on Chromosome 17. Currently, researchers have identified ~600 alleles (versions) of the BRCA1 gene. Inheriting certain BRCA1 alleles from one’s parents can result in a higher risk of developing breast cancer later in life.
+
+What are Homozygous and Heterozygous Genotypes?
+
+In general, humans each have two copies of a gene; one inherited from our mother, and the other inherited from our father. It is noteworthy that the exception to this rule occurs with Chromosome pair 23, the sex chromosomes because biological females inherit 2 X-chromosomes while biological males inherit an X and a Y chromosome. 
+When we examine a gene pair, we can determine whether or not both inherited copies of the gene are the same allele type or are different from one another. If both alleles of a gene are the same, we refer to an organism as being homozygous for that gene. If both alleles of a gene are not the same, we refer to an organism as being heterozygous for that gene. As shown below, the AA and aa gene pairs each represent a homozygous example. The Aa gene pair represents a heterozygous example.
+Shutterstock: Please remove the word “organism” from below each image. Italicize the A & a’s https://www.shutterstock.com/image-illustration/difference-between-homozygous-heterozygous-genotype-diploid-1406888609?src=9A4ZGGbY6kiniLVtIOJrrA-1-0
+
+What are Genotype and Phenotype?
+
+When we want to discuss the genetic make-up of an organism, we refer to the organism’s genotype. Each allele type for a gene is represented by a letter. For example, we may represent the eye color gene of a puppy with the letter B. The puppy has two copies of this gene so to represent the genotype of the puppy, we would write down the 2 alleles that the puppy has for this gene, such as bb.
+When we want to discuss the observable characteristics determined by a gene, we refer to the organism’s phenotype. For example, in the image below the blue eye color of the puppy would be its eye color phenotype.
+Shutterstock: https://www.shutterstock.com/image-photo/american-pit-bull-terrier-little-puppy-348408239?src=YBQV1I1g2yw0zY9lrp5_Fw-1-7
+
+
+ 
+What are Dominant and Recessive Traits?
+
+When examining the phenotypic outcomes resulting from a specific genotype, often one allele type may have a stronger influence on the outcome than another. If an allele is designated as dominant, this means that one copy of that allele is sufficient to observe the associated phenotype. Dominant alleles are represented with upper-case letters (e.g. B). If an allele is designated as recessive, this allele will be masked if paired with a dominant allele (e.g. BB = Purple and Bb = Purple). Recessive alleles are represented with lower-case letters (e.g. b). To observe the phenotype resulting from a recessive allele, two copies of the recessive allele need to occur (bb) or the recessive allele needs to occur exclusively by itself (b; no dominant allele present).
+Shutterstock: Please crop image as shown below. https://www.shutterstock.com/image-vector/punnett-square-genetics-biological-inheritance-example-774310066?src=cfC05Qw89sKRrmt1O6Qykw-1-9
+
+
+Watch this video to review these fundamental concepts of genetics. 
+Summary video: https://www.youtube.com/watch?v=Mehz7tCxjSE
+
+
+ELAINE SUPERBRAIN’S TASK
+MCQ1
+Keala notices that the cactus he planted in his front yard produces yellow flowers. Based on this information, Keala has determined
+	•	the phenotype of the cactus
+	•	the genotype of the cactus
+	•	that the cactus is homozygous for the flower color gene
+	•	that the cactus is heterozygous for the flower color gene
+	•	that the cactus is displaying the recessive phenotype
+Feedback: When answering questions, be sure to highlight what information is provided in the question and what information is not provided.
+
+
+
+MCQ2
+Which of the following represents a homozygous genotype?
+	•	AA
+	•	Aa
+	•	aa
+	•	Both A & B
+	•	Both A & C
+Feedback: What terminology do we use when a person has two copies of the same type of allele for a gene versus one that has two different alleles for a gene?
+
+MCQ3
+R is the dominant allele for the leaf shape gene and r is the recessive allele. Which of the following genotype(s) represent an organism that would display the dominant phenotype?
+	•	RR and Rr
+	•	RR and rr
+	•	Only Rr
+	•	Only RR
+	•	Only rr
+Feedback: Designating an allele as recessive implies that this allele will be masked or hidden in the presence of a dominant allele.
+ 
+Next>>
+ 
+Canvas Page 3 
+Lab 10 – It's All in the Genes: Understanding Genetics                                                                  
+Genetic Problems
+
+What is a Monohybrid Cross? 
+[Lightboard video] Jen & Christy
+Write the following problem as a header across the top of the board:
+In pea plants, full pods (F) are dominant to constricted pods (f). In a genetic cross of two plants that are heterozygous for the pod shape trait, what fraction of the offspring should have full pods?
+Walk students through how to analyze the problem’s components, set the problem up correctly to solve, and how to interpret results.
+
+
+What is a Dihybrid Cross?
+ [Lightboard video] Jen & Christy
+Write the following problem as a header across the top of the board:
+Within a lizard population, the red-belly allele (R) is dominant to the white-belly allele (r) and the acid-spitting allele (A) is dominant to the non-acid spitting allele (a). A homozygous red-bellied acid-spitting lizard is crossed with a homozygous white-bellied non-acid spitting lizard. What are the genotypic and phenotypic ratios of their potential offspring?
+
+
+KYLE & KAI
+Kai: I find setting up a dihybrid cross to be challenging. How can I make solving this type of problem easier on myself? 
+Kyle: There are a couple steps to simplify the process. First, a dihybrid cross must involve two different genes so make sure to write down the letter-type representing each gene. Second, each parent will produce 4 gametes to be used in the actual cross. Write down each parent’s genotype, then perform meiosis on paper to determine the types of gametes that each parent could produce. Remember that each gamete must contain one copy of each gene, so 2 different letter-types that represent the two different genes should be represented in each of the gametes generated.
+
+What Are Codominance and Incomplete Dominance?
+ https://www.youtube.com/watch?v=YJHGfbW55l0 (0:51-3:25)
+
+What Are the Different Blood Groups?
+ [Video] OER https://www.youtube.com/watch?v=9O5JQqlngFY (0:00-3:32)
+
+WINDY WONDERS!!
+Does the blood type of the mother and the father matter during pregnancy?
+
+
+ELAINE SUPERBRAIN’S TASK
+Discussion post with three different genetic problems (Have a word doc with the information below spaced properly to give OE: file is in storyboard folder with Biol189 Lab10_Genetics problems as filename).
+Biol189 Lab 10
+Below, there are three different genetics problems. Your task is to attempt to correctly answer each genetics problem. Be sure to show your work. Once you have completed this task, either take a photo of your work or scan your work so that you can post your completed task to the discussion board.
+ 
+1. In the pea plant, the green pod color allele is dominant to the yellow pod color allele. Set-up a monohybrid cross between a pea plant that is heterozygous and a true-breeding yellow pod pea plant. What percentage of the offspring produced from this cross would you expect to have yellow pods?
+
+2. Within a mouse population, the black fur allele (B) is dominant to the white fur allele (b) and the short whisker allele (S) is dominant to the long-whisker allele (s). A heterozygous black-furred short-whiskered mouse is crossed with a homozygous white-furred long-whiskered mouse.  What percentage of the offspring will be black-furred with long whiskers?
+
+3. A physician is examining the blood types of children from a family. Child 1 has blood type AB, Child 2 has blood type B, Child 3 has blood type B, and Child 4 has blood type A. Based on the phenotypes of the children, what are the probable genotypes of the parents?
+Next>>
+
+Canvas Page 4 
+Lab 10 – It's All in the Genes: Understanding Genetics                                                                  
+Hardy-Weinberg
+ 
+Why Do We Inherit Some Genetic Traits?
+[video] HHMI/learn genetic (Sickle Cell Anemia)
+https://www.youtube.com/watch?v=Zsbhvl2nVNE
+ 
+WINDY WONDERS!! 
+Why does sickle cell anemia still exist in the human population?
+ 
+What are Population Genetics and the Hardy-Weinberg Model?
+Evolution is a unifying principle in biology. The term evolution generally refers to a process of change. In the context of biology, evolution refers to the genetic information of a population changing over time. It is important to note that evolution occurs within a population of organisms, not within a single individual. Biologists can measure changes in a population’s genetic information to determine how populations of organisms evolved (changed/shifted) over generations (time) based on their genotypes. 
+
+Changes in population genetics can result from: 
+1) mutation 
+2) natural selection 
+3) gene flow between populations 
+4) non-random mating
+5) variation in population size (smaller populations are more susceptible to genetic drift, random changes in genetic information)
+
+If a population did not evolve over generations, we would say that the population is in Hardy-Weinberg equilibrium. To reach Hardy-Weinberg equilibrium, none of the five factors listed above can occur in the population. So how can you determine if a population is in Hardy-Weinberg equilibrium? We can use the following formulas for a gene with 2 alleles (in this case, we will assign one allele as dominant and the second allele as recessive): 
+
+p + q = 1 
+and 
+p2 + 2pq + q2 = 1 
+
+where: 
+p = frequency of the dominant allele in the population
+q = frequency of the recessive allele in the population
+p2 = expected frequency of homozygous dominant genotype
+q2 = expected frequency of homozygous recessive genotype
+2pq = expected frequency of heterozygous genotype
+
+If the frequency values represented above do not change from generation to generation, than the population is not evolving and is in Hardy-Weinberg equilibrium.
+
+Lisa: Shutterstock image 135888018 
+
+As you can see in the representative image of a population above, each organism has a genotype (letters) and a phenotype (fur color). From the information presented in the image and the formulas presented earlier, we can determine the allele frequencies and genotype frequencies. The following video will guide you through this process.
+
+https://www.youtube.com/watch?v=xPkOAnK20kw
+
+KYLE AND KAI
+Kai: Will genetic equilibrium ever occur in nature?
+Kyle: The challenges to reaching and maintaining genetic equilibrium are the requirements that no mutations can occur, no movement into or out of the population can occur, mating must be random, the population must be large, and no allele can be favored/selected over another. As you can see, meeting all of those requirements would be incredibly challenging in a natural environment that experiences natural variation over time.
+ 
+ELAINE SUPERBRAIN’S TASK
+Before beginning the problem shown below, you should review your basic formulas and corresponding information below:
+
+p + q = 1 and p2 + 2pq + q2 = 1
+
+p = frequency of the dominant allele in the population
+q = frequency of the recessive allele in the population
+p2 = expected frequency of homozygous dominant genotype
+q2 = expected frequency of homozygous recessive genotype
+2pq = expected frequency of heterozygous genotype
+
+You are examining a scorpion population within the Las Vegas area. Your field team is able to capture 200 yellow scorpions and 450 brown scorpions. You know that the color brown (B) is dominant over the color yellow (b). Based on this information, please answer the following questions. Be sure to show your work.
+
+	•	What is the allele frequency of each allele?
+
+	•	What percentage of scorpions in the population are heterozygous?
+
+Once you complete your calculations, please upload your work to the discussion board.
+
+
+ 
+
+Next>>
+Canvas Page 5
+Lab 10 – It's All in the Genes: Understanding Genetics
+How Should I Set-up the Allele Frequencies over Generations Experiment?
+[Allele Frequencies over Generations Video in lab: already recorded + VO]
+
+How Should I Set-up the Corn Inheritance Experiment?
+[Corn Inheritance Video in lab: already recorded + VO]
+
+How Should I Set-up the Mock Blood Typing Experiment?
+[Determining Blood Type and Rh Factor Video in lab: already recorded + VO]
+
+How Are Human Pedigrees Solved?
+https://www.youtube.com/watch?v=Gd09V2AkZv4
+Next>>  
+
+Canvas Page 6
+Lab 10 – It's All in the Genes: Understanding Genetics                                                                      
+ 
+HARRY’S TIP OF THE DAY
+Don’t use simple repetition of new content. Research shows rehearsing won’t push the information to your long-term memory. It will stay in your short-term memory only for a few seconds just as you do to remember a phone number before making a phone call. Use a strategy that can help you hold the to-be-remembered information in your memory. You have already been using these types of strategies during your labs including making links back to prior knowledge (example: Introductory paragraph to this lab), elaborative interrogation (Windy Wonders’ Why questions), and self-testing (Elaine Superbrain’s tasks). A suggested goal would be to incorporate more of these types of strategies into how you study for both your lecture and in-person lab experiences.
+ 
+ 
+WHAT SHOULD I EXPECT FOR THIS LAB?
+In class lab activities will include: 
+	•	Modeling phenotype/genotype outcomes using a coin toss
+	•	Modeling allele frequency changes over generations using plastic chips
+	•	Determining allele frequency in the model organism maize
+	•	Assessing representation of certain genetic traits within your Lab class population
+	•	Performing a mock blood type analysis
+	•	Analyzing and building pedigrees
+ 
+ HOW SHOULD I PREPARE FOR THIS Lab?
+Remember to:
+	•	Review the Lab 10 experiment videos and the Pedigree video before attending your lab. 
+	•	Be sure to bring your lab manual to class.
+	•	On a piece of paper, write a check list of what you will need to accomplish to complete this lab. This can help you stay on task during the actual lab class.
+ 
+ 
+Congratulations! You’ve completed the online work for Lab 10.
+See you in the lab!
+

@@ -1,0 +1,5 @@
+According to the results of the study, did the presence of a cover of DM increase or decrease the albedo, and did the presence of a cover of DM increase or decrease the soil temperature? 
+albedo increase, soil temperature increase
+albedo increase, soil temperature decrease
+albedo decrease, soil temperature decrease
+albedo decrease, soil temperature increase

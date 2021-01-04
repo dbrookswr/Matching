@@ -1,0 +1,5 @@
+According to Figure 1 and the description of the study, was July 20 a cloudless day? 
+No, because albedo data were not collected on that day. 
+No, because albedo data were collected on that day. 
+Yes, because albedo data were not collected on that day. 
+Yes, because albedo data were collected on that day.

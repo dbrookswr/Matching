@@ -1,0 +1,24 @@
+Researchers studied how diet and the ability to smell food can affect the life span of normal fruit flies (Strain N) and fruit flies unable to detect many odors (Strain X). 
+Study 1 
+Three tubes (Tubes 1?3), each with 15% sugar yeast (SY) medium (a diet with 15% sugar and 15% killed yeast), were prepared. Then, 200 virgin female Strain N fruit flies less than 24 hr old were added to each tube. No additional substance was added to Tube 1. Additional odors from live yeast were added to Tube 2, and live yeast was added to Tube 3. The percent of fruit flies alive was determined every 5 days for 75 days (see Figure 1). 
+Key 
+15% SY medium?15% SY medium + additional odors from live yeast 15% SY medium + live yeast 
+percent alive 0 10 20 30 40 50 60 70 80 90 100 
+ 
+days 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 
+
+Figure 1
+
+Study 2 
+Three tubes (Tubes 4?6), each with 5% SY medium (a diet with 5% sugar and 5% killed yeast), were prepared. Then, 200 virgin female Strain N fruit flies less than 24 hr old were added to each tube. No additional substance was added to Tube 4. Additional odors from live yeast were added to Tube 5, and live yeast was added to Tube 6. The percent of fruit flies alive was determined every 5 days for 75 days (see Figure 2). 
+Key 
+5% SY medium?5% SY medium + additional odors from live yeast 5% SY medium + live yeast 
+percent alive 0 10 20 30 40 50 60 70 80 90 100 
+  
+days 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 
+
+
+Study 3 
+Strain N fruit flies were modified to produce Strain X fruit flies. Strain X fruit flies lack Or83b (a protein required to detect a wide range of odors); therefore, they cannot detect many odors. The average life span was determined for virgin female Strain N and virgin female Strain X fruit flies fed with various SY media (see Table 1). 
+Table 1 Strain SY medium Average life span (days) % sugar % killed yeast Strain N 030, 050, 07.5 100, 150, 030, 050, 07.5 100, 150, 50.1 50.1 43.9 44.8 41.6 Strain X 030, 050, 07.5 100, 150, 030, 050, 07.5 100, 150, 61.6 62.5 58.9 58.6 55.6 Table and figures adapted from Sergiy Libert et al., “Regulation of Drosophila Life Span by Olfaction and Food-Derived Odors.” ©2007 by the American Association for the Advancement of Science. 
+

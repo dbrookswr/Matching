@@ -1,0 +1,648 @@
+\documentclass{jedm}
+\usepackage[table]{xcolor}
+\usepackage{url}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks   = true, %Colours links instead of ugly boxes
+  urlcolor     = blue, %Colour for external hyperlinks
+  linkcolor    = blue, %Colour of internal links
+  citecolor   = blue %Colour of citations
+}
+\usepackage{enumitem}
+\usepackage[normalem]{ulem} 
+\usepackage{url}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{wrapfig}
+\usepackage{multirow}
+\usepackage{tikz}
+\usepackage{tabularx}
+\usepackage{colortbl}
+\usepackage{lipsum}
+\usepackage{fancyvrb}
+\usepackage{longtable}
+\usepackage{comment}
+\usetikzlibrary{arrows,positioning,fit,arrows.meta}
+\usetikzlibrary{shapes}
+\newcommand{\eqname}[1]{\tag*{#1}}% Tag equation with name
+
+\begin{document}
+\title{Matching Questions with\\Learning Material}
+\date{} %do not delete this, it suppresses insertion of the date
+%\numberofauthors{4}
+\author{
+{\large Daniel B. Wright}\\UNLV\\daniel.wright@unlv.edu \\ \\
+{\large Jonathan Hilpert}\\UNLV\\Jonathan.Hilpert@unlv.edu
+\and 
+{\large Sarah M. Wells}\\UNLV\\Sarah.Wells@unlv.edu  \\ \\
+{\large Elham Arabi} \\ UNLV \\arabim1@unlv.nevada.edu}
+
+\maketitle
+
+\begin{abstract}
+Learning analytic systems allow the amount of time spent on the system to be recorded and these times used to predict performance on subsequent assessments. Ideally it is desired to show the relationship between time spent on specific sections of the learning material with the accuracy on associated questions. However, for many assessments there is not information showing which assessment relies on which parts of the material. Our approach is to examine the lexical similarity of the text in the items with the text in the learning material using Pearson's correlation. We do this with three data sets: ACT\textsuperscript{\tiny\textregistered} reading test, ACT\textsuperscript{\tiny\textregistered} science test, and an online university biology course. This approach was very accurate for the two ACT assessments, AUCs of .92 and .99. The diagnosticity for the biology course was lower with AUC = .72. These results show that lexical matching can be used to map items to content, with the potential to provide more finely grained time-on-task analyses and more granular content-based interventions. \\ 
+
+{\parindent0pt
+\textbf{Keywords:} matching, text analysis, personalized learning, learning analytics
+}
+\end{abstract}
+
+\section{Introduction}
+There is a large body of learning analytics research focused on time spent during learning activities \cite{KovanovicEA2016,MerceronEA2016}. This is particularly true in higher education, where trace data are increasingly used to assign interventions and monitor student performance \cite{JarvelaEA2019,Winne2020}. Much of this research has focused on aspects of time on task, such as the use of count \emph{vs}. continuous time measures, evidence of distraction, and various methods for validating meaningful time spent learning. Time on task analyses could be more effective if they showed the relationship between time spent on specific aspects of learning material and performance accuracy on assessment items.  
+
+A first step toward this goal is to examine the usefulness of analytic techniques that can map the lexical similarity of assessment items to learning materials. This way, time spent on material related to particular items can be used for prediction or to assign an early intervention at a more granular level--leveraging course design to facilitate analytics \cite{HernandezLeoEA2019}. A fundamental principle of learning design is aligning learning outcomes, learning material, and assessments items. Examining design-based alignment between items and content using text-mining approaches can provide preliminary evidence of the extent to which lexical similarly of item text and learning material can be used to improve time on task type analyses. 
+
+This study explores the use of a bag-of-words text matching technique \cite{quanteda} to provide diagnostic data on the alignment of assessments and learning materials. As an initial test of the technique, we examined the lexical similarity of assessment items with reading and science passages taken from the ACT. This allows us to examine the lexical match between items specifically developed for stand-alone passages. These results were compared with a naturalistic examination of quiz items and related content taken from a post-secondary biology course. The lexical similarity of items from end-of-module quizzes were examined in relationship to module content. The desire was to determine if items could be correctly assigned to passages/module content based on lexical similarity. 
+
+<<loadlibraries,message=FALSE,warning=FALSE,echo=FALSE>>=
+# Not all of these used in the final paper
+library(proxy)
+library(quanteda)
+library(readtext)
+library(stringi)
+library(xtable)
+library(lme4)
+library(mirt)
+library(pROC)
+library(vioplot)
+library(Hmisc)
+library(beanplot)
+library(ngram)
+library(xtable)
+@
+
+\section{Materials}
+Two practice tests from ACT\textsuperscript{\tiny\textregistered} were used. They are available at \url{cdn2.hubspot.net/hubfs/360031/ACT-2015-16.pdf} (accessed November, 2020). The reading and science sections were used as these have questions corresponding with particular passages. The reading test had one section corresponding with two passages from Ray Bradbury. Five questions were about one of these passages, three about the other, and two about both. This seemed a good test of our approach to see if it would accurately differentiate between passages by the same author. Some information was removed from the lexical similarity search (e.g., line numbers, question numbers, response alternative letters, the sources for the materials) and words that had been split over two lines with a hyphen (i.e., \emph{bad breaks}) were connected.
+
+Modular lab content across 12 weeks from a Biology course were pulled. The course was structured to offer a laboratory preparation lecture and then a quiz on that content before the start of the lab the next class. There were eight lab-sessions with full quizzes associated with content (slide content) that were pulled and converted to .txt files. The slide content were also pulled and converted to text files. Each lab quiz was designed as a knowledge check on the previous laboratory session content and as such was hypothesized to match accordingly onto the slide content. All materials are available at \url{https://github.com/dbrookswr/Matching}.
+
+\section{Analytic Approach}
+There are many approaches that can be used to analyze text data \cite{Becue-Bertaut2018,quanteda,GrimmerStewart2013,Jaspal2020}. One of the simplest types of quantitative techniques uses the bag-of-words approach, where each word is a unit for analysis. Adjoining words (e.g., word pairs) and syntax are not considered. This allows the comparison of lexical similarity between different sets of texts. We opted not to use longer strings of words because the syntax of learning materials and questions are likely to be different and this can lead to discrepancies. The software \textsf{R} \cite{R} was used for data analysis. It has several packages appropriate for text analysis. Two packages are of particular note: \textbf{quanteda} \cite{quanteda} and \textbf{tm} \cite{tm} because they offer broad frameworks for processing text data. Other software (e.g., Python) could also be used and the descriptions given here should be sufficient for well-versed users of those systems to implement these procedures. The code used to create all the statistical analyses and plots for this paper is available at \url{https://github.com/dbrookswr/Matching}. 
+
+\citeN{WelbersEA2017} describe best practice for preparing data for text analyses and their guidelines were followed. First, \textsf{html} code, numbers, \emph{etc}. were removed. With bag-of-word approaches the norm is to transform the words in several ways. The data were trimmed (white space removed) and made lower case using the \texttt{stri\_trim} and \texttt{stri\_trans\_tolower} functions from the \textbf{stringi} package \cite{stringi}, respectively. The goal is to create a document-feature-matrix, or dfm, showing the frequency for each word used for each source (in this paper learning materials and test items). For a simple example, consider the dfm of three conversations that might be recorded during meals and a few of the words used shown in Table~\ref{tab:dfm}.
+
+\begin{table}[h!] \caption{An example document-feature-matrix (dfm).} \label{tab:dfm}
+\begin{center}
+\begin{tabular}{l l c c c c c c}
+& & \multicolumn{6}{c}{Food Words} \\ \cline{3-8}
+& & Cereal & Milk & Coffee & Sandwich & Pizza & $\cdots$ \\ \cline{2-8}
+\multirow{4}{*}{Conversations} &Breakfast & 5 & 2 & 8 & 1 & 0 & $\cdots$ \\
+& Lunch & 0 & 2 & 6 & 5 & 3 & $\cdots$ \\
+& Dinner & 0 & 0 & 4 & 0 & 8 & $\cdots $ \\
+& \phantom{Wl} $\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ & $\ddots$ \\ 
+\cline{2-8}
+\end{tabular}
+\end{center}
+\end{table}
+
+The \texttt{dfm} function from the \textbf{quanteda} \cite{quanteda} package is used to create dfms in this paper. The options \texttt{tolower}, \texttt{stem}, \texttt{remove\_punct}, \verb!remove = stopwords("english")! were used so that the procedure was not case-sensitive, the stems were compared (so \emph{pizza} and \emph{pizzas} are treated the same), punctuation was removed, and stop words like ``the'' were not considered. These are standard procedures \cite{WelbersEA2017}. The dfms used in these analyses have the number of columns equal to the number of unique word stems used (not including stop words) and the number of rows equal to the number of sets of learning modules plus the number of questions.  
+
+The next task is estimating the similarity between each row of the dfm. There are several metrics available in \textsf{R} and elsewhere \cite{AshbyEnnis2007,Enflo2020}. Many of these are described at \url{https://cran.r-project.org/web/packages/proxy/vignettes/overview.pdf}. The ones available in the \textbf{proxy} package are for binary, nominal, and metric measures. At the time of writing there are 49 metrics that can be used plus you can write your own. To see these metrics, plus the primary publication and a brief description of each, attach the \textbf{proxy} \cite{proxy} package and type: \verb!as.data.frame(pr_DB)[,12:13]! within \textsf{R}. \texttt{pr\_DB} is a registry in \textbf{proxy} of these similarity (and dissimilarity) metrics. Because of the value of encouraging others to adopt these proposals, the two most well known measures for similarity are considered: Pearson's product moment correlation between the variables for word use of each source with each item and the cosine of the angle between these variables. For the data in this paper these produced similar values and lead to the same conclusions (analyses with other metrics on these sources are also available from the authors).
+
+{\renewcommand{\arraystretch}{2}
+\begin{center}
+\begin{tabular}{l c c}
+Function & Formula & \textsf{R} code     \\ \hline 
+Correlation & \scalebox{1.5}{$ \frac
+      {\sum (x_i - \overline{x})\;(y_i - \overline{y})}
+      {\sqrt{\sum (x_i - \overline{x})^2} \sqrt{\sum (y_i - \overline{y})^2} } $} & \verb!cor(x,y)! \\[.6cm]
+Cosine & \scalebox{1.5} {$ \frac {\sum x \, y} {\sqrt{\sum x^2 \; \sum y^2}} $} & 
+      \verb!sum(x*y)/sqrt(sum(x^2)*sum(y^2))!       \\ \hline 
+\multicolumn{3}{l}{Note: $x \, y$ and $x^2$ are element-wise multiplication: $\sum x \, y = (x_1 \, y_1)+(x_2 \, y_2) + \dots + (x_n \, y_n)$.} \\ \hline
+\end{tabular}
+\end{center}
+}
+
+<<eval=FALSE,echo=FALSE>>=
+#just checking syntax
+x <- rnorm(32)
+y <- x + runif(32,0,4)
+sum((x - mean(x))*(y-mean(y))) / sqrt(sum((x-mean(x))^2 * sum((y-mean(y))^2)))
+cov(x,y)/(sd(x)*sd(y))
+cor(x,y)
+
+sum(x*y)/sqrt(sum(x^2) * sum(y^2))            
+crossprod(x, y)/sqrt(crossprod(x) * crossprod(y))
+library(lsa)
+cosine(x,y)
+@
+
+These correlations are used to predict whether the question is associated with each section of the learning materials. Because it is know for these stimuli which questions go with which part of the learning material, the predictive value of the similarity measures can be evaluated. We call their associate learning material their true match. After discussing the correlation matrices, the empirical receiver operating characteristics, or ROCs, are plotted. They show the diagnostic value for the similarity values to decide if an item draws information from a particular learning material passage. They plot the cumulative proportion of correct matches (the hit rate) with the cumulative proportion of making an incorrect classification (the false alarm rate) for values of the similarity measure. ROCs are often used within the context of signal detection theory, which can be formally presented as generalized logistic (or probit) generalized linear regressions \cite{DeCarlo1998,WrightEA2009sdtalt}. Because each correlation is of a different passage with a different question, the variability both of passages and questions should be taken into account. The intent was to use a multilevel cross-classified logistic regression \cite{Goldstein2011,WrightLondon2009m}. These are complex models and this can lead to computational difficulties. When this occurs alternatives (e.g., using dummy variables for passages and questions) can be used which yield more reliable results.
+
+
+\section{Results}
+
+<<readtext,size="footnotesize",echo=FALSE>>=
+# getwd() # texts in working directory
+setwd("C:\\Users\\dbroo\\OneDrive\\Documents\\PersLearning\\LearningAnalytics\\reading\\")
+
+qs <- list(q1 = readtext("q1.txt"),q2 = readtext("q2.txt"),q3 = readtext("q3.txt"),
+           q4 = readtext("q4.txt"),q5 = readtext("q5.txt"),q6 = readtext("q6.txt"),
+           q7 = readtext("q7.txt"),q8 = readtext("q8.txt"),q9 = readtext("q9.txt"),
+           q10 = readtext("q10.txt"),q11 = readtext("q11.txt"),q12 = readtext("q12.txt"),
+           q13 = readtext("q13.txt"),q14 = readtext("q14.txt"),q15 = readtext("q15.txt"),
+           q16 = readtext("q16.txt"),q17 = readtext("q17.txt"),q18 = readtext("q18.txt"),
+           q19 = readtext("q19.txt"),q20 = readtext("q20.txt"),q21 = readtext("q21.txt"),
+           q22 = readtext("q22.txt"),q23 = readtext("q23.txt"),q24 = readtext("q24.txt"),
+           q25 = readtext("q25.txt"),q26 = readtext("q26.txt"),q27 = readtext("q27.txt"),
+           q28 = readtext("q28.txt"),q29 = readtext("q29.txt"),q30 = readtext("q30.txt"),
+           q31 = readtext("q31.txt"),q32 = readtext("q32.txt"),q33 = readtext("q33.txt"),
+           q34 = readtext("q34.txt"),q35 = readtext("q35.txt"),q36 = readtext("q36.txt"),
+           q37 = readtext("q37.txt"),q38 = readtext("q38.txt"),q39 = readtext("q39.txt"),
+           q40 = readtext("q40.txt"))
+passes <- list( rp1 = readtext("ReadPass1.txt"),rp2 = readtext("ReadPass2.txt"),
+                rp3 = readtext("ReadPass3.txt"),
+                rp4 = readtext("ReadPass4.txt"),rp5 = readtext("ReadPass5.txt"))
+@
+
+<<cleantext,echo=FALSE>>=
+nslash <- function(x) gsub("\n"," ",x)
+amperand <- function(x) gsub("&","and",x)
+qs <- lapply(qs,nslash)
+qs <- lapply(qs,amperand)
+qs <- lapply(qs,stri_trim)
+qs1 <- qs <- lapply(qs,stri_trans_tolower)
+passes <- lapply(passes,nslash)
+passes <- lapply(passes,amperand)
+passes <- lapply(passes,stri_trim)
+passes1 <- passes <- lapply(passes,stri_trans_tolower)
+@
+
+<<preprocessing,message=FALSE,warning=FALSE,echo=FALSE>>=
+qspassmatrix <- dfm(corpus(c(unlist(qs),unlist(passes))),tolower = TRUE, 
+          stem = TRUE, remove_punct = TRUE, remove = stopwords("english"))
+@
+
+
+<<keyread,echo=FALSE>>=
+#for reading
+keyread <- matrix(c(rep(1,10),rep(0,30),rep(0,10),rep(1,10),rep(0,20),
+    rep(0,20),rep(1,5),rep(0,2),rep(1,3),rep(0,10),
+    rep(0,25),rep(1,5),rep(0,10),rep(0,30),rep(1,10)),ncol=5)
+@
+
+
+<<scitext,size="footnotesize",echo=FALSE>>=
+# getwd() # texts in working directory
+setwd("C:\\Users\\dbroo\\OneDrive\\Documents\\PersLearning\\LearningAnalytics\\science\\")
+sqs <- list(sq1 = readtext("sq1.txt"),sq2 = readtext("sq2.txt"),q3 = readtext("sq3.txt"),
+           sq4 = readtext("sq4.txt"),sq5 = readtext("sq5.txt"),q6 = readtext("sq6.txt"),
+           sq7 = readtext("sq7.txt"),sq8 = readtext("sq8.txt"),q9 = readtext("sq9.txt"),
+           sq10 = readtext("sq10.txt"),sq11 = readtext("sq11.txt"),q12 = readtext("sq12.txt"),
+           sq13 = readtext("sq13.txt"),sq14 = readtext("sq14.txt"),q15 = readtext("sq15.txt"),
+           sq16 = readtext("sq16.txt"),sq17 = readtext("sq17.txt"),q18 = readtext("sq18.txt"),
+           sq19 = readtext("sq19.txt"),sq20 = readtext("sq20.txt"),q21 = readtext("sq21.txt"),
+           sq22 = readtext("sq22.txt"),sq23 = readtext("sq23.txt"),q24 = readtext("sq24.txt"),
+           sq25 = readtext("sq25.txt"),sq26 = readtext("sq26.txt"),q27 = readtext("sq27.txt"),
+           sq28 = readtext("sq28.txt"),sq29 = readtext("sq29.txt"),q30 = readtext("sq30.txt"),
+           sq31 = readtext("sq31.txt"),sq32 = readtext("sq32.txt"),q33 = readtext("sq33.txt"),
+           sq34 = readtext("sq34.txt"),sq35 = readtext("sq35.txt"),q36 = readtext("sq36.txt"),
+           sq37 = readtext("sq37.txt"),sq38 = readtext("sq38.txt"),q39 = readtext("sq39.txt"),
+           sq40 = readtext("sq40.txt"))
+scipasses <- list( sp1 = readtext("sp1.txt"),sp2 = readtext("sp2.txt"),
+                sp3 = readtext("sp3.txt"),sp4 = readtext("sp4.txt"),
+                sp5 = readtext("sp5.txt"),sp6 = readtext("sp6.txt"))
+@
+
+<<scicleantext,echo=FALSE>>=
+nslash <- function(x) gsub("\n"," ",x)
+amperand <- function(x) gsub("&","and",x)
+sqs <- lapply(sqs,nslash)
+sqs <- lapply(sqs,amperand)
+sqs <- lapply(sqs,stri_trim)
+sqs1 <- sqs <- lapply(sqs,stri_trans_tolower)
+scipasses <- lapply(scipasses,nslash)
+scipasses <- lapply(scipasses,amperand)
+scipasses <- lapply(scipasses,stri_trim)
+scipasses1 <- scipasses <- lapply(scipasses,stri_trans_tolower)
+@
+
+<<scipreprocessing,echo=FALSE>>=
+sciqspassmatrix <- dfm(corpus(c(unlist(sqs),unlist(scipasses))),tolower = TRUE, 
+          stem = TRUE, remove_punct = TRUE, remove = stopwords("english"))
+@
+
+<<scikey,echo=FALSE>>=
+keysci <- matrix(c(rep(1,7),rep(0,33),
+                rep(0,7),rep(1,7),rep(0,26),
+                rep(0,14),rep(1,6),rep(0,20),
+                rep(0,20),rep(1,6),rep(0,14),
+                rep(0,26),rep(1,7),rep(0,7),
+                rep(0,33),rep(1,7)),ncol=6)
+@
+
+<<biotext,size="footnotesize",echo=FALSE>>=
+# getwd() # texts in working directory
+setwd("C:\\Users\\dbroo\\OneDrive\\Documents\\PersLearning\\LearningAnalytics\\videotranscripts\\")
+fnames <- c(
+   "BIOL 189  HY_ Module 2, What is Science_.plain_text.txt",
+"BIOL 189 HY Lab 11 What is the difference between relative and absolute dating_.plain_text.txt",
+"BIOL 189 HY Lab 12 What do we mean by community_.plain_text.txt",
+"BIOL 189 HY The Scientific Method.plain_text.txt",
+"BIOL 189 HY_ Module 3, What Are Carbohydrates_.plain_text.txt",
+"BIOL 189 HY_ Module 3, What are Lipids_.plain_text.txt",
+"BIOL 189 HY_ Module 3, What are Nucleotides_.plain_text.txt",
+"BIOL 189 HY_ Module 3, What are Proteins_.plain_text.txt",
+"BIOL 189 What is a Monohybrid Cross_.plain_text.txt",
+"BIOL189 CStrong Metric to English Conversion.plain_text.txt",
+"BIOL189 CStrong Metric to Metric Conversion.plain_text.txt",
+"BIOL189 CStrong Scientific Notation.plain_text.txt",
+"BIOL189 CStrong The Atom.plain_text.txt",
+"BIOL189 HY Course Introduction.plain_text.txt",
+"BIOL189 HY How are sperm and egg cells produced_.plain_text.txt",
+"BIOL189 HY Lab 1, How Do I Measure Length, Mass, Volume, and Temperature_.plain_text.txt",
+"BIOL189 HY Lab 3 What is a bond_.plain_text.txt",
+"BIOL189 HY Lab 3, Understanding Basic Chemistry_ How Can I Test for Carbohydrates_.plain_text.txt",
+"BIOL189 HY Lab 3, Understanding Basic Chemistry_ How Can I Test for Lipids_.plain_text.txt",
+"BIOL189 HY Lab 3, Understanding Basic Chemistry_ How Can I Test for Protein_.plain_text.txt",
+"BIOL189 HY Lab 3, Understanding Basic Chemistry_ How To Use pH Paper.plain_text.txt",
+"BIOL189 HY Lab 4, What is Magnification_.plain_text.txt",
+"BIOL189 HY Lab 7, How Do We Measure Fermentation_.plain_text.txt",
+"BIOL189 HY Lab 7, How to Observe Stomata and Guard Cells.plain_text.txt",
+"BIOL189 HY Lab 7, Oxygen Production.plain_text.txt",
+"BIOL189 HY Lab 7, Paper Chromatography Experiment.plain_text.txt",
+"BIOL189 HY Lab 7, Uptake of CO_.plain_text.txt",
+"BIOL189 HY Lab 8, Isolating DNA.plain_text.txt",
+"BIOL189 HY Lab 10 What is a Dihybrid Cross_.plain_text.txt",
+"BIOL189 HY Lab5 catalase.plain_text.txt",
+"BIOL189 HY Lab5 cheesep1.plain_text.txt",
+"BIOL189 HY Lab5 cheesep2.plain_text.txt",
+"BIOL189 HY Lab6 animalcells.plain_text.txt",
+"BIOL189 HY Lab6 membrane.plain_text.txt",
+"BIOL189 HY Lab6 plantcells.plain_text.txt",
+"BIOL189 HY Lab6 potato.plain_text.txt",
+"BIOL189 HY Lab10 bloodgroups draft2.plain_text.txt",
+"BIOL189 HY Lab10 corn draft1.plain_text.txt",
+"BIOL189 HY Lab10 genetics draft1.plain_text.txt",
+"BIOL189 HY Lab11 birds draft1.plain_text.txt",
+"BIOL189 HY Module 3, What are Proteins_.plain_text.txt",
+"BIOL189 HY_ Lab 4 What is Parfocal Magnification_.plain_text.txt",
+"BIOL189 HY_ Lab 4, What is Plane of Focus and Depth of Field_.plain_text.txt")
+for (i in 1:length(fnames)){
+  assign(paste0("biov",i),readtext(fnames[i]))
+}
+bios <- list(biov1,biov2,biov3,biov4,biov5,biov6,biov7,biov8,biov9,biov10,
+             biov11,biov12,biov13,biov14,biov15,biov16,biov17,biov18,biov19,biov20,
+             biov21,biov22,biov23,biov24,biov25,biov26,biov27,biov28,biov29,biov30,
+             biov31,biov32,biov33,biov34,biov35,biov36,biov37,biov38,biov39,biov40,
+             biov41,biov42,biov43)
+names(bios) <- paste0("biosv",1:length(bios))
+@
+
+<<biotextscripts,size="footnotesize",echo=FALSE>>=
+# getwd() # texts in working directory
+setwd("C:\\Users\\dbroo\\OneDrive\\Documents\\PersLearning\\LearningAnalytics\\lecturenotes\\")
+# space after number in lab 1 and 7 manually removed
+fnames <- paste0("Lab ",1:12,".txt")
+for (i in 1:length(fnames)){
+  assign(paste0("bioscript",i),readtext(fnames[i]))
+}
+bioscr <- list(bioscript1,bioscript2,bioscript3,bioscript4,bioscript5,
+             bioscript6,bioscript7,bioscript8,bioscript9,bioscript10,
+             bioscript11,bioscript12)
+bioscr <- list(bioscript1,bioscript2,bioscript3,bioscript4,bioscript5,
+             bioscript6,bioscript7,bioscript10)
+names(bioscr) <- paste0("bioscript",c(1:7,10))
+keynarr <- as.factor(as.numeric(gsub("[^0-9]", "", names(bioscr))))
+@
+
+<<bioquestions,echo=FALSE>>=
+setwd("C:\\Users\\dbroo\\OneDrive\\Documents\\PersLearning\\LearningAnalytics\\quizitems\\")
+namesitems <- c(  
+"q1_1.txt","q1_2.txt","q1_3.txt","q1_4.txt","q1_5.txt","q1_6.txt","q2_1.txt","q2_2.txt",
+"q2_3.txt","q2_4.txt","q2_5.txt","q2_6.txt","q2_7.txt","q3_1.txt","q3_2.txt","q3_3.txt",
+"q3_4.txt","q3_5.txt","q3_6.txt","q3_7.txt","q3_8.txt","q3_9.txt","q3_10.txt","q3_11.txt",
+"q3_12.txt","q3_13.txt","q3_14.txt","q3_15.txt","q3_16.txt","q3_17.txt","q3_18.txt","q3_19.txt",
+"q4_1.txt","q4_2.txt","q4_3.txt","q4_4.txt","q4_5.txt","q4_6.txt","q4_7.txt","q4_8.txt",
+"q4_9.txt","q5_1.txt","q5_2.txt","q5_3.txt","q5_4.txt","q5_5.txt","q5_6.txt","q5_7.txt",
+"q5_8.txt","q5_9.txt","q5_10.txt","q6_1.txt","q6_2.txt","q6_3.txt","q6_4.txt","q6_5.txt",
+"q6_6.txt","q6_7.txt","q6_8.txt","q6_9.txt","q6_10.txt","q6_11.txt","q6_12.txt","q6_13.txt",
+"q6_14.txt","q6_15.txt","q6_16.txt","q7_1.txt","q7_2.txt","q7_3.txt","q7_4.txt","q7_5.txt",
+"q7_6.txt","q7_7.txt","q7_8.txt","q7_9.txt","q7_10.txt","q7_11.txt","q7_12.txt","q7_13.txt",
+"q7_14.txt","q7_15.txt","q7_16.txt","q7_17.txt","q7_18.txt","q10_1.txt","q10_2.txt","q10_3.txt",
+"q10_4.txt","q10_5.txt","q10_6.txt","q10_7.txt","q10_8.txt","q10_9.txt","q10_10.txt","q10_11.txt",
+"q10_12.txt","q10_13.txt","q10_14.txt","q10_15.txt")
+for (i in 1:length(namesitems)){
+  assign(paste0("bioqs",i),readtext(namesitems[i]))
+}
+bioqs <- list(
+  bioqs1,bioqs2,bioqs3,bioqs4,bioqs5,bioqs6,bioqs7,bioqs8,bioqs9,bioqs10,
+  bioqs11,bioqs12,bioqs13,bioqs14,bioqs15,bioqs16,bioqs17,bioqs18,bioqs19,bioqs20,
+  bioqs21,bioqs22,bioqs23,bioqs24,bioqs25,bioqs26,bioqs27,bioqs28,bioqs29,bioqs30,
+  bioqs31,bioqs32,bioqs33,bioqs34,bioqs35,bioqs36,bioqs37,bioqs38,bioqs39,bioqs40,
+  bioqs41,bioqs42,bioqs43,bioqs44,bioqs45,bioqs46,bioqs47,bioqs48,bioqs49,bioqs50,
+  bioqs51,bioqs52,bioqs53,bioqs54,bioqs55,bioqs56,bioqs57,bioqs58,bioqs59,bioqs60,
+  bioqs61,bioqs62,bioqs63,bioqs64,bioqs65,bioqs66,bioqs67,bioqs68,bioqs69,bioqs70,
+  bioqs71,bioqs72,bioqs73,bioqs74,bioqs75,bioqs76,bioqs77,bioqs78,bioqs79,bioqs80,
+  bioqs81,bioqs82,bioqs83,bioqs84,bioqs85,bioqs86,bioqs87,bioqs88,bioqs89,bioqs90,
+  bioqs91,bioqs92,bioqs93,bioqs94,bioqs95,bioqs96,bioqs97,bioqs98,bioqs99,bioqs100)
+names(bioqs) <- c(  
+"q1_1.txt","q1_2.txt","q1_3.txt","q1_4.txt","q1_5.txt","q1_6.txt","q2_1.txt","q2_2.txt",
+"q2_3.txt","q2_4.txt","q2_5.txt","q2_6.txt","q2_7.txt","q3_1.txt","q3_2.txt","q3_3.txt",
+"q3_4.txt","q3_5.txt","q3_6.txt","q3_7.txt","q3_8.txt","q3_9.txt","q3_10.txt","q3_11.txt",
+"q3_12.txt","q3_13.txt","q3_14.txt","q3_15.txt","q3_16.txt","q3_17.txt","q3_18.txt","q3_19.txt",
+"q4_1.txt","q4_2.txt","q4_3.txt","q4_4.txt","q4_5.txt","q4_6.txt","q4_7.txt","q4_8.txt",
+"q4_9.txt","q5_1.txt","q5_2.txt","q5_3.txt","q5_4.txt","q5_5.txt","q5_6.txt","q5_7.txt",
+"q5_8.txt","q5_9.txt","q5_10.txt","q6_1.txt","q6_2.txt","q6_3.txt","q6_4.txt","q6_5.txt",
+"q6_6.txt","q6_7.txt","q6_8.txt","q6_9.txt","q6_10.txt","q6_11.txt","q6_12.txt","q6_13.txt",
+"q6_14.txt","q6_15.txt","q6_16.txt","q7_1.txt","q7_2.txt","q7_3.txt","q7_4.txt","q7_5.txt",
+"q7_6.txt","q7_7.txt","q7_8.txt","q7_9.txt","q7_10.txt","q7_11.txt","q7_12.txt","q7_13.txt",
+"q7_14.txt","q7_15.txt","q7_16.txt","q7_17.txt","q7_18.txt","q10_1.txt","q10_2.txt","q10_3.txt",
+"q10_4.txt","q10_5.txt","q10_6.txt","q10_7.txt","q10_8.txt","q10_9.txt","q10_10.txt","q10_11.txt",
+"q10_12.txt","q10_13.txt","q10_14.txt","q10_15.txt")
+
+@
+
+<<biocleantext,echo=FALSE>>=
+nslash <- function(x) gsub("\n"," ",x)
+amperand <- function(x) gsub("&","and",x)
+bios <- lapply(bios,nslash)
+bios <- lapply(bios,amperand)
+bios <- lapply(bios,stri_trim)
+bios <- bios <- lapply(bios,stri_trans_tolower)
+
+bioscr <- lapply(bioscr,nslash)
+bioscr <- lapply(bioscr,amperand)
+bioscr <- lapply(bioscr,stri_trim)
+bioscr <- lapply(bioscr,stri_trans_tolower)
+
+bioqs <- lapply(bioqs,nslash)
+bioqs <- lapply(bioqs,amperand)
+bioqs <- lapply(bioqs,stri_trim)
+bioqs <- lapply(bioqs,stri_trans_tolower)
+
+@
+
+<<biopreprocessing,echo=FALSE>>=
+biomatrix <- dfm(corpus(c(unlist(bioscr),unlist(bioqs))),tolower = TRUE, 
+          stem = TRUE, remove_punct = TRUE, remove = stopwords("english"))
+@
+
+<<biokey,echo=FALSE>>=
+keybio <- substr(names(bioqs),2,2)
+keybio[substr(names(bioqs),2,3)=="10"] <- "10"
+keybio <- as.factor(as.numeric(keybio))  
+@
+
+
+
+<<ReadingPearson,echo=FALSE>>=
+readvals <- textstat_simil(qspassmatrix)[1:40,41:45]
+readcorvals <- readvals <- as.matrix(readvals)
+@
+<<sciPearson,echo=FALSE>>=
+scivals <- textstat_simil(sciqspassmatrix)[1:40,41:46]
+scicorvals <- scivals <- as.matrix(scivals)
+@
+
+<<bioPearson,echo=FALSE>>=
+biovals <- textstat_simil(biomatrix)[1:length(bioscr),
+            (length(bioscr)+1):(length(bioscr)+length(bioqs))]
+biokeymatch <- biocorvals <- biovals <- as.matrix(biovals)
+for (j in 1:length(keybio))
+ {for (i in 1:length(keynarr))
+   biokeymatch[i,j] <- keynarr[i] == keybio[j]}
+@
+
+<<echo=FALSE>>=
+keyx <- t(biokeymatch)
+corx <- t(biovals)
+picked <- matrix(nrow=nrow(keyx),ncol=ncol(keyx))
+for (i in 1:nrow(picked))
+  for (j in 1:ncol(picked))
+        picked[i,j] <- corx[i,j] > .1 & corx[i,j] == max(corx[i,])
+pick <- table(rowSums(picked))
+pickright <- table(c(picked),c(keyx))
+@
+
+
+<<tab:ReadingPearson,results='asis',echo=FALSE>>=
+valsCH <- matrix(sprintf("%1.2f",readvals),nrow=nrow(readvals),ncol=ncol(readvals))
+valsCH[keyread>0] <- paste0("\\cellcolor{yellow!50}{",valsCH[keyread>0],"}")
+rownames(valsCH) <- paste("Item",1:40)
+colnames(valsCH) <- passnames <- c("Art Deco","Sargasso",
+                      "Brad A","Brad B","Trap-Jaw")
+print(xtable(valsCH,caption="Pearson correlations for the Reading Passage. 
+  Highlighted cells show right.",
+  label="tab:ReadingPearson",digits=2,align=c("l",rep("r",5))),
+  sanitize.text.function = identity,
+  caption.placement="top",table.placement="h!")
+@
+
+
+<<tab:sciPearson,results='asis',echo=FALSE>>=
+valsCH <- matrix(sprintf("%1.2f",scivals),
+                 nrow=nrow(scivals),ncol=ncol(scivals))
+valsCH[keysci>0] <- paste0("\\cellcolor{yellow!50}{",valsCH[keysci>0],"}")
+rownames(valsCH) <- paste("Item",1:40)
+colnames(valsCH) <- passnames <- paste("Passage",as.roman(1:6))
+print(xtable(valsCH,caption="Pearson correlations for the Science Passage. 
+  Highlighted cells show right.",
+  label="tab:sciPearson",digits=2,align=c("l",rep("r",6))),
+  sanitize.text.function = identity,
+  caption.placement="top",table.placement="h!")
+@
+
+
+
+Document-feature-matrices (dfms) were created for the ACT Reading, the ACT Science, and the Biology course using the \texttt{dfm} function from \textbf{quanteda} \cite{quanteda}. From these the correlations were calculated between each section of the learning material with each question using the \texttt{textstat\_simil} function, also from \textbf{quanteda}.  Tables~\ref{tab:ReadingPearson} and \ref{tab:sciPearson} show the correlations for the ACT reading and science. Those representing accurate matches are highlighted in yellow. The biology correlation matrix is much larger and printed at the end of this document. 
+
+Suppose that to declare an item is assigned to a section it has to have $r > .1$ and be the largest one for those materials. For the reading matrix (Table~\ref{tab:ReadingPearson}), ignoring the Bradbury passages, 24 of the 30 items are assigned to their correct passage and none of the remaining six are assigned incorrectly (these six were not assigned to any). Four of the five items related to the first Bradbury passage are assigned to this one, and one errantly assigned to the wrong Bradbury passage. The two items related to the second Bradbury passage are correctly assigned to this one. Of the three related to both Bradbury passages, one is assigned to the first, one to the second, and one is not assigned to any passage. Of the 40 science items, 39 are correctly assigned to the associated passage. One is incorrectly assigned to a different passage. Thus, for the ACT materials there are only two false assignments (one being a Bradbury question to the wrong Bradbury passage), and about 10\% where no assignment is made. 
+
+The correlations were less diagnostic for the biology course. Of the 100 questions, assignments were made for only 78 of them if using the $r > .1$ and the largest $r$ decision criterion. Half of these were for correct matches and half were not. With 8 passages it means that the correct matching is much greater than for an arbitrary incorrect match, but it may be desirable either to combine this with other matching procedures or to have instructors make clearer what the individual questions are asking. These were for quizzes at the end of modules. For a final exam it is likely more information would have been given.
+
+The differences in correlations for true matches with non-matches can be presented graphical. Two methods will be used. First, Figure~\ref{fig:cordist} shows the boxplots for the correlations for the three sets of materials, divided by whether they are for a true match or an non-match. For ACT materials the differences are striking. While there are a few low correlations for correct matches, almost all the non-matches had correlations near zero. For the biology courses the difference is not as evident.
+
+<<cordist,fig.width=6.3,fig.height=2.1,out.width="6.3in",out.height="2.1in",fig.align="center",fig.cap="Boxplots for the Reading (ACT), Science (ACT), and Biology course, comparing correlations for correct matches and the incorrect matches.",echo=FALSE>>=
+par(mfrow=c(1,3))
+#par(mar=c(4,4,2,1))
+##histbackback(c(readcorvals[keyread==1]),c(readcorvals[keyread==0]),probability=TRUE,
+#             las=1,ylab="Correlation",main="Reading (ACT)",xlab=c("Correct","Incorrect"),font.main=1,cex.lab=2)
+#histbackback(c(scicorvals[keysci==1]),c(scicorvals[keysci==0]),probability=TRUE,
+#             las=1,main="Science (ACT)",xlab=c("Correct","Incorrect"),font.main=1)
+#histbackback(c(biocorvals[biokeymatch==1]),c(biocorvals[biokeymatch==0]),probability=TRUE,
+#             las=1,main="Biology Course",xlab=c("Correct  ","  Incorrect"),font.main=1)
+
+par(mar=c(2,3.5,2,2))
+boxplot(c(readcorvals[keyread==1]),c(readcorvals[keyread==0]),lwd=.5,
+        ylab="",     las=1,main="",xlab=c(""),font.main=1,cex.lab=1.2,cex.axis=1.1,yaxt="n",ylim=c(-.1,.6))
+axis(2,seq(0,.6,.2),c("0",".2",".4",".6"),las=1)
+mtext("Match",1,1,at=1,cex=.8)
+mtext("Not match",1,1,at=2,cex=.8)
+mtext("ACT Reading",3,0.3,cex=.8)
+mtext("Correlation",2,2.4,cex=.8)
+
+boxplot(c(scicorvals[keysci==1]),c(scicorvals[keysci==0]),lwd=.5,
+        ylab="",     las=1,main="",xlab=c(""),font.main=1,cex.lab=1.2,cex.axis=1.1,yaxt="n",ylim=c(-.12,.84))
+axis(2,seq(0,.8,.2),c("0",".2",".4",".6",".8"),las=1)
+mtext("Match",1,1,at=1,cex=.8)
+mtext("Not match",1,1,at=2,cex=.8)
+mtext("ACT Science",3,0.3,cex=.8)
+mtext("Correlation",2,2.4,cex=.8)
+
+boxplot(c(biocorvals[biokeymatch==1]),c(biocorvals[biokeymatch==0]),lwd=.5,
+          ylab="",   las=1,main=" ",xlab=c(""),font.main=1,cex.lab=1.2,cex.axis=1.1,yaxt="n",ylim=c(-.06,.7))
+axis(2,seq(0,.6,.2),c("0",".2",".4",".6"),las=1)
+mtext("Match",1,1,at=1,cex=.8)
+mtext("Not match",1,1,at=2,cex=.8)
+mtext("Biology Course",3,0.3,cex=.8)
+mtext("Correlation",2,2.4,cex=.8)
+@
+
+<<eval=FALSE,echo=FALSE>>=
+h1 = hist(c(readcorvals[keyread==1]), prob=TRUE,plot=FALSE)
+h2 = hist(c(readcorvals[keyread==0]), prob=TRUE,plot=FALSE)
+h2$counts = - h2$counts
+hmax = max(h1$counts)
+hmin = min(h2$counts)
+X = c(h1$breaks, h2$breaks)
+xmax = max(X)
+xmin = min(X)
+plot(h1, ylim=c(hmin, hmax), col="green", xlim=c(xmin, xmax))
+lines(h2, col="blue")
+@
+
+
+<<rocobjects,echo=FALSE>>=
+readcorvalsright <- readcorvals[keyread==1] 
+readcorvalswrong <- readcorvals[keyread==0]
+ckeysread <- c(keyread); 
+readccor <- c(readcorvals) 
+
+ckeyssci <- c(keysci); 
+sciccor <- c(scicorvals) 
+
+ckeysbio <- c(biokeymatch) 
+bioccor <- c(biocorvals)
+
+readrocCor <- roc(ckeysread,readccor,quiet=TRUE)
+scirocCor <- roc(ckeyssci,sciccor,quiet=TRUE)
+biorocCor <- roc(ckeysbio,bioccor,quiet=TRUE)
+
+#str(readrocCor$auc)
+readcorci <- ci.auc(readrocCor)
+scicorci <- ci.auc(scirocCor)
+biocorci <- ci.auc(biorocCor)
+
+@
+
+The second graphical method is using receiver operating characteristics (ROCs). The area-under-the-curve, or AUC, is a common statistic for showing how diagnostic the measure is. These are shown in Figure~\ref{fig:Roc}. AUC values range from 0 to 1 with .5 corresponding to chance performance (the diagonal line has $\mathit{AUC} = .5$). The values observed here are very high for the two ACT tests (for reading $AUC = \Sexpr{sprintf("%0.2f",auc(readrocCor))}$; for science $AUC = \Sexpr{sprintf("%0.2f",auc(scirocCor))}$) and lower for the biology course ($AUC = \Sexpr{sprintf("%0.2f",auc(biorocCor))}$). 
+
+<<Roc,fig.cap="Receiver operating characteristics (ROCs) for the three sets using the correlation metric.",fig.width=5,fig.height=4,out.width="5in",out.height="4in",fig.align="center",warning=FALSE,echo=FALSE,fig.pos="h!">>=
+plot(1-readrocCor$specificities,readrocCor$sensitivities,
+     las=1,xlim=c(0,1),ylim=c(0,1),
+     xlab="False Alarm Rate = 1 - Specificity",
+     ylab="Hit Rate = Sensitivity",type="l")
+abline(0,1,col="grey50")
+lines(1-scirocCor$specificities,scirocCor$sensitivities,col="red")
+lines(1-biorocCor$specificities,biorocCor$sensitivities,col="blue")
+n0 <- function(x) sub("0\\.","\\.",sprintf("%1.2f",x))
+legend(.32,.29,  # a little in from "bottomright",
+ c(paste0("ACT Reading AUC 95% CI = (",n0(readcorci[1]),", ",n0(readcorci[3]),")"),
+   paste0("ACT Science AUC 95% CI = (",n0(scicorci[1]),", ",n0(scicorci[3]),")"),
+   paste0("Biology AUC 95% CI = (",n0(biocorci[1]),", ",n0(biocorci[3]),")")
+   ),
+   text.col=c("black","red","blue"),bty='n',y.intersp = 1.1,
+   cex=.789)
+@
+
+
+<<makelong,echo=FALSE>>=
+#ckeysread, readccor, readcorvals, keyread
+passread <- rep(1:ncol(readcorvals),each=nrow(readcorvals))
+itemread <- rep(1:nrow(readcorvals),ncol(readcorvals))  
+trialread <- 1:length(itemread)
+
+#ckeyssci, sciccor, scicorvals, keysci
+passsci <- rep(1:ncol(scicorvals),each=nrow(scicorvals))
+itemsci <- rep(1:nrow(scicorvals),ncol(scicorvals))  
+
+#ckeysbio, bioccor, biocorvals, biokeymatch
+passbio <- rep(1:ncol(biocorvals),each=nrow(biocorvals))
+itembio <- rep(1:nrow(biocorvals),ncol(biocorvals))  
+@
+
+<<echo=FALSE,warning=FALSE>>=
+# singular for glmer because fit is so great
+readm0 <- glm(ckeysread ~ 1 + as.factor(passread) + as.factor(itemread),family="binomial")
+readm1 <- update(readm0, .~. + readccor)
+rstats <- anova(readm0,readm1,test="Chisq")
+rbeta <-  summary(readm1)$coefficients[45,]
+
+
+scim0 <- glm(ckeyssci~ 1 + as.factor(passsci) + as.factor(itemsci),family="binomial")
+scim1 <- update(scim0, .~. + sciccor)
+sstats <- anova(scim0,scim1,test="Chisq")
+sbeta <-  summary(scim1)$coefficients[46,]
+
+
+biom0 <- glm(ckeysbio ~ 1 + as.factor(passbio) + as.factor(itembio),family="binomial")
+biom1 <- update(biom0, .~. + bioccor)
+bstats <- anova(biom0,biom1,test="Chisq")
+bbeta <-  summary(biom1)$coefficients[108,]
+
+@
+
+Several statistical models were estimated for the relationship between a correct match and the correlation. The intent was to use a cross-classified model treating both passage and question items as random variables. These models had singularities (i.e., computed variances estimates at or near zero). When computational issues arise with multiple random variables it is often useful to treat them as fixed variables \cite{Wright2017growth}. This was done for these three sets of materials using a logistic regression with passages and items included as sets of dummy variables. The variable for the correlations was added to the model and for each set of materials the fit improved. All of the AUCs are significantly about chance (i.e., $\mathit{AUC} = .5$). 
+
+\begin{center}
+\begin{tabular}{l c}
+For reading: &
+$\chi^2 (\Sexpr{rstats$Df[2]}) = \Sexpr{sprintf("%0.2f",rstats$Deviance[2])}, p < .001$ \\
+For science: & 
+$\chi^2 (\Sexpr{sstats$Df[2]}) = \Sexpr{sprintf("%0.2f",sstats$Deviance[2])}, p < .001$ \\
+For biology: &
+$\chi^2 (\Sexpr{bstats$Df[2]}) = \Sexpr{sprintf("%0.2f",bstats$Deviance[2])}, p < .001$ \\
+\end{tabular}
+\end{center}
+
+<<eval=FALSE,echo=FALSE>>=
+plot(c(0,1),c(0,1))
+x <- seq(0,1,.1)
+rp <- rep(mean(passread),length(x))
+ri <- rep(mean(passread),length(x))
+sp <- rep(mean(passsci),length(x))
+si <- rep(mean(passsci),length(x))
+bp <- rep(mean(passbio),length(x))
+bi <- rep(mean(passbio),length(x))
+readpreds <- predict(readm1,newdata=data.frame(readccor=x,passread=rp,itemread=ri),se.fit=TRUE,type="response")
+scipreds  <- predict(scim1, newdata=data.frame(sciccor=x,passsci=sp,itemsci=si) ,se.fit=TRUE,type="response")
+biopreds  <- predict(biom1, newdata=data.frame(bioccor=x,passbio=bp,itembio=bi) ,se.fit=TRUE,type="response")
+ry <- c(readpreds$fit-readpreds$se.fit,(readpreds$fit+readpreds$se.fit)[order(x,decreasing=TRUE)])
+polygon(c(x,sort(x,dec=TRUE)),ry,col="grey80",border=NA)
+lines(x,readpreds$fit)
+lines(x,scipreds$fit,col="red")
+lines(x,biopreds$fit,col="blue")
+@
+
+\section{Summary and Implications}
+The results showed that the bag-of-words approach correctly assigned ACT items to their corresponding passages. However, the naturalistic test of the biology items/content was less accurate than for the ACT material. The results provide proof-of-concept evidence that lexical matching can be used to map items to content, with the potential to provide more finely grained time-on-task analyses and more granular content-based interventions. In a learning situation where there is high lexical similarly between items associated with some given content (and low similarity between other reading) it is feasible to conduct inferential time on task tests with some degree of certainty that the lexical similarity of the item-to-content overlap is mutually exclusive. For example, students who spend less time on a specific passage could be assigned additional review materials with some degree of certainty that content would prepare them for improved success in a particular set of assessment items.  
+
+However, the high level of accuracy of items assignment achieved within the context of the ACT was not replicated using the course-based materials, where the likelihood of making an incorrect assignment of an item to a passage was higher. Without clear lexical overlap, there are concerns solely using this text mining approach to provide targeted learning supports based on time spent on specific content, or vice versa using item performance to refer students back to specific course content. These findings suggest that for the bag-of-words approach to work within online learning contexts, considerable attention must be paid to the learning design of course content, particularly with regard to the alignment of assessment items and content. These findings are in line with calls to leverage learning design to facilitate the use of learning analytics to personalize instruction and learning supports \cite{HernandezLeoEA2019,LockyerDawson2011}.       
+
+
+\section{Acknowledgements}
+Daniel Wright is the Dunn Family Endowed Chair and Professor of Educational Assessment. Sarah Wells is in the Assessment and Quantitative Analysis (AQUA in Ed) PhD stream at UNLV and a graduate assistant, also funded by the Dunn Family Foundation as part of the endowment. Jonathan Hilpert is Associate Professor of Learning Analytics. Elham Arabi is a learning consultant at the World Health Organization (WHO). She earned her PhD in Interaction \& Media Sciences at UNLV. There was no funding beyond the Dunn Family endowment for this paper. 
+
+\bibliographystyle{acmtrans}
+\bibliography{../../AllRefs}
+
+<<tab:BioPearson,results='asis',size="footnotesize",echo=FALSE,eval=TRUE>>=
+biovalscor <- matrix(sub("0.",".",sprintf("%1.2f",biovals)),
+                 nrow=nrow(biovals),ncol=ncol(biovals))
+biovalscor[biokeymatch == TRUE] <-  paste0("\\cellcolor{yellow!50}",biovalscor[biokeymatch == TRUE])
+#dim(valscor)
+colnames(biovalscor) <- sub(".txt","",names(bioqs))
+# underscore is a LaTeX character
+colnames(biovalscor) <- sub("_",".",colnames(biovalscor))
+rownames(biovalscor) <- sub("ioscript","",names(bioscr))
+biovalstab <- t(biovalscor)
+#xtable(valstab)
+print(xtable(biovalstab,caption="Pearson correlations for the Biology videos. 
+  Highlighted cells show right.",
+  label="tab:bioPearson",digits=2),align=c("l",rep("r",length(bioscr))),
+  caption.placement="top",floating=FALSE,tabular.environment = "longtable" ,
+  sanitize.text.function = identity,size="footnotesize")
+@
+
+\end{document}

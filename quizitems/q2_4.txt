@@ -1,0 +1,4 @@
+Underline the flaw in the experimental design outlined in quotes below, then explain why it is flawed. 
+“I am planning to conduct an experiment with laboratory mice where I test the effects of different food types on the weight loss/gain of the mice. I will use three mice per trial: one will be fed a control diet that will result in no weight change, one will be fed a high fat diet, and the last will be fed a high protein diet. The control diet mouse will be provided with an exercise wheel. You can see how the mice are housed in individual cages below.”
+
+

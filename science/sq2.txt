@@ -1,0 +1,6 @@
+During Studies 1 and 2, why did the size of the fruit fly population in each tube decrease rather than increase? 
+ The birthrate was 0, because the initial population contained only males. 
+ The birthrate was 0, because the initial population contained only virgin females. 
+ The death rate was 0, because the initial population contained only males. 
+ The death rate was 0, because the initial population contained only virgin females. 
+

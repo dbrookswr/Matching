@@ -1,0 +1,96 @@
+A typical acid-base indicator is a compound that will be one color over a certain lower pH range but will be a different color over a certain higher pH range. In the small range between these pH ranges—the transition range—the indicator’s color will be an intermediate of its other 2 colors. 
+Students studied 5 acid-base indicators using colorless aqueous solutions of different pH and a well plate (a plate containing a matrix of round depressions—wells—that can hold small volumes of liquid). 
+Experiment 1 
+The students added a pH = 0 solution to 5 wells in the first column of the well plate, then added a pH = 1 solution to the 5 wells in the next column, and so on, up to pH = 7. Next, they added a drop of a given indicator (in solution) to each of the wells in a row, and then repeated this process, adding a different indicator to each row. The color of the resulting solution in each well was then recorded in Table 1 (B=blue, G=green, O=orange, P=purple, R=red, Y = yellow). 
+Table 1 Indicator Color in solution with a pH of: 0 1 2 3 4 5 6 7 Metanil yellow 
+Resorcin blue 
+Curcumin 
+Hessian bordeaux 
+Indigo carmine R 
+R
+ Y
+ B 
+B R
+ R 
+Y 
+B 
+B O 
+R 
+Y
+ B 
+B Y
+ R
+ Y 
+B
+ B Y 
+R 
+Y 
+B 
+B Y 
+P 
+Y 
+B 
+B Y
+ P 
+Y 
+B 
+B Y 
+B 
+Y 
+B 
+B 
+
+Experiment 2 
+Experiment 1 was repeated with solutions that had a pH of 8 or greater (see Table 2). 
+Table 2 Indicator Color in solution with a pH of: 8 9 10 11 12 13 14 Metanil yellow 
+Resorcin blue 
+Curcumin 
+Hessian bordeaux 
+Indigo carmine Y 
+B
+ O
+ B 
+B Y 
+B 
+R 
+R 
+B Y 
+B 
+R 
+R 
+B Y 
+B 
+R 
+R 
+B Y 
+B 
+R 
+R 
+G Y
+ B 
+R 
+R 
+Y Y 
+B
+ R
+ R
+ Y 
+Experiment 3 
+Students were given 4 solutions (Solutions I?IV) of unknown pH. The well plate was used to test samples of each solution with 4 of the 5 indicators (see Table 3). 
+Table 3 Indicator Color in Solution: I II III IV Metanil yellow 
+Resorcin blue 
+Curcumin 
+Indigo carmine Y 
+B
+ R 
+B Y 
+B 
+R 
+Y Y
+ R
+ Y
+ B O 
+R 
+Y
+ B Tables adapted from David R. Lide, ed., CRC Handbook of Chemistry and Physics, 78th ed. ©1997 by CRC Press LLC. 
+

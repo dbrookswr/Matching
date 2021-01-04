@@ -1,0 +1,6 @@
+Based on Figure 2, what was the approximate value of the acceleration of the 3.00 kg block? 
+ 00.0 m/sec2 
+ 05.0 m/sec2 
+ 15.0 m/sec2 
+ 20.0 m/sec2 
+
