@@ -1,0 +1,83 @@
+OK, so what are amino acids and proteins? Hi, I'm Christy Strong. 
+
+I'm Jennifer Utz. 
+
+And we are members of the School of Life Science. 
+
+So Christy, can you think of some examples of proteins, maybe talk about their diverse functions. 
+
+So many proteins, so little time. So collagen, right, we talk about collagen when it comes to your skin. We talk about keratin when it comes to your hair. We can talk about what makes me hungry? How do I know I'm hungry? Grehlin. Diabetes, we talk about the protein insulin. So tons of proteins. They are basically the workhorses of the cell. So they have so many roles in the cell. And in the future, you know, labs that we're going to talk about, you're going to know what the functions are. We've always talked about enzymes. So proteins can be examples of enzymes. 
+
+So many roles, such diversity. What's fantastic about them is they follow the monomer polymer rule that we've seen with our lovely carbohydrates, that we see with nucleic acids. So you have a basic building block, the monomer. And then you put that monomer with more monomers to build the polymer, which is known as the protein. 
+
+OK, so the protein is our polymer. 
+
+Correct. 
+
+That's our large chain. And our monomer is the amino acid, right? 
+
+Yes. 
+
+Do we have just one type of amino acid? 
+
+Of course not. There are 20 different types amino acids that we work with over and over and over and over again. 
+
+Right. And they're mostly similar, right? There is just one component that changes. So if we look at an amino acid, we'll see a central carbon. And then attached to that central carbon we'll see a hydrogen, we'll see an amino group that has a nitrogen, we'll see a carboxyl group that has a carbon, and then we'll see a group called the R group or sometimes the side chain. And that's the one that changes and is different from one amino acid to another to another. 
+
+Exactly. 
+
+So what happens when we need to start linking these amino acids together? How do we build that polymer of the protein? 
+
+You're going to have to do some chemical reactions, right? 
+
+We're going to need enzymes or enzymatic activity. 
+
+Yes. 
+
+OK. 
+
+And so here we actually have a protein machine that just builds the protein for us. And it's made of protein and it's made up of ribosomal RNA. So it's the ribosome. And so it's going to be able to catalyze the reaction to take one amino acid and connect it to another amino acid forming a peptide bond. 
+
+Can we just form that peptide bond anywhere, I mean, connect any group to any other group? 
+
+Nope, you're going to be doing a dehydration synthesis. 
+
+OK, again. 
+
+So the water comes out, so you can build a protein. 
+
+And where does that synthesis happen? Where does that new bond form? 
+
+So what we're see is the carboxyl group, we're going to steal an OH. 
+
+OK. 
+
+And then when we look at the amino group of the other amino acid, we're going to steal a hydrogen. 
+
+OK. 
+
+So HOH, two H's and an O, out they go. 
+
+Make water. 
+
+So the carbon in that carboxyl group is going, aah, I'm unstable. The nitrogen in the amino group is going-- 
+
+Aah, I'm unstable. 
+
+Exactly. So the ribosome is like, let me help you out. I'm going to catalyze the formation of a peptide bond, which is just a covalent bond, sharing electrons. 
+
+OK. And we can also call our many amino acids linked together a polypeptide, right? 
+
+Exactly. 
+
+We've got these many peptide bonds forming. All right, so as we link together our amino acids, we build this polypeptide, we build this protein. Do the proteins all look the same? 
+
+No. They fold up into different shapes based on their R group. 
+
+Oh, OK, so that part that changes, that R group is really important in directing the overall structure. 
+
+Exactly, because some R groups are hydrophobic. Some R groups are hydrophilic. Some R groups have charges. And so they're going to want to interact in different ways, which gives you different shapes. And shape is key to function, when we talk about proteins. 
+
+OK. And then when we get into lab, do we have tools that let us test for the presence of protein? 
+
+Yep. we're going to be looking for the peptide bonds specifically. And that is going to be using the Biuret Test. And so the students will go into more detail in an additional video on how that test works. 

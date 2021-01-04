@@ -1,0 +1,31 @@
+Lab 8, Isolating DNA. 
+
+In lab, we will be isolating DNA from a sample of epithelial cells from your mouth. You will need to properly set up the experiment in order to produce the desired end result. 
+
+When performing your experiment, it is important that you wear gloves. This is to protect your hands from the materials that you'll be using in this experiment. 
+
+Before you perform any experiment, you should mentally review the following. 1, What is being manipulated in the experiment? What is the independent variable? 
+
+2, What type of outcome is being measured? What is the dependent variable? And how are you actually measuring the outcome? Is it qualitative, like a color change, or a quantitative measure, like something measured with grams or millimeters? 
+
+Number 3, Are there controls? And if so, what are they? 
+
+And number 4, What types of predictions of outcomes can you make before actually conducting the experiment? 
+
+First, obtain a clean 15 millimeter tube and label it with your initials. Place 3 milliliters of drinking water provided by your lab instructor into this clean 15 milliliter test tube. 
+
+Gently chew the insides of your cheek for 30 seconds avoid swallowing during this time. Once the 30 seconds has been reached, pour the 3 millimeters of water from the 15 millimeter tube into your mouth and vigorously swish this liquid in your mouth for 30 seconds. Avoid swallowing during this process. 
+
+Now, carefully spit this liquid back into the 15 milliliter tube. The expelled liquid should appear cloudy in the tube because it contains some of your epithelial cells. 
+
+Using a plastic pipette, add 2 milliliters of lysis buffer to your 15 milliliter tube. Recap the tube and gently invert the solution five times. This step results in the lysis or breaking open of the epithelial cells obtained from your mouth. 
+
+Now, add 5 drops of protease to the 15 milliliter tube. Recap the tube and gently invert the solution five times. 
+
+Place the tube in the 50 degrees Celsius water bath for 10 minutes. This step results in the protease enzyme being able to effectively target and break down proteins in this sample, such as nucleases that can damage the DNA you are trying to isolate from the sample. 
+
+Remove the test tube from the water bath after 10 minutes. Now, gently and slowly add approximately 5 millimeters of ice-cold ethanol down the inside of your test tube using a pipette. 
+
+Recap your test tube and allow the test tube to sit undisturbed in a test tube rack on your lab bench for five minutes. After five minutes, you should be able to see a stringy-looking material in your test tube. This is your DNA. 
+
+If you're interested, your lab instructor can show you how to preserve your DNA in a necklace form, to take home with you after lab. 

@@ -1,0 +1,1 @@
+As you will see in lab, some of the samples you will be examining may be layered. As shown in this video, because the threads are layered, only one thread can be in focus at a time. We transition from the red thread to the blue thread to the yellow thread being in focus. 

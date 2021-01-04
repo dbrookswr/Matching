@@ -1,0 +1,21 @@
+Lab 10, Blood groups determining blood type and Rh factor. 
+
+In lab, we will be performing a series of mock blood typing tests. You will need to properly set up the experiment in order to produce the desired end result. When performing experiments, it is important that you wear your gloves to protect your hands from the materials you are using in these experiments. 
+
+Before you perform any experiment, you should mentally review the following. 1, What is being manipulated in the experiment? What is the independent variable? 
+
+2, What type of outcome is being measured? What is the dependent variable? And how are you actually measuring the outcome, is it qualitative, like a color change, or a quantitative measure, like something measured with grams or millimeters? 
+
+Number 3, Are there controls? And if so, what are they? 
+
+And number 4, What types of predictions of outcomes can you make before actually conducting the experiment? 
+
+Your instructor will provide you with a blood typing test plate, the necessary solutions, and clean toothpicks. There are three wells, or indentations, represented on the blood typing test plate, well A, well B, and well D. 
+
+Carefully add one drop of synthetic anti-A serum to the well labeled A. Carefully add one drop of synthetic anti-B serum to the well labeled B. Carefully add one drop of synthetic anti-D, Rh serum, to the well labeled D or Rh. 
+
+Carefully add one drop of the synthetic blood sample from your first unknown sample to each well in your well plate. Using a different toothpick every time, gently mix the synthetic blood and the anti-serum in each well for 30 seconds. 
+
+Examine the thin films left behind in each well following your 30-second mixing. Record whether the film appears uniform in appearance or clumpy. 
+
+If it appears uniform, that indicates a negative result. If it appears clumpy, that indicates a positive result. Collect your data for each unknown and then proceed to the data analysis component of this experiment. 
